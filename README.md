@@ -309,6 +309,10 @@ This is a list of resources for self-study of software-related topics and skills
 ## Data Science
 
 - [Data Science Tutorial](https://www.guru99.com/data-science-tutorial.html) - Guru99
+- [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - Udacity
+- [Learn Data Science](https://www.datascience.com/learn-data-science/topic/data-science) - Oracle + DataScience
+- [Learn Data Science](http://learnds.com/) - Nitin Borwankar
+- [What Is Data Science?](https://www.coursera.org/learn/what-is-datascience) - Coursera + IBM
 
 ## Data Visualization
 
