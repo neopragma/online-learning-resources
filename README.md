@@ -268,8 +268,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Cloud Computing 
 
+- [Cloud Computing: A Complete Guide](https://www.ibm.com/cloud/learn/cloud-computing) - IBM
 - [Cloud Computing Overview](https://www.tutorialspoint.com/microsoft_azure/cloud_computing_overview.htm) - Tutorials Point
 - [Cloud Computing Tutorial for Beginners](https://www.guru99.com/cloud-computing-for-beginners.html) - Guru99
+- [Cloud Concepts: Principles of Cloud Computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/) - Microsoft
+- [Introduction to Cloud Computing](https://www.ibm.com/cloud/learn) - IBM
+- [Learn Cloud Computing](https://cloudacademy.com/blog/prerequisites-to-learn-cloud-computing-introduction/) - Cloud Academy
 
 ## CodeIgniter
 
