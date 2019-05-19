@@ -277,7 +277,14 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## CodeIgniter
 
+- [CodeIgniter Tutorial](https://www.javatpoint.com/codeigniter-tutorial) - javaTpoint
+- [CodeIgniter Tutorial](https://www.tutorialspoint.com/codeigniter/) - Tutorials Point
+- [CodeIgniter Tutorial](https://www.w3adda.com/codeigniter-tutorial) - w3adda
+- [CodeIgniter Tutorial for Beginners](https://www.codexworld.com/codeigniter-tutorial-beginners-learn-codeigniter-scratch/) - Codex World
 - [CodeIgniter Tutorial for Beginners](https://www.guru99.com/codeigniter-tutorial.html) - Guru99
+- [PHP CodeIgniter - Learn CodeIgniter](https://www.udemy.com/php-codeigniter/) - Udemy
+- [PHP CodeIgniter Tutorials for Beginners](https://www.kodingmadesimple.com/2015/06/php-codeigniter-tutorials-for-beginners-step-by-step.html) - Kode Made Simple
+- [Tutorial CodeIgniter: Beginners](http://tutorialcodeigniter.com/) - Tutorial CodeIgniter
 
 ## Compiler Design
 
