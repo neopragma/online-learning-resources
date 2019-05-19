@@ -97,7 +97,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## .NET 
 
+- [.NET Application Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) - Microsoft
+- [.NET Architecture](https://www.codeguru.com/csharp/sample_chapter/article.php/c8245/The-NET-Architecture.htm) - Code Guru
+- [.NET Framework and Architecture](https://www.c-sharpcorner.com/UploadFile/puranindia/net-framework-and-architecture/) - C# Corner
 - [Microsoft Learn: .NET](https://docs.microsoft.com/en-us/search/index?search=.NET) - Microsoft
+- [Understanding .NET Framework 4.5 Architecture](https://www.dotnettricks.com/learn/netframework/understanding-net-framework-45-architecture) - Dotnet Tricks
 
 ## Accounting 
 
