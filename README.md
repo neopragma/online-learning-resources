@@ -81,6 +81,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQL](#sql)
 - [SQLite](#sqlite)
 - [SQLServer](#sqlserver)
+- [Statistics](#statistics)
 - [Swift](#swift-programming)
 - [Tableau](#tableau)
 - [Talend](#talend)
@@ -100,7 +101,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Accounting 
 
+- [Accounting Basics - Explanation](https://www.accountingcoach.com/accounting-basics/explanation) - Harold Averkamp
 - [Accounting Tutorial for Beginners](https://www.guru99.com/accounting.html) - Guru99
+- [Fundamental Accounting Concepts](https://www.accountingverse.com/accounting-basics/fundamental-accounting-concepts.html) - Accountingverse
+- [Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) - Coursera
 
 ## AngularJS 
 
@@ -409,6 +413,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Python Programming 
 
+- [Introduction to Python](http://makemeanalyst.com/python-programming/) - Make Me Analyst
 - [Learn Python](https://www.learnpython.org/) - LearnPython.org
 - [Learn Python Programming: The Definitive Guide](https://www.programiz.com/python-programming) - Parewa Labs
 - [Python Tutorial for Beginners](https://www.guru99.com/python-tutorials.html) - Guru99
@@ -420,7 +425,9 @@ This is a list of resources for self-study of software-related topics and skills
 ## R Programming
 
 - [Learn R Programming: The Definitive Guide](https://www.datamentor.io/r-programming/) - Parewa Labs
+- [R for Data Science](http://makemeanalyst.com/r-programming/) - Make Me Analyst
 - [R Programming Tutorial](https://www.guru99.com/r-tutorial.html) - Guru99
+- [R Tutorial](https://www.statmethods.net/r-tutorial/index.html) - DataCamp
 
 ## Ruby 
 
@@ -470,6 +477,19 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Microsoft Learn: SQLServer](https://docs.microsoft.com/en-us/sql/?view=sql-server-2017) - Microsoft
 - [SQLServer Tutorial for Beginners](https://www.guru99.com/ms-sql-server-tutorial.html) - Guru99
+
+## Statistics
+
+- [Basic Statistical Concepts](https://onlinecourses.science.psu.edu/statprogram/reviews/statistical-concepts) - Penn State University
+- [Basic Statistics](https://www.coursera.org/learn/basic-statistics) - Coursera
+- [Basic Statistics](https://datascienceplus.com/category/basic-statistics/) - Data Science Plus
+- [Basic Statistics for Data Analysis](http://makemeanalyst.com/basic-statistics-for-data-analysis/) - Make Me Analyst
+- [Definitions of Basic Statistical Terms](http://tutorials.istudy.psu.edu/basicstatistics/basicstatistics2.html) - Penn State University
+- [Quick-R: Basic Statistics](https://www.statmethods.net/stats/index.html) - DataCamp
+- [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) - Khan Academy
+- [Statistics Basics](https://www.statisticshowto.datasciencecentral.com/statistics-basics/) - Data Science Central
+- [The 5 Basic Statistics Concepts Data Scientists Need To Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
+- [Understand and Use Basic Statistics](https://www.wikihow.com/Understand-and-Use-Basic-Statistics) - wikiHow
 
 ## Swift Programming
 
