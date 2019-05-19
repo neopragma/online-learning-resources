@@ -6,32 +6,33 @@ This is a list of resources for self-study of software-related topics and skills
 - [ASP.NET](#aspnet)
 - [Azure](#azure)
 - [Bash](#bash)
-- [C Programming](#c-programming)
-- [C++ Programming](#c-programming-1)
-- [C# Programming](#c-programming-2)
-- [Clojure Programming](#clojure-programming)
+- [C](#c-programming)
+- [C++](#c-programming-1)
+- [C#](#c-programming-2)
+- [Clojure](#clojure-programming)
 - [CppUnit](#cppunit)
 - [ECMA Script](#ecma-script)
-- [Elixir Programming](#elixir-programming)
-- [F# Programming](#f-programming)
-- [Go Programming](#go-programming)
-- [Haskell Programming](#haskell-programming)
+- [Elixir](#elixir-programming)
+- [F#](#f-programming)
+- [Go](#go-programming)
+- [Haskell](#haskell-programming)
 - [HTML and CSS](#html-and-css)
-- [Java Programming](#java-programming)
+- [Java](#java-programming)
 - [JavaScript](#ecma-script)
-- [Kotlin Programming](#kotlin-programming)
+- [Kotlin](#kotlin-programming)
 - [Linux](#unixlinux)
 - [Microsoft](#microsoft)
 - [NuGet](#nuget)
 - [Perl](#perl)
 - [PHP](#php)
 - [PowerShell](#powershell)
-- [Python Programming](#python-programming)
-- [R Programming](#r-programming)
+- [Python](#python-programming)
+- [R](#r-programming)
 - [Ruby](#ruby)
+- [Scala](#scala)
 - [Shell](#unixlinux-shell-scripting)
 - [SQLServer](#sqlserver)
-- [Swift Programming](#swift-programming)
+- [Swift](#swift-programming)
 - [Unit testing - C++](#unit-testing---c)
 - [Unix](#unixlinux)
 - [Windows](#windows)
@@ -179,6 +180,10 @@ This is a list of resources for self-study of software-related topics and skills
 ## Ruby 
 
 - [Learn Ruby Online](https://www.learnrubyonline.org/) - learnrubyonline.org
+
+## Scala
+
+- [Learn Scala](https://www.learnscala.org/) - learnscala.org
 
 ## SQLServer
 
