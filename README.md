@@ -141,8 +141,15 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Java Programming 
 
+- [Java Tutorial](https://www.javatpoint.com/java-tutorial) - javatpoint.com
+- [Java Tutorial](https://www.tutorialspoint.com/java/) - Tutorials Point
+- [Java Tutorial](https://www.w3schools.com/java/) - w3schools.com
+- [Java Tutorial for Beginners](https://www.guru99.com/java-tutorial.html) - Guru99
+- [Java Tutorial for Beginners with Examples](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/) - Beginner's Book
+- [Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/) - Udemy
 - [Learn Java Online](https://www.learnjavaonline.org/) - LearnJavaOnline.org
 - [Learn Java Programming: The Definitive Guide](https://www.programiz.com/java-programming) - Parewa Labs
+- [The Java Tutorials](https://docs.oracle.com/javase/tutorial/) - Oracle
 
 ## Kotlin Programming
 
