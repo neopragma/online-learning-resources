@@ -4,7 +4,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [bash](#unix-linux-shell-scripting)
 - [C Programming](#c-programming)
-- [C++ Programming](#c++-programming)
+- [C++ Programming](#c-programming-1)
 - [linux](#unix-linux-shell-scripting)
 - [scripting](#unix-linux-shell-scripting)
 - [shell](#unix-linux-shell-scripting)
