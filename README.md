@@ -37,12 +37,22 @@ This is a list of resources for self-study of software-related topics and skills
 ## C Programming
 
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Tutorials](https://www.cprogramming.com/) - CProgramming.com
 
 ## C++ Programming 
 
+- [C++ Language](http://www.cplusplus.com/doc/tutorial/) - Cplusplus.com
+- [C++ Tutorial](https://www.youtube.com/watch?v=Rub-JsjMhWY) - Derek Banas
+- [C++ Tutorial](https://www.sololearn.com/Course/CPlusPlus/) - SoloLearn
+- [C++ Tutorial](https://www.tutorialspoint.com/cplusplus/) - Tutorials Point
+- [C++ Tutorial for Complete Beginners](https://www.udemy.com/free-learn-c-tutorial-beginners/) - Udemy
+- [C++ Tutorials and Courses](https://hackr.io/tutorials/learn-c-plus-plus) - *list of links*
 - [Codewars](https://www.codewars.com/) - Qualified 
-
-- [LearnCpp](https://www.learncpp.com/) - LearnCpp 
+- [Learn C++ Programming: The Definitive Guide](https://www.programiz.com/cpp-programming) - Parewa Labs
+- [Free C and C++ Courses](https://cppinstitute.org/free-c-and-c-courses) - C++ Institute
+- [Learn Cpp](https://www.learn-cpp.org/) - Learn-cpp.org
+- [LearnCpp](https://www.learncpp.com/) - LearnCpp.com
+- [Tutorials](https://www.cprogramming.com/) - CProgramming.com
 
 ## C# Programming 
 
