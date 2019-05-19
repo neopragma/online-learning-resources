@@ -159,7 +159,14 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Azure
 
+- [Azure Home](https://azure.microsoft.com/en-us/) - Microsoft
+- [Azure Learning Paths](https://cloudacademy.com/library/azure/learning-paths/) - Cloud Academy
 - [Core Cloud Services: Introduction to Azure](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/) - Microsoft
+- [Learn Azure Online](https://www.pluralsight.com/search?q=azure) - Plural Sight
+- [Learn Azure Step By Step](https://www.udemy.com/learn-azure/) - Udemy
+- [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
+- [Microsoft Azure Certification Exams](https://www.microsoft.com/en-us/learning/azure-exams.aspx) - Microsoft
+- [Microsoft Online Azure Training and Certification](https://www.microsoft.com/en-us/learning/azure-training.aspx) - Microsoft
 
 ## Bash
 
@@ -238,6 +245,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Cloud Computing 
 
+- [Cloud Computing Overview](https://www.tutorialspoint.com/microsoft_azure/cloud_computing_overview.htm) - Tutorials Point
 - [Cloud Computing Tutorial for Beginners](https://www.guru99.com/cloud-computing-for-beginners.html) - Guru99
 
 ## CodeIgniter
@@ -275,6 +283,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## DevOps 
 
 - [DevOps Tutorial](https://www.guru99.com/devops-tutorial.html) - Guru99
+- [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
 
 ## Digital Marketing 
 
