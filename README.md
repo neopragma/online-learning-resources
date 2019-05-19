@@ -67,7 +67,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Clojure Programming 
 
+- [Brave Clojure](https://www.braveclojure.com/) - Brian Higginbotham
+- [Clojure: Getting Started](https://www.clojure.org/guides/getting_started) - clojure.org
+- [Clojure Tutorial](https://www.tutorialspoint.com/clojure/) - Tutorials Point
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Learn Clojure](http://www.learn-clojure.com/) - learn-clojure.com
+- [Learn Clojure in Y Minutes](https://learnxinyminutes.com/docs/clojure/) - Learn X in Y Minutes
+- [Learning Clojure Made Easy](https://clojurecademy.com/) - Clojure Academy
 
 ## CppUnit 
 
