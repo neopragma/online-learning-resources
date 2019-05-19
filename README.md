@@ -333,7 +333,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Database Management Systems
 
+- [Database Management Essentials](https://www.coursera.org/learn/database-management) - Coursera
+- [DBMS Tutorial](https://beginnersbook.com/2015/04/dbms-tutorial/) - Beginner's Book
 - [DBMS Tutorial](https://www.guru99.com/dbms-tutorial.html) - Guru99
+- [DBMS Tutorial](https://www.tutorialspoint.com/dbms/) - Tutorials Point
+- [DBMS Tutorial](https://www.w3schools.in/dbms/) - w3schools
 
 ## DevOps 
 
