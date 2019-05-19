@@ -289,6 +289,10 @@ This is a list of resources for self-study of software-related topics and skills
 ## Compiler Design
 
 - [Compiler Design Tutorial](https://www.guru99.com/compiler-design-tutorial.html) - Guru99
+- [Compiler Design Tutorial](https://www.javatpoint.com/compiler-tutorial) - javaTpoint
+- [Compiler Design Tutorial](https://www.tutorialspoint.com/compiler_design/) - Tutorials Point
+- [Compiler Design Tutorial](https://www.wisdomjobs.com/e-university/compiler-design-tutorial-1144.html) - Wisdom Jobs
+- [Compiler Design Tutorials](https://www.geeksforgeeks.org/compiler-design-tutorials/) - Geeks for Geeks
 
 ## CppUnit 
 
