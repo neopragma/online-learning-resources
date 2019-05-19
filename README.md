@@ -185,7 +185,14 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Blockchain 
 
+- [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics/) - Coursera
+- [Blockchain Learning Center](https://www.codementor.io/learn/blockchain) - Code Mentor
 - [Blockchain Tutorial for Beginners](https://www.guru99.com/blockchain-tutorial.html) - Guru99
+- [Khan Academy: Bitcoin](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking#bitcoin) - Khan Academy
+- [Learn Blockchain Technology](https://www.udemy.com/learn-blockchain-technology/) - Udemy
+- [Learn Blockchains By Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) - Hacker Noon
+- [Smart Contracts](https://learn-blockchain.com/) - Learn Blockchain
+- [Understanding the Blockchain](https://www.oreilly.com/ideas/understanding-the-blockchain) - William Mougayar
 
 ## Business Analysis 
 
