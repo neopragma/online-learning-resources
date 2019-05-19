@@ -196,7 +196,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Business Analysis 
 
+- [5 Steps to Becoming a Business Analyst](https://www.bridging-the-gap.com/becoming-a-business-analyst/) - Laura Brandenburg
 - [Business Analyst Training for Beginners](https://www.guru99.com/business-analyst-tutorial-course.html) - Guru99
+- [Business Analysis Fundamentals](https://www.udemy.com/business-analysis-ba/) - Udemy
+- [Learn How to Do Business Analysis in 6 Processes](https://thebusinessanalystjobdescription.com/business-analysis/) - BA Job Description
 
 ## C Programming
 
@@ -548,6 +551,15 @@ This is a list of resources for self-study of software-related topics and skills
 ## TensorFlow 
 
 - [TensorFlow Tutorial](https://www.guru99.com/tensorflow-tutorial.html) - Guru99
+
+## Testing 
+
+- [12 Timeless Tips for Web Application Testing](https://www.fromdev.com/2013/03/Web-Application-Testing.html) - (author not identified) 
+- [Black Box Software Testing (article)](http://kaner.com/) - Cem Kaner
+- [Black Box Software Testing (videos)](https://www.youtube.com/watch?v=2g4EqP57l7I) - Cem Kaner
+- [Satisfice](https://www.satisfice.com/) - James Bach
+- [StickyMinds Articles on Software Testing](https://www.stickyminds.com/) - StickyMinds
+- [Udemy Software Testing Courses](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=testing) - Udemy
 
 ## Unit Testing - C++ 
 
