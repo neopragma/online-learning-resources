@@ -240,6 +240,9 @@ This is a list of resources for self-study of software-related topics and skills
 ## Cassandra 
 
 - [Cassandra Tutorial](https://www.guru99.com/cassandra-tutorial.html) - Guru99
+- [Learn Apache Cassandra from Scratch](https://www.udemy.com/learn-apache-cassandra-from-scracth/) - Udemy
+- [Learn Cassandra](https://www.tutorialspoint.com/cassandra/) - Tutorials Point
+- [Learn Cassandra Tutorial])https://www.javatpoint.com/cassandra-tutorial) - javaTpoint
 
 ## CCNA 
 
