@@ -85,6 +85,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Swift](#swift-programming)
 - [Tableau](#tableau)
 - [Talend](#talend)
+- [Test Automation](#test-automation)
+- [Testing](#testing)
 - [Unit testing - C++](#unit-testing---c)
 - [Unix](#unixlinux)
 - [VBA](#vba)
@@ -552,13 +554,23 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [TensorFlow Tutorial](https://www.guru99.com/tensorflow-tutorial.html) - Guru99
 
+## Test Automation 
+
+- [Blunders in Test Automation](https://www.infoq.com/presentations/test-automation-blunders) - Dorothy Graham
+- [Test Automation Strategies and Techniques](http://angiejones.tech/) - Angie Jones
+- [Test Automation University](https://testautomationu.applitools.com/) - Applitools
+- [Test Automation vs. Automated Testing](https://www.qasymphony.com/blog/test-automation-automated-testing/) - Kyle McMeekin
+- [Why Test Automation?](https://smartbear.com/solutions/automated-testing/) - Smart Bear
+
 ## Testing 
 
 - [12 Timeless Tips for Web Application Testing](https://www.fromdev.com/2013/03/Web-Application-Testing.html) - (author not identified) 
 - [Black Box Software Testing (article)](http://kaner.com/) - Cem Kaner
 - [Black Box Software Testing (videos)](https://www.youtube.com/watch?v=2g4EqP57l7I) - Cem Kaner
+- [Lisa Crispin's site](https://lisacrispin.com/) - Lisa Crispin
 - [Satisfice](https://www.satisfice.com/) - James Bach
 - [StickyMinds Articles on Software Testing](https://www.stickyminds.com/) - StickyMinds
+- [Testing FAQs](http://www.softwareqatest.com/) - Rick Hower
 - [Udemy Software Testing Courses](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=testing) - Udemy
 
 ## Unit Testing - C++ 
