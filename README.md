@@ -7,7 +7,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [C++ Programming](#c-programming-1)
 - [C# Programming](#c-programming-2)
 - [Clojure Programming](#clojure-programming)
-- [CppUnit](#cpp-unit)
+- [CppUnit](#cppunit)
 - [Elixir Programming](#elixir-programming)
 - [F# Programming](#f-programming)
 - [Go Programming](#go-programming)
@@ -15,7 +15,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [linux](#unix-linux-shell-scripting)
 - [scripting](#unix-linux-shell-scripting)
 - [shell](#unix-linux-shell-scripting)
-- [unit testing - C++](#unit-testing-c)
+- [unit testing - C++](#unit-testing---c)
 - [unix](#unix-linux-shell-scripting)
 
 ## Unix/Linux Shell Scripting 
