@@ -296,7 +296,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## CppUnit 
 
+- [C++ Unit Testing with CppUnit: Step By Step Tutorial](http://www.qafriend.com/unittest-cppunit-c/associating-cppunit-to-visual-studio) - QA Friend
 - [CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
+- [Crash Course In Using CppUnit](https://www.comp.nus.edu.sg/~cs3214s/tools/cppunitVC.html) - Stan Jarzabek
 
 ## CRM 
 
