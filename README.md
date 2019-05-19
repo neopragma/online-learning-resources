@@ -2,7 +2,7 @@
 
 This is a list of resources for self-study of software-related topics and skills. 
 
-- [bash](#unix-linux-shell-scripting)
+- [bash](#unixlinux-shell-scripting)
 - [C Programming](#c-programming)
 - [C++ Programming](#c-programming-1)
 - [C# Programming](#c-programming-2)
@@ -58,8 +58,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Haskell Programming 
 
-[Codewars](https://www.codewars.com/) - Qualified 
-
+- [Codewars](https://www.codewars.com/) - Qualified 
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovača
+- [Real World Haskell](http://book.realworldhaskell.org/read/) - O'Sullivan, Stewart, Goerzen
+- [Try Haskell](https://tryhaskell.org/) - Chris Done
 
 ## Unit Testing - C++ 
 
