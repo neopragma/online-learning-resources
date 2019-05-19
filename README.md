@@ -246,7 +246,15 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## CCNA 
 
+- [5 Study Tips to Prepare for the CCNA Exam](https://www.simplilearn.com/clearing-ccna-certification-top-study-tips-for-exam-rar272-article) - Simplilearn
 - [CCNA Certification Tutorial](https://www.guru99.com/introduction-ccna.html) - Guru99
+- [CCNA Practice](https://learningnetwork.cisco.com/community/certifications/ccna/ccna-exam/practice) - Cisco
+- [CCNA Practice Questions](http://www.certexams.com/cisco/ccna/exam-details.htm) - Cert Exams
+- [CCNA Routing and Switching](https://learningnetwork.cisco.com/community/certifications/ccna) - Cisco
+- [CCNA Practice Tests](https://www.learncisco.net/cisco-practice-tests.html) - Learn Cisco
+- [Free CCNA Practice Tests](http://www.practicetestbank.com/ccna/tests) - Practice Test Bank
+- [Free CCNA Workbook and Practice Exam](https://www.freeccnaworkbook.com/) - Free CCNA Workbook
+- [Preparing for the CCNA Exam](https://www.thoughtco.com/preparing-for-the-ccna-exam-4006639) - ThoughtCo
 
 ## Clojure Programming 
 
