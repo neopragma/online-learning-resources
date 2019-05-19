@@ -12,8 +12,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [F# Programming](#f-programming)
 - [Go Programming](#go-programming)
 - [Haskell Programming](#haskell-programming)
+- [Java Programming](#java-programming)
+- [Kotlin Programming](#kotlin-programming)
 - [Linux](#unixlinux)
+- [Python Programming](#python-programming)
+- [R Programming](#r-programming)
 - [Shell](#unixlinux-shell-scripting)
+- [Swift Programming](#swift-programming)
 - [Unit testing - C++](#unit-testing---c)
 - [Unix](#unixlinux)
 - [Windows Subsystem for Linux](#windows-subsystem-for-linux)
@@ -29,13 +34,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Bash Scripts Tutorial](https://www.youtube.com/watch?v=QGvvJO5UIs4) - Kris Occhipinti
 - [Learn Bash Shell In Linux for Beginners](https://www.udemy.com/learn-bash-shell-in-linux-for-beginners/) - Udemy
 - [Learning Bash Scripting](https://www.lynda.com/Bash-tutorials/Learning-Bash-Scripting/142989-2.html) - Scott Simpson
-- [Learning Bash Scripting for Beginners](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/) - *a list of links*
+- [Learning Bash Scripting for Beginners](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/) - *list of links*
 - [The Bash Academy](https://www.bash.academy/) - (author not identified)
 - [The Bash Guide](https://guide.bash.academy/) - Maarten Billemont
 
 
 ## C Programming
 
+- [C Tutorial](https://www.programiz.com/c-programming) - Parewa Labs
 - [Codewars](https://www.codewars.com/) - Qualified 
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
 
@@ -47,6 +53,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [C++ Tutorial](https://www.tutorialspoint.com/cplusplus/) - Tutorials Point
 - [C++ Tutorial for Complete Beginners](https://www.udemy.com/free-learn-c-tutorial-beginners/) - Udemy
 - [C++ Tutorials and Courses](https://hackr.io/tutorials/learn-c-plus-plus) - *list of links*
+- [C++11 Tutorial](https://thispointer.com/c11-tutorial/) - thispointer.com
 - [Codewars](https://www.codewars.com/) - Qualified 
 - [Learn C++ Programming: The Definitive Guide](https://www.programiz.com/cpp-programming) - Parewa Labs
 - [Free C and C++ Courses](https://cppinstitute.org/free-c-and-c-courses) - C++ Institute
@@ -84,6 +91,27 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovača
 - [Real World Haskell](http://book.realworldhaskell.org/read/) - O'Sullivan, Stewart, Goerzen
 - [Try Haskell](https://tryhaskell.org/) - Chris Done
+
+## Java Programming 
+
+- [Learn Java Programming: The Definitive Guide](https://www.programiz.com/java-programming) - Parewa Labs
+
+## Kotlin Programming
+
+- [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
+
+## Python Programming 
+
+- [Learn Python Programming: The Definitive Guide](https://www.programiz.com/python-programming) - Parewa Labs
+
+## R Programming
+
+- [Learn R Programming: The Definitive Guide](https://www.datamentor.io/r-programming/) - Parewa Labs
+
+## Swift Programming
+
+- [Swift Tutorial](https://www.programiz.com/swift-programming) - Parewa Labs
+
 
 ## Unit Testing - C++ 
 
