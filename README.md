@@ -303,6 +303,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## CRM 
 
 - [SAP CRM Tutorial](https://www.guru99.com/sap-crm-training.html) - Guru99
+- [The Beginner's Guide to CRM](https://zapier.com/learn/crm/what-is-a-crm/) - Matthew Guay
+- [What is CRM?](https://dynamics.microsoft.com/en-us/crm/what-is-crm/) - Microsoft
 
 ## Data Science
 
