@@ -339,7 +339,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Learn JavaScript](https://www.learn-js.org/) - learn-js.org
 
-## Elixir Programming 
+## Elixir
 
 - [Codewars](https://www.codewars.com/) - Qualified 
 
@@ -360,11 +360,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Excel Tutorial](https://www.guru99.com/excel-tutorials.html) - Guru99
 
-## F# Programming 
+## F#
 
 - [Codewars](https://www.codewars.com/) - Qualified 
 
-## Go Programming 
+## Go
 
 - [Codewars](https://www.codewars.com/) - Qualified 
 - [Go Programming Language Tutorial](https://www.guru99.com/google-go-tutorial.html) - Guru99
@@ -374,7 +374,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Hadoop Tutorial](https://www.guru99.com/bigdata-tutorials.html) - Guru99
 
-## Haskell Programming 
+## Haskell
 
 - [Codewars](https://www.codewars.com/) - Qualified 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovača
@@ -397,7 +397,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Informatica Tutorial](https://www.guru99.com/informatica-tutorials.html) - Guru99
 
-## Java Programming 
+## Java
 
 - [Java Tutorial](https://www.javatpoint.com/java-tutorial) - javatpoint.com
 - [Java Tutorial](https://www.tutorialspoint.com/java/) - Tutorials Point
@@ -418,7 +418,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [JSP Tutorial for Beginners](https://www.guru99.com/jsp-tutorial.html) - Guru99
 
-## Kotlin Programming
+## Kotlin
 
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
 
@@ -492,7 +492,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Project Management Tutorial](https://www.guru99.com/project-management-methodology.html) - Guru99
 
-## Python Programming 
+## Python
 
 - [Introduction to Python](http://makemeanalyst.com/python-programming/) - Make Me Analyst
 - [Learn Python](https://www.learnpython.org/) - LearnPython.org
@@ -503,7 +503,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [PyTorch Tutorial](https://www.guru99.com/pytorch-tutorial.html) - Guru99
 
-## R Programming
+## R
 
 - [Learn R Programming: The Definitive Guide](https://www.datamentor.io/r-programming/) - Parewa Labs
 - [R for Data Science](http://makemeanalyst.com/r-programming/) - Make Me Analyst
@@ -572,7 +572,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [The 5 Basic Statistics Concepts Data Scientists Need To Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
 - [Understand and Use Basic Statistics](https://www.wikihow.com/Understand-and-Use-Basic-Statistics) - wikiHow
 
-## Swift Programming
+## Swift
 
 - [Swift Tutorial](https://www.programiz.com/swift-programming) - Parewa Labs
 
