@@ -112,11 +112,25 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## AngularJS 
 
+- [10 Best Tutorials to Learn AngularJS](https://www.hongkiat.com/blog/angularjs-tutorials-screencast/) - *list of links*
+- [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs) - Thinkster
+- [Angular Tutorials](https://hackr.io/tutorials/learn-angular) - *list of links*
+- [AngularJS Learning Paths](https://www.pluralsight.com/paths/angular-js) - Plural Sight
+- [AngularJS Tutorial](https://docs.angularjs.org/tutorial/) - Angular
 - [AngularJS Tutorial](https://www.guru99.com/angularjs-tutorial.html) - Guru99
+- [AngularJS Tutorial](https://www.w3schools.com/angular/) - w3schools
+- [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/) - Udemy
+- [Learn AngularJS 1.x](https://www.codecademy.com/learn/learn-angularjs) - Code Academy
+- [Learn AngularJS Step By Step](https://www.learnangularjs.net/) - learnangularjs.net
+- [Write Code. Learn Angular.](http://www.learn-angular.org/) - learn-angular.org
 
 ## Apache 
 
+- [An Introduction to Apache](https://code.tutsplus.com/tutorials/an-introduction-to-apache--net-25786) - Tuts Plus
+- [Apache HTTP Server Documentation](https://httpd.apache.org/docs/) - Apache HTTP Server Project
 - [Apache Tutorials for Beginners](https://www.guru99.com/apache.html) - Guru99
+- [Complete Apache HTTP Server Course](https://www.udemy.com/apache-web-server-administration/) - Udemy
+- [Learn How to Configure Apache](https://www.techrepublic.com/article/learn-how-to-configure-apache/) - Tech Republic
 
 ## Artificial Intelligence 
 
@@ -128,7 +142,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## ASP.NET 
 
+- [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp) - w3schools
+- [ASP.NET Home](https://dotnet.microsoft.com/apps/aspnet) - Microsoft
 - [ASP.NET Tutorial for Beginners](https://www.guru99.com/asp-net-tutorial.html) - Guru99
+- [Learn ASP.NET](https://www.codeproject.com/Learn/ASPNET/) - CodeProject
+- [Learn ASP.NET: 30 Tutorials](https://stackify.com/learn-asp-net-tutorials/) - *list of links*
 - [Microsoft Learn: ASP.NET](https://docs.microsoft.com/en-us/aspnet/) - Microsoft
 
 ## AWS 
