@@ -151,7 +151,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## AWS 
 
+- [AWS Training and Certification](https://aws.amazon.com/training/) - Amazon
 - [AWS Tutorial for Beginners](https://www.guru99.com/aws-tutorial.html) - Guru99
+- [Introduction to AWS](https://acloud.guru/learn/aws-technical-essentials) - A Cloud Guru
+- [Introduction to AWS Fargate](https://www.learnaws.org/) - learnaws.org
+- [Learn Amazon Web Services: Complete Introduction](https://www.udemy.com/learn-amazon-web-services-the-complete-introduction/) - Udemy
 
 ## Azure
 
