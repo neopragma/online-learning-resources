@@ -2,7 +2,7 @@
 
 This is a list of resources for self-study of software-related topics and skills. 
 
-- [bash](#unixlinux-shell-scripting)
+- [Bash](#bash)
 - [C Programming](#c-programming)
 - [C++ Programming](#c-programming-1)
 - [C# Programming](#c-programming-2)
@@ -12,49 +12,49 @@ This is a list of resources for self-study of software-related topics and skills
 - [F# Programming](#f-programming)
 - [Go Programming](#go-programming)
 - [Haskell Programming](#haskell-programming)
-- [linux](#unix-linux-shell-scripting)
-- [scripting](#unix-linux-shell-scripting)
-- [shell](#unix-linux-shell-scripting)
-- [unit testing - C++](#unit-testing---c)
-- [unix](#unix-linux-shell-scripting)
+- [Linux](#unixlinux)
+- [Shell](#unixlinux-shell-scripting)
+- [Unit testing - C++](#unit-testing---c)
+- [Unix](#unixlinux)
 
-## Unix/Linux Shell Scripting 
+## Bash
 
-[Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite
+- [The Bash Academy](https://www.bash.academy/) - (author not identified)
+
 
 ## C Programming
 
-[Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified 
 
 ## C++ Programming 
 
-[Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified 
 
-[LearnCpp](https://www.learncpp.com/) - LearnCpp 
+- [LearnCpp](https://www.learncpp.com/) - LearnCpp 
 
 ## C# Programming 
 
-[Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified 
 
 ## Clojure Programming 
 
-[Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified 
 
 ## CppUnit 
 
-[CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
+- [CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
 
 ## Elixir Programming 
 
-[Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified 
 
 ## F# Programming 
 
-[Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified 
 
 ## Go Programming 
 
-[Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified 
 
 ## Haskell Programming 
 
@@ -65,4 +65,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Unit Testing - C++ 
 
-[CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
+- [CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
+
+## Unix/Linux 
+
+- [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/) - Ryan Chadwick
+- [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite
+
