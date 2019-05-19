@@ -323,7 +323,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Data Warehousing 
 
+- [Data Warehouse](http://www.zentut.com/data-warehouse/) - Zentut
+- [Data Warehouse Concepts](https://learndatamodeling.com/blog/data-warehouse-concepts/) - Learn Data Modeling
+- [Data Warehouse Tutorial](https://intellipaat.com/tutorial/data-warehouse-tutorial/) - IntelliPaat
+- [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing) - Coursera
 - [Data Warehousing Tutorial](https://www.guru99.com/data-warehousing-tutorial.html) - Guru99
+- [Data Warehousing Tutorial](https://www.tutorialspoint.com/dwh/) - Tutorials Point
+- [Learn Data Warehousing From Scratch](https://www.udemy.com/learn-data-warehousing-from-solution-architect/) - Udemy
 
 ## Database Management Systems
 
