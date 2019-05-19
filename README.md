@@ -316,6 +316,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Data Visualization
 
+- [All Data Visualization Courses](https://www.datacamp.com/courses/topic:data_visualization) - DataCamp
+- [Data Visualization](https://www.coursera.org/learn/datavisualization/) - Coursera
+- [Data Visualization in Python](https://www.codecademy.com/learn/data-visualization-python) - Code Academy
 - [Tableau Tutorial](https://www.guru99.com/tableau-tutorial.html) - Guru99
 
 ## Data Warehousing 
