@@ -2,26 +2,53 @@
 
 This is a list of resources for self-study of software-related topics and skills. 
 
+- [.NET](#net)
+- [ASP.NET](#aspnet)
+- [Azure](#azure)
 - [Bash](#bash)
 - [C Programming](#c-programming)
 - [C++ Programming](#c-programming-1)
 - [C# Programming](#c-programming-2)
 - [Clojure Programming](#clojure-programming)
 - [CppUnit](#cppunit)
+- [ECMA Script](#ecma-script)
 - [Elixir Programming](#elixir-programming)
 - [F# Programming](#f-programming)
 - [Go Programming](#go-programming)
 - [Haskell Programming](#haskell-programming)
+- [HTML and CSS](#html-and-css)
 - [Java Programming](#java-programming)
+- [JavaScript](#ecma-script)
 - [Kotlin Programming](#kotlin-programming)
 - [Linux](#unixlinux)
+- [Microsoft](#microsoft)
+- [NuGet](#nuget)
+- [Perl](#perl)
+- [PHP](#php)
+- [PowerShell](#powershell)
 - [Python Programming](#python-programming)
 - [R Programming](#r-programming)
+- [Ruby](#ruby)
 - [Shell](#unixlinux-shell-scripting)
+- [SQLServer](#sqlserver)
 - [Swift Programming](#swift-programming)
 - [Unit testing - C++](#unit-testing---c)
 - [Unix](#unixlinux)
+- [Windows](#windows)
 - [Windows Subsystem for Linux](#windows-subsystem-for-linux)
+- [Xamarin](#xamarin)
+
+## .NET 
+
+- [Microsoft Learn: .NET](https://docs.microsoft.com/en-us/search/index?search=.NET) - Microsoft
+
+## ASP.NET 
+
+- [Microsoft Learn: ASP.NET](https://docs.microsoft.com/en-us/aspnet/) - Microsoft
+
+## Azure
+
+- [Core Cloud Services: Introduction to Azure](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/) - Microsoft
 
 ## Bash
 
@@ -38,11 +65,11 @@ This is a list of resources for self-study of software-related topics and skills
 - [The Bash Academy](https://www.bash.academy/) - (author not identified)
 - [The Bash Guide](https://guide.bash.academy/) - Maarten Billemont
 
-
 ## C Programming
 
 - [C Tutorial](https://www.programiz.com/c-programming) - Parewa Labs
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Learn C](https://www.learn-c.org/) - learn-c.org
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
 
 ## C++ Programming 
@@ -55,15 +82,19 @@ This is a list of resources for self-study of software-related topics and skills
 - [C++ Tutorials and Courses](https://hackr.io/tutorials/learn-c-plus-plus) - *list of links*
 - [C++11 Tutorial](https://thispointer.com/c11-tutorial/) - thispointer.com
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Learn C++](https://www.learn-cpp.org/) - learn-cpp.org
 - [Learn C++ Programming: The Definitive Guide](https://www.programiz.com/cpp-programming) - Parewa Labs
 - [Free C and C++ Courses](https://cppinstitute.org/free-c-and-c-courses) - C++ Institute
 - [Learn Cpp](https://www.learn-cpp.org/) - Learn-cpp.org
 - [LearnCpp](https://www.learncpp.com/) - LearnCpp.com
+- [Microsoft Learn: C++](https://docs.microsoft.com/en-us/cpp/?view=vs-2019) - Microsoft
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
 
 ## C# Programming 
 
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Free C# Interactive Tutorial](https://learncs.org/) - LearnCS.org
+- [Microsoft Learn: C#](https://docs.microsoft.com/en-us/search/index?search=C%23) - Microsoft
 
 ## Clojure Programming 
 
@@ -79,6 +110,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
 
+## ECMA Script
+
+- [Learn JavaScript](https://www.learn-js.org/) - learn-js.org
+
 ## Elixir Programming 
 
 - [Codewars](https://www.codewars.com/) - Qualified 
@@ -90,6 +125,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## Go Programming 
 
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Learn Golang](https://www.learn-golang.org/) - learn-golang.org
 
 ## Haskell Programming 
 
@@ -98,26 +134,59 @@ This is a list of resources for self-study of software-related topics and skills
 - [Real World Haskell](http://book.realworldhaskell.org/read/) - O'Sullivan, Stewart, Goerzen
 - [Try Haskell](https://tryhaskell.org/) - Chris Done
 
+## HTML and CSS 
+
+- [Learn HTML and CSS](https://www.learn-html.org/) - learn-html.org
+
 ## Java Programming 
 
+- [Learn Java Online](https://www.learnjavaonline.org/) - LearnJavaOnline.org
 - [Learn Java Programming: The Definitive Guide](https://www.programiz.com/java-programming) - Parewa Labs
 
 ## Kotlin Programming
 
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
 
+## Microsoft
+
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/) - Microsoft
+
+## NuGet
+
+- [Microsoft Learn: NuGet](https://docs.microsoft.com/en-us/nuget/) - Microsoft
+
+## Perl 
+
+- [Learn Perl](https://www.learn-perl.org/) - learn-perl.org
+
+## PHP
+
+- [Learn PHP](https://www.learn-php.org/) - learn-php.org
+
+## PowerShell 
+
+- [Microsoft Learn: PowerShell](https://docs.microsoft.com/en-us/powershell/) - Microsoft
+
 ## Python Programming 
 
+- [Learn Python](https://www.learnpython.org/) - LearnPython.org
 - [Learn Python Programming: The Definitive Guide](https://www.programiz.com/python-programming) - Parewa Labs
 
 ## R Programming
 
 - [Learn R Programming: The Definitive Guide](https://www.datamentor.io/r-programming/) - Parewa Labs
 
+## Ruby 
+
+- [Learn Ruby Online](https://www.learnrubyonline.org/) - learnrubyonline.org
+
+## SQLServer
+
+- [Microsoft Learn: SQLServer](https://docs.microsoft.com/en-us/sql/?view=sql-server-2017) - Microsoft
+
 ## Swift Programming
 
 - [Swift Tutorial](https://www.programiz.com/swift-programming) - Parewa Labs
-
 
 ## Unit Testing - C++ 
 
@@ -129,12 +198,23 @@ This is a list of resources for self-study of software-related topics and skills
 - [Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) - Code Academy
 - [Learn Linux YouTube Channel](https://www.youtube.com/channel/UCfp-lNJy4QkIGnaEE6NtDSg) - [TerminalForLife](https://github.com/terminalforlife)
 - [LearnShell.org](https://www.learnshell.org/) - (author not identified)
+- [Linux From Scratch](http://www.linuxfromscratch.org/) - Gerard Beekmans
 - [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite
 - [Linux Survival](https://linuxsurvival.com/) - Guy Hummel 
 - [Linux.com Tutorials](https://www.linux.com/tutorials) - The Linux Foundation
 - [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/) - Ryan Chadwick
 - [The Complete Beginner's Guide to Linux](https://www.linux.com/learn/complete-beginners-guide-Linux%20) - Jack Wallen
 
+## Windows 
+
+- [Microsoft Learn: Windows](https://docs.microsoft.com/en-us/windows/) - Microsoft
+
 ## Windows Subsystem for Linux 
 
 - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about) - Microsoft
+
+## Xamarin
+
+- [Microsoft Learn: Xamarin](https://docs.microsoft.com/en-us/xamarin/) - Microsoft
+
+
