@@ -171,6 +171,7 @@ This is a list of resources for self-study of software-related topics and skills
 ### - T - ###
 
 - [Tableau](#tableau)
+- [Tachyons](#tachyons)
 - [Talend](#talend)
 - [Terraform](#terraform)
 - [Test Automation](#test-automation)
@@ -527,6 +528,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn JavaScript](https://www.learn-js.org/) - learn-js.org
 - [Learn JavaScript for Beginners](https://www.udemy.com/learn-javascript-course/) - Udemy
 - [Learn JavaScript: Full Course for Beginners (Video)](https://www.youtube.com/watch?v=PkZNo7MFNFg) - freeCodeCamp.org
+- [To Do List JavaScript Tutorial](https://github.com/dwyl/todo-list-javascript-tutorial) - dwyl
 - [Try JavaScript Online (Simulator)](https://www.javascript.com/try) - Plural Sight
 
 ## Elixir
@@ -555,6 +557,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Elm Home](https://elm-lang.org/) - elm-lang.org
 - [Elm Documentation](https://elm-lang.org/docs) - elm-lang.org
 - [Getting Started With the Elm Language](https://riptutorial.com/elm) - Rip Tutorial
+- [Learn Elm](https://github.com/dwyl/learn-elm) - dwyl
 
 ## Erlang
 
@@ -685,7 +688,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/) - Shay Howe
 - [Rendera - Online HTML/CSS Testing](http://rendera.herokuapp.com/) - Brian Hogan
 - [W3C Markup Validation Service](https://validator.w3.org/) - W3C
-- also see [Haml](#haml), [Sass](#sass), [Less](#less)
+- also see [Haml](#haml), [Sass](#sass), [Less](#less), Tachyons(#tachyons)
 
 ## Informatica
 
@@ -1108,6 +1111,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Tableau Tutorial](https://www.guru99.com/tableau-tutorial.html) - Guru99
 
+## Tachyons 
+
+- [Learn Tachyons](https://github.com/dwyl/learn-tachyons) - dwyl
+- [Overview of Tachyons](http://tachyons.io/docs/) - tachyons.io
+- [Tachyons Style Guide](http://tachyons.io/#style) - tachyons.io
+
 ## Talend 
 
 - [Talend Tutorial](https://www.guru99.com/talend-tutorial.html) - Guru99
@@ -1131,6 +1140,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Test-Driven Development 
 
+- [Learn TDD Using JavaScript](https://github.com/dwyl/learn-tdd) - dwyl
 - [Swift TDD: Test-Driven Development for Swift](https://www.udemy.com/tdd-swift/) - Udemy
 
 ## Testing 
