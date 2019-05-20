@@ -160,6 +160,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Scala](#scala)
 - [Scheme](#scheme)
 - [SCSS](#sass)
+- [Semantic Versioning](#semantic-versioning)
 - [Servlets](#servlets)
 - [Shell](#unixlinux-shell-scripting)
 - [Sinatra](#sinatra)
@@ -1081,6 +1082,12 @@ This is a list of resources for self-study of software-related topics and skills
 - [Best Scheme Tutorials](https://hackr.io/tutorials/learn-scheme) - hackr.io *list of links*
 - [Learn Scheme in 15 Minutes](https://web-artanis.com/scheme.html) - Artanis
 - [Scheme Tutorial](http://roboguy.net/tutorials/scheme.php) - Roboguy
+
+## Semantic Versioning 
+
+- [A Simple Guide to Semantic Versioning](https://www.jvandemo.com/a-simple-guide-to-semantic-versioning/) - Jurgen van de Moere
+- [Semantic Versioning 2.0.0](https://semver.org/) - SemVer
+- [Semantic Versioning: What It Is, Isn't, and Why You Need It](https://www.elegantthemes.com/blog/wordpress/semantic-versioning) - John Hughes
 
 ## Servlets 
 
