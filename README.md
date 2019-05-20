@@ -508,7 +508,14 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Ethical Hacking 
 
+- [10 Best Websites to Learn Ethical Hacking Online](https://www.technotification.com/2018/04/websites-for-ethical-hacking-2.html) - Vicky Singh Rao *list of links*
+- [Best Ethical Hacking Online Courses](https://top10onlinecourses.com/best-ethical-hacking-online-courses/) - Catherine Nova *list of links*
+- [Learn Hacking](https://www.learnhacking.net/) - *list of links*
 - [Ethical Hacking Tutorial](https://www.guru99.com/ethical-hacking-tutorials.html) - Guru99
+- [Ethical Hacking Tutorial](https://www.tutorialspoint.com/ethical_hacking/) - Tutorials Point
+- [Ethical Hacking Tutorials](https://www.ethicalhackingtutorials.com/) - Ethical Hacking Tutorials
+- [Learn Ethical Hacking from Scratch](https://www.udemy.com/learn-ethical-hacking-from-scratch/) - Udemy
+- [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) - Ken Underhill
 
 ## ETL 
 
