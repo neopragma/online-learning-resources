@@ -1049,6 +1049,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Specification by Example
 
+- [3 Ways Specification by Example and Gherkin Improve Collaboration](https://dzone.com/articles/3-ways-specification-by-example-with-gherkin-reduc) - Kamil Nicieja
+- [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example) - Alister Scott
+- [Specification by Example](https://gojko.net/books/specification-by-example/) - Gojko Adzic
+- [Specification by Example (slides)](https://www.slideshare.net/dwhelan/specification-by-example-12983304) - Declan Whelan
+- [Specification by Example vs. Behaviour Driven Development](http://itsadeliverything.com/specification-by-example-versus-behaviour-driven-development) - Steven Thomas
+
 ## SQL
 
 - [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
