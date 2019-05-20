@@ -835,6 +835,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## OCaml
 
+- [Best OCaml Tutorials](https://hackr.io/tutorials/learn-ocaml) - hackr.io *list of links*
+- [Learn OCaml in Y Minutes](https://learnxinyminutes.com/docs/ocaml/) - Learn X in Y Minutes
+- [Tutorials and FAQ](https://ocaml.org/learn/) - ocaml.org
+- [Try OCaml](https://try.ocamlpro.com/learn-ocaml-demo/) - OCaml Pro
+
 ## Perl 
 
 - [Learn Perl](https://www.learn-perl.org/) - learn-perl.org
