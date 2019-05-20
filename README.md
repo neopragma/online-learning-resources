@@ -163,6 +163,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Tableau](#tableau)
 - [Talend](#talend)
+- [Terraform](#terraform)
 - [Test Automation](#test-automation)
 - [Testing](#testing)
 
@@ -679,7 +680,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Infrastructure As Code 
 
+- [Infrastructure As Code](https://infrastructure-as-code.com/) - Kief Morris
 - [Infrastructure As Code](https://www.quickstart.com/infrastructure-as-code.html) - QuickStart
+- [Infrastructure As Code: A Reason To Smile](https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile) - Jafari Sitakange
+- [Infrastructure As Code: Modern Approach to Managing Infrastructure](https://puppet.com/solutions/infrastructure-as-code) - Puppet Labs
+- [Infrastructure As Code Tutorial](https://hackernoon.com/infrastructure-as-code-tutorial-e0353b530527) - Hacker Noon
+- [What Is Infrastructure as Code?](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code) - Microsoft
 
 ## Java
 
@@ -909,6 +915,11 @@ This is a list of resources for self-study of software-related topics and skills
 ## TensorFlow 
 
 - [TensorFlow Tutorial](https://www.guru99.com/tensorflow-tutorial.html) - Guru99
+
+## Terraform
+
+- [Learn About Provisioning Infrastructure With Terraform](https://learn.hashicorp.com/terraform/) - HashiCorp
+- [Learn DevOps: Infrstructure Automation with Terraform(https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/) - Udemy]
 
 ## Test Automation 
 
