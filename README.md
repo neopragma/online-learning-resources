@@ -15,6 +15,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [AngularJS](#angularjs)
 - [Apache](#apache)
+- [API Design](#api-design)
 - [APO](#sap)
 - [Artificial Intelligence](#artificial-intelligence)
 - [ASP.NET](#aspnet)
@@ -169,6 +170,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQLServer](#sqlserver)
 - [SSIS](#ssis)
 - [Statistics](#statistics)
+- [Swagger](#swagger)
 - [Swift](#swift)
 
 ### - T - ###
@@ -281,6 +283,11 @@ This is a list of resources for self-study of software-related topics and skills
 - [Apache Tutorials for Beginners](https://www.guru99.com/apache.html) - Guru99
 - [Complete Apache HTTP Server Course](https://www.udemy.com/apache-web-server-administration/) - Udemy
 - [Learn How to Configure Apache](https://www.techrepublic.com/article/learn-how-to-configure-apache/) - Tech Republic
+
+## API Design 
+
+- [API Design Guidelines - Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) - Microsoft
+- [API Design Guide - Google Cloud](https://cloud.google.com/apis/design/) - Google
 
 ## Artificial Intelligence 
 
@@ -1143,6 +1150,11 @@ This is a list of resources for self-study of software-related topics and skills
 - [Statistics Basics](https://www.statisticshowto.datasciencecentral.com/statistics-basics/) - Data Science Central
 - [The 5 Basic Statistics Concepts Data Scientists Need To Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
 - [Understand and Use Basic Statistics](https://www.wikihow.com/Understand-and-Use-Basic-Statistics) - wikiHow
+
+## Swagger
+
+- [API Design: Swagger](https://swagger.io/solutions/api-design/) - Swagger.io
+- [Open API Designer](https://openapi.design/) - Open API
 
 ## Swift
 
