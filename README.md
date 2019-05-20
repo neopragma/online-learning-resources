@@ -561,6 +561,14 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Erlang
 
+- [Erlang Programming For Beginners](https://www.udemy.com/erlang-programming-for-beginners/) - Udemy
+- [Erlang Tutorial](https://www.tutorialspoint.com/erlang/) - Tutorials Point
+- [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang) - Future Learn
+- [Getting Started](http://erlang.org/faq/getting_started.html) - erlang.org
+- [Introduction to Programming in Erlang](https://www.ibm.com/developerworks/library/os-erlang1/index.html) - Martin Brown
+- [Learn Erlang in Y Minutes](https://learnxinyminutes.com/docs/erlang/) - Learn X in Y Minutes
+- [Learn You Some Erlang For Great Good!](https://learnyousomeerlang.com/) - Fred Hebert
+
 ## ERP 
 
 - [ERP](http://www.academictutorials.com/erp/) - Academic Tutorials
@@ -1150,7 +1158,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [TDD C++ Embedded](https://wingman-sw.com/training/tdd-embedded-cpp) - James Grenning
 - [TDD C#](https://www.c-sharpcorner.com/uploadfile/dommym/a-test-driven-development-tutorial-in-C-Sharp-4-0/) - C# Corner
 - [TDD Cocoa Touch](https://learntdd.in/cocoa-touch/) - Learn TDD in
+- [TDD Elixir](https://til.codes/tdd-in-elixir-with-exdoc-and-doctests/) - Manu S. Ajith
+- [TDD Elm](https://medium.com/quick-bytes/tdd-with-elm-part-1-40ab3b286a82) - Mountain Goat
 - [TDD Ember](https://learntdd.in/ember/) - Learn TDD in
+- [TDD Erlang](https://erlcode.wordpress.com/2010/08/30/erlang-eunit-introduction/) - Erlcode
 - [TDD F#](https://zpbappi.com/simple-calculator-using-tdd-in-fsharp-part-1/) - Zp Bappi
 - [TDD Java](https://javabeat.net/test-driven-development-in-java/) - Java Beat
 - [TDD Java](https://www.udemy.com/learn-tdd-in-java/) - Udemy
