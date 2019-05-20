@@ -1377,7 +1377,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## XML Schema 
 
-- [XML Schema(https://www.w3.org/standards/xml/schema) - W3C
+- [XML Schema](https://www.w3.org/standards/xml/schema) - W3C
 - [XML Schemas](https://www.tutorialspoint.com/xml/xml_schemas.htm) - Tutorials Point
 - [Understanding XML Schemas](https://www.xml.com/pub/a/1999/07/schemas/index.html) - XML.com
 
