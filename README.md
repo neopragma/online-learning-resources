@@ -793,7 +793,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Natural Language Processing 
 
+- [Learn NLP from Beginner to Expert](https://www.commonlounge.com/discussion/c1f472553ece4d68bad9bd423fb775cf) - Common Lounge
+- [NLP](https://www.coursera.org/learn/language-processing) - Coursera
+- [NLP for Machine Learning](https://towardsdatascience.com/natural-language-processing-nlp-for-machine-learning-d44498845d5b) - Badreesh Shetty
+- [NLP Tutorial](https://www.tutorialkart.com/natural-language-processing/) - Tutorial Kart
+- [NLP (Video)](https://tutorials.datasciencedojo.com/natural-language-processing/) - Data Science Dojo
 - [NLTK Toolkit Tutorial with Python](https://www.guru99.com/nltk-tutorial.html) - Guru99
+- also see [Data Science](#data-science)
 
 ## NiFi 
 
