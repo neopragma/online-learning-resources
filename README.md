@@ -558,8 +558,17 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Go
 
+- [Top 30 Go Tutorials](https://stackify.com/learn-go-tutorials/) - Stackify *list of links*
+- [A Tour of Go](https://tour.golang.org/welcome/1) - golang.org
+- [An Introductory Golang Tutorial](https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial) - Brendon Hogger
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Go By Example](https://gobyexample.com/) - Mark McGranaghan
+- [Go Overview](https://www.tutorialspoint.com/go/go_overview.htm) - Tutorials Point
 - [Go Programming Language Tutorial](https://www.guru99.com/google-go-tutorial.html) - Guru99
+- [Go Tutorial](https://www.tutorialspoint.com/go/) - Tutorials Point
+- [Go Tutorial 1](https://www.thoughtco.com/learn-to-program-go-tutorial-one-958209) - ThoughtCo
+- [Golang Home](https://golang.org/) - golang.org
+- [Golang Tutorial Series](https://golangbot.com/learn-golang-series/) - GolangBot
 - [Learn Golang](https://www.learn-golang.org/) - learn-golang.org
 
 ## Hadoop 
