@@ -1016,6 +1016,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Sinatra
 
+- [Just Do It: Learn Sinatra](https://www.sitepoint.com/just-do-it-learn-sinatra-i/) - SitePoint
+- [Sinatra Documentation](http://sinatrarb.com/documentation.html) - Sinatra
+
 ## Software Engineering 
 
 - [Software Engineering Tutorial](https://www.guru99.com/software-engineering-tutorial.html) - Guru99
