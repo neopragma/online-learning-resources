@@ -774,7 +774,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## MongoDB
 
-- [MopngoDB in 30 Minutes (Video)](https://www.youtube.com/watch?v=pWbMrx5rVBE) - Traversy Media
+- [MongoDB in 30 Minutes (Video)](https://www.youtube.com/watch?v=pWbMrx5rVBE) - Traversy Media
 - [MongoDB Tutorial](https://www.guru99.com/mongodb-tutorials.html) - Guru99
 - [MongoDB Tutorial](https://www.javatpoint.com/mongodb-tutorial) - javaTpoint
 - [MongoDB Tutorial](https://www.tutorialkart.com/mongodb/mongodb-tutorial/) - Tutorial Kart
