@@ -843,6 +843,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## Perl 
 
 - [Learn Perl](https://www.learn-perl.org/) - learn-perl.org
+- [Learning Perl](https://www.learning-perl.com/) - Brian Foy
+- [Perl Tutorial](https://www.tutorialspoint.com/perl/) - Tutorials Point
 - [Perl Tutorial for Beginners](https://www.guru99.com/perl-tutorials.html) - Guru99
 
 ## Photoshop
