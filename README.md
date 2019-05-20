@@ -96,7 +96,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ### - K - ###
 
-- [Keras](#artificial-intelligence)
+- [Keras](#keras)
 - [Kotlin](#kotlin-programming)
 
 ### - L - ###
@@ -136,6 +136,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [PostgreSQL](#postgresql)
 - [PowerShell](#powershell)
 - [Project Management](#project-management)
+- [PyTorch](#pytorch)
 - [Python](#python)
 
 ### - Q - ###
@@ -729,6 +730,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [JSP Tutorial for Beginners with Examples](https://beginnersbook.com/jsp-tutorial-for-beginners/) - Beginner's Book
 - [JSP, Servlet, JSLT + Hibernate: A Complete Guide](https://www.udemy.com/jsp-servlet-free-course/) - Udemy
 
+## Keras 
+
+- [Keras or PyTorch As Your First Deep Learning Framework](https://deepsense.ai/keras-or-pytorch/) - Piotr Migdal
+
 ## Kotlin
 
 - [Kotlin Blog](https://blog.jetbrains.com/kotlin/) - JetBrains
@@ -912,7 +917,14 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## PyTorch
 
+- [Beginning Machine Learning With PyTorch](https://learning.oreilly.com/live-training/courses/beginning-machine-learning-with-pytorch/0636920261179/) - David Mertz
+- [Intro to Deep Learning With PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - Udacity
+- [Keras or PyTorch As Your First Deep Learning Framework](https://deepsense.ai/keras-or-pytorch/) - Piotr Migdal
+- [Practical Deep Learning With PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/) - Udemy
 - [PyTorch Tutorial](https://www.guru99.com/pytorch-tutorial.html) - Guru99
+- [PyTorch Tutorials](https://pytorch.org/tutorials/) - PyTorch
+- [Train PyTorch Models With Azure Machine Learing Service](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch) - Microsoft
+- [Transfer Learning With PyTorch](https://heartbeat.fritz.ai/transfer-learning-with-pytorch-cfcb69016c72) - Heartbeat
 
 ## R
 
