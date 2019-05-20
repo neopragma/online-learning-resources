@@ -803,6 +803,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## NiFi 
 
+- [Apache NiFi Training](https://intellipaat.com/apache-nifi-training/) - IntelliPaat
+- [Hands-On Apache NiFi (Video)](https://www.youtube.com/watch?v=9OCNVt4UanA) - IntelliPaat
+- [Introduction to Apache NiFi](https://www.udemy.com/apache-nifi/) - Udemy
+- [Learn Apache NiFi in 20 Minutes](https://prodata.io/learn-apache-nifi-in-20-minutes-with-practical-exercises/) - Prodata
 - [NiFi Tutorial](https://www.guru99.com/apache-nifi-tutorial.html) - Guru99
 
 ## Node.js
