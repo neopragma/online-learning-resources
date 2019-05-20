@@ -1039,8 +1039,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Software Engineering 
 
+- [Big Ball of Mud](http://laputan.org/mud/) - Foote, Yoder
+- [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/) - Univ of Texas
 - [Software Engineering Tutorial](https://www.guru99.com/software-engineering-tutorial.html) - Guru99
 - [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Abelson, Sussman, Sussman
+- [The Art of Unix Programming](http://catb.org/~esr/writings/taoup/) - Eric S. Raymond
+- [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) - Eric S. Raymond
+- [What Is Software Engineering?](https://www.thoughtco.com/what-is-software-engineering-958652) - ThoughtCo
 
 ## Specification by Example
 
