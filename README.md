@@ -705,10 +705,14 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## HTTP 
 
+- [How HTTPS Works - In a Comic](https://howhttps.works/) - (author not identified)
 - [HTTP - Hypertext Transfer Protocol](https://www.w3.org/Protocols/) - W3C
 - [HTTP Flashcards](https://quizlet.com/242322442/hypertext-transfer-protocol-flash-cards/) - Quizlet
 - [HTTP Status Codes Cheat Sheet](https://www.cheatography.com/kstep/cheat-sheets/http-status-codes/) - Cheatography
 - [RFC 2616 - Hypertext Transfer Protocol](https://tools.ietf.org/html/rfc2616) - IETF
+- [RFC 2818 - HTTP over TLS](https://tools.ietf.org/html/rfc2818) - IETF
+- [RFC 5246 - The Transport Layer Security (TLS) Protocol](https://tools.ietf.org/html/rfc5246) - IETF
+- [RFC 6101 - The Secure Sockets Layer (SSL) Protocol](https://tools.ietf.org/html/rfc6101) - IETF
 
 ## Informatica
 
