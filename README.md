@@ -184,6 +184,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## General Learning Sites
 
+- [Academic Tutorials](http://www.academictutorials.com/)
 - [AWS Learning Paths](https://aws.amazon.com/training/learning-paths/)
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://www.coursera.org/)
@@ -215,7 +216,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Fundamental Accounting Concepts](https://www.accountingverse.com/accounting-basics/fundamental-accounting-concepts.html) - Accountingverse
 - [Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) - Coursera
 
-## Algorithms and Data Structure
+## Algorithms and Data Structures
 
 - [Algorithms and Data Structures](https://www.quickstart.com/algorithms-and-data-structures.html) - QuickStart
 - [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - Coursera
@@ -500,6 +501,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## ERP 
 
+- [ERP](http://www.academictutorials.com/erp/) - Academic Tutorials
+- [Introduction to ERP Systems](https://www.udemy.com/introduction-to-erp-systems/) - Udemy
+- [Learn ERP](http://www.miraclewisdom.com/erp.htm) - Miracle Wisdom
 - [SAP HANA Tutorial](https://www.guru99.com/sap-hana-tutorial.html) - Guru99
 
 ## Ethical Hacking 
