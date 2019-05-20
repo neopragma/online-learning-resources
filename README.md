@@ -517,6 +517,18 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Elm
 
+- [An Introduction to Elm](https://guide.elm-lang.org/) - elm-lang.org\
+- [Awesome Elm: A Curated List](https://github.com/isRuslan/awesome-elm) - *list of links*
+- [Beginning Elm: A Gentle Introduction](https://elmprogramming.com/) - elmprogramming.com
+- [Best Elm Tutorials](https://hackr.io/tutorials/learn-elm) - hackr.io *list of links*
+- [Building Webapps with Elm](https://pragmaticstudio.com/elm) - Pragmatic Studio
+- [Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - Evan Czaplicky
+- [Elm: A Front-End Language with Style](https://thoughtbot.com/upcase/videos/elm-a-front-end-language-with-style) - ThoughtBot
+- [Elm: Getting Started](https://www.pluralsight.com/courses/elm-getting-started) - Plural Sight
+- [Elm Home](https://elm-lang.org/) - elm-lang.org
+- [Elm Documentation](https://elm-lang.org/docs) - elm-lang.org
+- [Getting Started With the Elm Language](https://riptutorial.com/elm) - Rip Tutorial
+
 ## ERP 
 
 - [ERP](http://www.academictutorials.com/erp/) - Academic Tutorials
