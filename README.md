@@ -342,7 +342,12 @@ This is a list of resources for self-study of software-related topics and skills
 ## DevOps 
 
 - [DevOps Tutorial](https://www.guru99.com/devops-tutorial.html) - Guru99
+- [Free DevOps Course](https://freedevopscourse.com/) - Adam Hawkins
+- [Introduction to DevOps](https://cloudacademy.com/blog/introduction-to-devops/) - Cloud Academy
+- [Learn DevOps: Beginner's Guide](http://www.releasemanagement.org/2016/03/learn-devops-beginners-guide/) ReleaseManagement.org
+- [LearnDevops Training](http://www.learndevops.in/) - LearnDevops
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
+- [Microsoft Learn: DevOps](https://docs.microsoft.com/en-us/search/index?search=devops) - Microsoft
 
 ## Digital Marketing 
 
