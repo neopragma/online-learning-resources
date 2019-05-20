@@ -42,6 +42,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Compiler Design](#compiler-design)
 - [CppUnit](#cppunit)
 - [CRM](#crm)
+- [CSS](#html-and-css)
 
 ### - D - ###
 
@@ -72,6 +73,7 @@ This is a list of resources for self-study of software-related topics and skills
 ### - H - ###
 
 - [Hadoop](#hadoop)
+- [Haml](#haml)
 - [Haskell](#haskell)
 - [HBase](#hbase)
 - [Hive](#hive)
@@ -96,6 +98,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ### - L - ###
 
+- [Less](#less)
 - [Linux](#unixlinux)
 - [Lisp](#lisp)
 - [Logic, Critical Thinking, Systems Thinking](#logic-critical-thinking-systems-thinking)
@@ -143,7 +146,9 @@ This is a list of resources for self-study of software-related topics and skills
 ### - S - ###
 
 - [SAP](#sap)
+- [Sass](#sass)
 - [Scala](#scala)
+- [SCSS](#scss)
 - [Shell](#unixlinux-shell-scripting)
 - [Software Engineering](#software-engineering)
 - [SQL](#sql)
@@ -208,6 +213,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [PluralSight](https://learn.pluralsight.com/programs/pluralsight)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [Udemy](https://www.udemy.com/)
+- [w3schools](https://www.w3schools.com/)
 
 ## Specific Topics
 
@@ -464,6 +470,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing) - Coursera
 - [Data Warehousing Tutorial](https://www.guru99.com/data-warehousing-tutorial.html) - Guru99
 - [Data Warehousing Tutorial](https://www.tutorialspoint.com/dwh/) - Tutorials Point
+- [Hive](#hive)
 - [Learn Data Warehousing From Scratch](https://www.udemy.com/learn-data-warehousing-from-solution-architect/) - Udemy
 
 ## Database Management Systems
@@ -613,6 +620,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Hadoop Tutorial for Beginners](https://data-flair.training/blogs/hadoop-tutorial/) - Data Flair
 - [Hadoop Tutorial - Getting Started with HDP](https://hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/) - HortonWorks
 
+## Haml 
+
 ## Haskell
 
 - [Codewars](https://www.codewars.com/) - Qualified 
@@ -632,10 +641,23 @@ This is a list of resources for self-study of software-related topics and skills
 ## Hive
 
 - [Hive Tutorial](https://www.guru99.com/hive-tutorials.html) - Guru99
+- [Hive Tutorial](https://www.javatpoint.com/hive) - javaTpoint
+- [Hive Tutorial](https://www.tutorialspoint.com/hive/) - Tutorials Point
 
 ## HTML and CSS 
 
+- [CSS Beginner Tutorial](https://htmldog.com/guides/css/beginner/) - HTML Dog
+- [CSS Flashcards](https://quizlet.com/76396558/css-superset-flash-cards/) - Quizlet
+- [CSS Style Guides](https://css-tricks.com/css-style-guides/) - Chris Coyier
+- [CSS Tutorial](http://html.net/tutorials/css/) - HTML.net
+- [CSS Tutorial](https://www.tutorialspoint.com/css/) - Tutorials Point
+- [CSS Tutorial](https://www.w3schools.com/Css/) - w3schools
+- [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/) - Dave Shea
+- [HTML Tutorials](https://www.w3schools.com/html/default.asp) - w3schools
+- [HTML5 Tutorial](http://html.net/tutorials/html5/) - HTML.net
 - [Learn HTML and CSS](https://www.learn-html.org/) - learn-html.org
+- [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/) - Shay Howe
+- also see [Haml](#haml), [Sass](#sass), [SCSS](#scss), [Less](#less)
 
 ## Informatica
 
@@ -670,6 +692,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## Kotlin
 
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
+
+## Less
 
 ## Lisp
 
@@ -800,6 +824,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Security Tutorial](https://www.guru99.com/overview-of-sap-security.html) - Guru99
 - [Solution Manager Tutorial](https://www.guru99.com/overview-of-sap-solution-manager.html) - Guru99
 
+## Sass
+
 ## Scala
 
 - [Learn Scala](https://www.learnscala.org/) - learnscala.org
@@ -807,6 +833,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## Software Engineering 
 
 - [Software Engineering Tutorial](https://www.guru99.com/software-engineering-tutorial.html) - Guru99
+
+## SCSS
 
 ## SQL
 
