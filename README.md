@@ -81,6 +81,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [HBase](#hbase)
 - [Hive](#hive)
 - [HTML and CSS](#html-and-css)
+- [HTTP](#http)
 
 ### - I - ###
 
@@ -701,6 +702,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [Rendera - Online HTML/CSS Testing](http://rendera.herokuapp.com/) - Brian Hogan
 - [W3C Markup Validation Service](https://validator.w3.org/) - W3C
 - also see [Haml](#haml), [Sass](#sass), [Less](#less), Tachyons(#tachyons)
+
+## HTTP 
+
+- [HTTP - Hypertext Transfer Protocol](https://www.w3.org/Protocols/) - W3C
+- [HTTP Flashcards](https://quizlet.com/242322442/hypertext-transfer-protocol-flash-cards/) - Quizlet
+- [HTTP Status Codes Cheat Sheet](https://www.cheatography.com/kstep/cheat-sheets/http-status-codes/) - Cheatography
+- [RFC 2616 - Hypertext Transfer Protocol](https://tools.ietf.org/html/rfc2616) - IETF
 
 ## Informatica
 
