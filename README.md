@@ -710,7 +710,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## JSP 
 
+- [JSP Tutorial](https://www.javatpoint.com/jsp-tutorial) - javaTpoint
+- [JSP Tutorial](http://www.jsptut.com/) - JSPTut
+- [JSP Tutorial](https://www.tutorialspoint.com/jsp/) - Tutorials Point
 - [JSP Tutorial for Beginners](https://www.guru99.com/jsp-tutorial.html) - Guru99
+- [JSP Tutorial for Beginners with Examples](https://beginnersbook.com/jsp-tutorial-for-beginners/) - Beginner's Book
+- [JSP, Servlet, JSLT + Hibernate: A Complete Guide](https://www.udemy.com/jsp-servlet-free-course/) - Udemy
 
 ## Kotlin
 
