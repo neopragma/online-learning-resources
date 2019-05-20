@@ -1254,6 +1254,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Vue
 
+- [Getting Up and Running With the Vue.js 2 Framework](https://www.sitepoint.com/up-and-running-vue-js-2-0/) - SitePoint
+- [Vue Guide](https://vuejs.org/v2/guide/) - Vue.js
+- [VueJS Tutorial](https://www.tutorialspoint.com/vuejs/) - Tutorials Point
+- [Vue.js 2 Tutorial (Video)](https://www.youtube.com/watch?v=5LYrN_cAJoA) - The Net Ninja
+
 ## Web Services 
 
 - [Web Services Tutorial for Beginners](https://www.guru99.com/web-services-tutorial.html) - Guru99
