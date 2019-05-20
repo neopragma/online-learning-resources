@@ -5,6 +5,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [.NET](#net)
 - [ABAP](#sap)
 - [Accounting](#accounting)
+- [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [AngularJS](#angularjs)
 - [Apache](#apache)
 - [APO](#sap)
@@ -46,6 +47,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Hive](#hive)
 - [HTML and CSS](#html-and-css)
 - [Informatica](#informatica)
+- [Infrastructure As Code](#infrastructure-as-code)
 - [Java](#java)
 - [JavaScript](#ecma-script)
 - [Jenkins](#jenkins)
@@ -53,6 +55,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Keras](#artificial-intelligence)
 - [Kotlin](#kotlin-programming)
 - [Linux](#unixlinux)
+- [Logic, Critical Thinking, Systems Thinking](#logic-critical-thinking-systems-thinking)
 - [Machine Learning](#artificial-intelligence)
 - [Management Information Systems](#management-information-systems)
 - [Microsoft](#microsoft)
@@ -73,6 +76,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Project Management](#project-management)
 - [Python](#python)
 - [R](#r)
+- [React](#react)
 - [Ruby](#ruby)
 - [SAP](#sap)
 - [Scala](#scala)
@@ -112,11 +116,16 @@ This is a list of resources for self-study of software-related topics and skills
 - [Fundamental Accounting Concepts](https://www.accountingverse.com/accounting-basics/fundamental-accounting-concepts.html) - Accountingverse
 - [Fundamentals of Accounting](https://www.coursera.org/specializations/accounting-fundamentals) - Coursera
 
+## Algorithms and Data Structure
+
+- [Algorithms and Data Structures](https://www.quickstart.com/algorithms-and-data-structures.html) - QuickStart
+
 ## AngularJS 
 
 - [10 Best Tutorials to Learn AngularJS](https://www.hongkiat.com/blog/angularjs-tutorials-screencast/) - *list of links*
 - [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs) - Thinkster
 - [Angular Tutorials](https://hackr.io/tutorials/learn-angular) - *list of links*
+- [AngularJS: Advanced Framework Techniques(https://www.quickstart.com/angularjs-advanced-framework-techniques.html) - QuickStart
 - [AngularJS Learning Paths](https://www.pluralsight.com/paths/angular-js) - Plural Sight
 - [AngularJS Tutorial](https://docs.angularjs.org/tutorial/) - Angular
 - [AngularJS Tutorial](https://www.guru99.com/angularjs-tutorial.html) - Guru99
@@ -225,6 +234,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn C++](https://www.learn-cpp.org/) - learn-cpp.org
 - [Learn C++ Programming: The Definitive Guide](https://www.programiz.com/cpp-programming) - Parewa Labs
 - [Free C and C++ Courses](https://cppinstitute.org/free-c-and-c-courses) - C++ Institute
+- [Introduction to C++](https://www.quickstart.com/introduction-to-c.html) - QuickStart
 - [Learn Cpp](https://www.learn-cpp.org/) - Learn-cpp.org
 - [LearnCpp](https://www.learncpp.com/) - LearnCpp.com
 - [Microsoft Learn: C++](https://docs.microsoft.com/en-us/cpp/?view=vs-2019) - Microsoft
@@ -235,7 +245,9 @@ This is a list of resources for self-study of software-related topics and skills
 - [C# Tutorial for Beginners](https://www.guru99.com/c-sharp-tutorial.html) - Guru99
 - [Codewars](https://www.codewars.com/) - Qualified 
 - [Free C# Interactive Tutorial](https://learncs.org/) - LearnCS.org
+- [Introduction to C#](https://www.quickstart.com/introduction-to-c-sharp.html) QuickStart
 - [Microsoft Learn: C#](https://docs.microsoft.com/en-us/search/index?search=C%23) - Microsoft
+- [Programming With C#](https://www.quickstart.com/programming-with-c.html) - QuickStart
 
 ## Cassandra 
 
@@ -310,6 +322,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Data Science Tutorial](https://www.guru99.com/data-science-tutorial.html) - Guru99
 - [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - Udacity
+- [Introduction to R for Data Science](https://www.quickstart.com/introduction-to-r-for-data-science.html) - QuickStart
 - [Learn Data Science](https://www.datascience.com/learn-data-science/topic/data-science) - Oracle + DataScience
 - [Learn Data Science](http://learnds.com/) - Nitin Borwankar
 - [What Is Data Science?](https://www.coursera.org/learn/what-is-datascience) - Coursera + IBM
@@ -355,6 +368,8 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## ECMA Script
 
+- [Introduction to JavaScript](https://www.quickstart.com/javascript-short.html) - QuickStart
+- [JavaScript](https://www.quickstart.com/javascript.html) - QuickStart
 - [Learn JavaScript](https://www.learn-js.org/) - learn-js.org
 
 ## Elixir
@@ -415,6 +430,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Informatica Tutorial](https://www.guru99.com/informatica-tutorials.html) - Guru99
 
+## Infrastructure As Code 
+
+- [Infrastructure As Code](https://www.quickstart.com/infrastructure-as-code.html) - QuickStart
+
 ## Java
 
 - [Java Tutorial](https://www.javatpoint.com/java-tutorial) - javatpoint.com
@@ -426,6 +445,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/) - Udemy
 - [Learn Java Online](https://www.learnjavaonline.org/) - LearnJavaOnline.org
 - [Learn Java Programming: The Definitive Guide](https://www.programiz.com/java-programming) - Parewa Labs
+- [Learn to Program in Java](https://www.quickstart.com/learn-to-program-in-java.html) - QuickStart
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/) - Oracle
 
 ## Jenkins 
@@ -439,6 +459,10 @@ This is a list of resources for self-study of software-related topics and skills
 ## Kotlin
 
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
+
+## Logic, Critical Thinking, Systems Thinking 
+
+- [Logic and Computational Thinking](https://www.quickstart.com/logic-and-computational-thinking.html) - QuickStart
 
 ## Management Information Systems
 
@@ -523,10 +547,15 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## R
 
+- [Introduction to R for Data Science](https://www.quickstart.com/introduction-to-r-for-data-science.html) - QuickStart
 - [Learn R Programming: The Definitive Guide](https://www.datamentor.io/r-programming/) - Parewa Labs
 - [R for Data Science](http://makemeanalyst.com/r-programming/) - Make Me Analyst
 - [R Programming Tutorial](https://www.guru99.com/r-tutorial.html) - Guru99
 - [R Tutorial](https://www.statmethods.net/r-tutorial/index.html) - DataCamp
+
+## React
+
+- [Introduction to ReactJS](https://www.quickstart.com/introduction-to-reactjs.html) - QuickStart
 
 ## Ruby 
 
