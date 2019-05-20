@@ -1261,7 +1261,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Web Services 
 
+- [SOAP Web Services Tutorial](https://www.guru99.com/soap-simple-object-access-protocol.html) - Guru99
+- [Web Services Tutorial](https://www.javatpoint.com/web-services-tutorial) - javaTpoint
+- [Web Services Tutorial](https://www.tutorialspoint.com/webservices/) - Tutorials Point
 - [Web Services Tutorial for Beginners](https://www.guru99.com/web-services-tutorial.html) - Guru99
+- [XML Web Services](https://www.w3schools.com/xml/xml_services.asp) - w3schools
 
 ## Windows 
 
