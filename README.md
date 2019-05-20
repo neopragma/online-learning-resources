@@ -856,7 +856,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## PHP
 
+- [Learn PHP](https://www.thoughtco.com/learn-php-2693925) - Angela Bradley
+- [Learn PHP](https://www.codecademy.com/learn/learn-php) - Codecademy
 - [Learn PHP](https://www.learn-php.org/) - learn-php.org
+- [PHP 5 Tutorial](https://www.w3schools.com/php/default.asp) - w3schools
 - [PHP Tutorial for Beginners](https://www.guru99.com/php-tutorials.html) - Guru99
 
 ## PL/SQL
