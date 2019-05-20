@@ -55,6 +55,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [ECMAScript](#ecma-script)
 - [Elixir](#elixir)
+- [Elm](#elm)
 - [Ethical Hacking](#ethical-hacking)
 - [ETL](#etl)
 - [Excel](#excel)
@@ -95,6 +96,7 @@ This is a list of resources for self-study of software-related topics and skills
 ### - L - ###
 
 - [Linux](#unixlinux)
+- [Lisp](#lisp)
 - [Logic, Critical Thinking, Systems Thinking](#logic-critical-thinking-systems-thinking)
 
 ### - M - ###
@@ -114,6 +116,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [NumPy](#numpy)
 
 ### - O - ###
+
+- [OCaml](#ocaml)
 
 ### - P - ###
 
@@ -501,6 +505,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Elixir with Step by Step Screencasts](https://www.learnelixir.tv/) - learnelixir.tv
 - [Learning Resources](https://elixir-lang.org/learning.html) elixir-lang.org
 
+## Elm
+
 ## ERP 
 
 - [ERP](http://www.academictutorials.com/erp/) - Academic Tutorials
@@ -628,6 +634,8 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
 
+## Lisp
+
 ## Logic, Critical Thinking, Systems Thinking 
 
 - [Logic and Computational Thinking](https://www.quickstart.com/logic-and-computational-thinking.html) - QuickStart
@@ -667,6 +675,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## NumPy 
 
 - [NumPy Tutorial](https://www.guru99.com/numpy-tutorial.html) - Guru99
+
+## OCaml
 
 ## Perl 
 
