@@ -827,6 +827,11 @@ This is a list of resources for self-study of software-related topics and skills
 ## NumPy 
 
 - [NumPy Tutorial](https://www.guru99.com/numpy-tutorial.html) - Guru99
+- [NumPy Tutorial](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/) - Machine Learning Plus
+- [NumPy Tutorial](https://www.tutorialkart.com/numpy-tutorial/) - Tutorial Kart
+- [NumPy Tutorial](https://www.tutorialspoint.com/numpy/index.htm) - Tutorials Point
+- [NumPy Tutorial: Data Analysis With Python](https://www.dataquest.io/blog/numpy-tutorial-python/) - Dataquest
+- [Python NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) - Justin Johnson
 
 ## OCaml
 
