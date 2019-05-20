@@ -144,6 +144,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQL](#sql)
 - [SQLite](#sqlite)
 - [SQLServer](#sqlserver)
+- [SSIS](#ssis)
 - [Statistics](#statistics)
 - [Swift](#swift)
 
@@ -520,7 +521,13 @@ This is a list of resources for self-study of software-related topics and skills
 ## ETL 
 
 - [BODS Tutorial](https://www.guru99.com/sap-bods-tutorial.html) - Guru99
+- [ETL Concepts](https://learndatamodeling.com/blog/etl-concepts/) - Learn Data Modeling
+- [ETL Testing: From Beginner to Expert](https://www.udemy.com/the-complete-etl-testing-course/) - Udemy
+- [ETL Testing or Data Warehouse Testing Tutorial](https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html) - Guru99
+- [ETL Testing Tutorial](https://www.tutorialspoint.com/etl_testing/) - Tutorials Point
+- [ETL Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=7MOU1l30lXs) - Edureka
 - [Hive Tutorial](https://www.guru99.com/hive-tutorials.html) - Guru99
+- [Learn ETL Using SSIS](https://www.udemy.com/learn-etl-using-ssis/) - Udemy
 
 ## Excel 
 
@@ -728,6 +735,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## SQL
 
+- [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
 - [SQL Tutorial for Beginners](https://www.guru99.com/sql.html) - Guru99
 
 ## SQLite
@@ -738,6 +746,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Microsoft Learn: SQLServer](https://docs.microsoft.com/en-us/sql/?view=sql-server-2017) - Microsoft
 - [SQLServer Tutorial for Beginners](https://www.guru99.com/ms-sql-server-tutorial.html) - Guru99
+
+## SSIS
+
+- [Learn ETL Using SSIS](https://www.udemy.com/learn-etl-using-ssis/) - Udemy
 
 ## Statistics
 
