@@ -720,7 +720,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Kotlin
 
+- [Kotlin Blog](https://blog.jetbrains.com/kotlin/) - JetBrains
+- [Kotlin Tutorial](https://www.tutorialspoint.com/kotlin) - Tutorials Point
+- [Learn Kotlin](https://kotlinlang.org/docs/reference/) - kotlinlang.org
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
+- [The Kotlin Language: Fundamentals and Basics](https://www.udemy.com/kotlin-programming/) - Udemy
 
 ## Less
 
