@@ -103,6 +103,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Keras](#keras)
 - [Kotlin](#kotlin-programming)
+- [Kubernetes](#kubernetes)
 
 ### - L - ###
 
@@ -842,6 +843,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Kotlin](https://kotlinlang.org/docs/reference/) - kotlinlang.org
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
 - [The Kotlin Language: Fundamentals and Basics](https://www.udemy.com/kotlin-programming/) - Udemy
+
+## Kubernetes 
+
+- [Kubernetes Deployment Tutorial](https://devopscube.com/kubernetes-deployment-tutorial/) - DevOps Cube
+- [Kubernetes Tutorial](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/) - Bruno Krebs
+- [Kubernetes Tutorial](https://mindmajix.com/kubernetes-tutorial) - Mind Majix
+- [Kubernetes Tutorials](https://kubernetes.io/docs/tutorials/) - Kubernetes.io
+- [Kubernetes Tutorials](https://kubernetestutorials.com/) - Kubernetes Tutorials
 
 ## Less
 
