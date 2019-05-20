@@ -520,14 +520,20 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## ETL 
 
+- [7 Skills Every ETL Developer Should Have](https://www.arkatechture.com/blog/7-skills-every-etl-developer-should-have) - Jared Rohrdanz
 - [BODS Tutorial](https://www.guru99.com/sap-bods-tutorial.html) - Guru99
 - [ETL Concepts](https://learndatamodeling.com/blog/etl-concepts/) - Learn Data Modeling
 - [ETL Testing: From Beginner to Expert](https://www.udemy.com/the-complete-etl-testing-course/) - Udemy
 - [ETL Testing or Data Warehouse Testing Tutorial](https://www.guru99.com/utlimate-guide-etl-datawarehouse-testing.html) - Guru99
+- [ETL Testing Training Course](https://intellipaat.com/etl-testing-online-training/) - Intellipaat
 - [ETL Testing Tutorial](https://www.tutorialspoint.com/etl_testing/) - Tutorials Point
+- [ETL Tutorial for Beginners](https://intellipaat.com/blog/etl-tutorial-for-beginners/) - Intellipaat
 - [ETL Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=7MOU1l30lXs) - Edureka
 - [Hive Tutorial](https://www.guru99.com/hive-tutorials.html) - Guru99
+- [How to Implement ETL Process Using SSIS with an Example](http://www.learnmsbitutorials.net/etl-process-ssis-example.php) - learnmsbitutorials.net
+- [Learn ETL Using SSIS](https://rakeshgopal.teachable.com/p/learn-etl-using-ssis) - Rakesh Gopalakrishnan
 - [Learn ETL Using SSIS](https://www.udemy.com/learn-etl-using-ssis/) - Udemy
+- [What Is ETL?](https://www.talend.com/resources/what-is-etl/) - Talend
 
 ## Excel 
 
@@ -749,7 +755,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## SSIS
 
+- [How to Implement ETL Process Using SSIS with an Example](http://www.learnmsbitutorials.net/etl-process-ssis-example.php) - learnmsbitutorials.net
+- [Learn ETL Using SSIS](https://rakeshgopal.teachable.com/p/learn-etl-using-ssis) - Rakesh Gopalakrishnan
 - [Learn ETL Using SSIS](https://www.udemy.com/learn-etl-using-ssis/) - Udemy
+- [Microsoft SSIS Training](https://www.udemy.com/microsoft-ssis/) - Udemy
+- [SQL Server Integration Services (Video)](https://www.youtube.com/watch?v=3cPq9FXk-RA) - Wise Owl
 
 ## Statistics
 
