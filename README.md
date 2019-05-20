@@ -194,7 +194,9 @@ This is a list of resources for self-study of software-related topics and skills
 - [AWS Learning Paths](https://aws.amazon.com/training/learning-paths/)
 - [Codecademy](https://www.codecademy.com/)
 - [Coursera](https://www.coursera.org/)
+- [Data Flair](https://data-flair.training/)
 - [Do What You Love (dwyl)](https://github.com/dwyl)
+- [Edureka!](https://www.edureka.co/)
 - [Google Open Online Education](https://edu.google.com/openonline/)
 - [IBM Developer](https://developer.ibm.com/)
 - [IBM Skills Gateway](https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=page&c=a0011023)
@@ -620,7 +622,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## HBase 
 
+- [HBase Tutorial](https://data-flair.training/blogs/hbase-tutorial/) - Data Flair
+- [HBase Tutorial](https://www.edureka.co/blog/hbase-tutorial) - Edureka
 - [HBase Tutorial](https://www.guru99.com/hbase-tutorials.html) - Guru99
+- [HBase Tutorial](https://intellipaat.com/tutorial/hbase-tutorial/) - IntelliPaat
+- [HBase Tutorial](https://www.javatpoint.com/hbase) - javaTpoint
+- [HBase Tutorial](https://www.tutorialspoint.com/hbase/) - Tutorials Point
 
 ## Hive
 
