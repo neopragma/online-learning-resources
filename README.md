@@ -537,7 +537,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Excel 
 
+- [Basic Excel Skills](https://chandoo.org/wp/excel-basics/) - Chandoo
+- [Excel-Easy](https://www.excel-easy.com/) - excel-easy.com
+- [Excel Formulas](https://edu.gcfglobal.org/en/excelformulas/) - GCFGlobal
 - [Excel Tutorial](https://www.guru99.com/excel-tutorials.html) - Guru99
+- [Learn Excel Online](https://www.goskills.com/Excel) - GoSkills
+- [Microsoft Excel: From Beginner to Expert in 6 Hours](https://www.udemy.com/thebestexcel/) - Udemy
+- [Microsoft Excel Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=8L1OVkw2ZQ8) - MotionTraining
 
 ## F#
 
