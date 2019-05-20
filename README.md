@@ -818,7 +818,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## NuGet
 
+- [How To Use NuGet Pacages](https://www.codeproject.com/tips/990440/how-to-use-nuget-packages) - CodeProject
+- [Introducing NuGet Package Management for .NET](https://www.hanselman.com/blog/IntroducingNuGetPackageManagementForNETAnotherPieceOfTheWebStack.aspx) - Scott Hanselman
 - [Microsoft Learn: NuGet](https://docs.microsoft.com/en-us/nuget/) - Microsoft
+- [NuGet In 30 Minutes (Video)](https://www.youtube.com/watch?v=8pVrkbgyqgg) - Tech CBT
+- [NuGet Tutorial](https://nuget-tutorial.net/) - nuget-tutorial.net
 
 ## NumPy 
 
