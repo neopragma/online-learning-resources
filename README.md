@@ -1229,9 +1229,11 @@ This is a list of resources for self-study of software-related topics and skills
 ## User Stories 
 
 - [10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) - Roman Pichler
+- [How To Split a User Story](https://agileforall.com/resources/how-to-split-a-user-story/) - Richard Lawrence
 - [User Stories](https://www.atlassian.com/agile/project-management/user-stories) - Max Rehkopf
 - [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm) - Scott Ambler
 - [User Stories and User Story Examples](https://www.mountaingoatsoftware.com/agile/user-stories) - Mike Cohn
+- [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) - Jeff Patton
 
 ## VBA 
 
