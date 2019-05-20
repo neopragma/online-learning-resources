@@ -195,6 +195,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Oracle Learning Library](https://www.oracle.com/technetwork/tutorials/index.html)
 - [PluralSight](https://learn.pluralsight.com/programs/pluralsight)
+- [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [Udemy](https://www.udemy.com/)
 
 ## Specific Topics
@@ -217,6 +218,10 @@ This is a list of resources for self-study of software-related topics and skills
 ## Algorithms and Data Structure
 
 - [Algorithms and Data Structures](https://www.quickstart.com/algorithms-and-data-structures.html) - QuickStart
+- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - Coursera
+- [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point
+- [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) - Geeks for Geeks
+- [Top Algorithms and Data Structures You Really Need To Know](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5) - Jason Roell
 
 ## AngularJS 
 
