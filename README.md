@@ -958,7 +958,16 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Ruby 
 
+- [30 Best Ruby Tutorials for Programmers](https://stackify.com/ruby-tutorials/) - Stackify *list of links*
+- [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) - Codecademy
 - [Learn Ruby Online](https://www.learnrubyonline.org/) - learnrubyonline.org
+- [Learning Ruby: From Zero to Hero](https://medium.freecodecamp.org/learning-ruby-from-zero-to-hero-90ad4eecc82d) - freeCodeCamp
+- [Quick and Dirty Introduction to Ruby](https://github.com/neopragma/self-start-ruby) - Dave Nicolette
+- [Ruby Fundamentals Course](https://www.pluralsight.com/courses/ruby-fundamentals) - Plural Sight
+- [Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/) - ruby-lang.org
+- [Ruby Monk: Interactive Ruby Tutorials](https://rubymonk.com/) - Ruby Monk
+- [Ruby Study Notes](http://rubylearning.com/satishtalim/tutorial.html) - Satish Talim
+- [Try Ruby (browser-based)](https://ruby.github.io/TryRuby/) - (author not identified)
 
 ## SAP 
 
