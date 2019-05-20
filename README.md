@@ -136,6 +136,7 @@ This is a list of resources for self-study of software-related topics and skills
 ### - P - ###
 
 - [Perl](#perl)
+- [Personas](#personas)
 - [Photoshop](#photoshop)
 - [PHP](#php)
 - [PL/SQL](#plsql)
@@ -974,6 +975,16 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learning Perl](https://www.learning-perl.com/) - Brian Foy
 - [Perl Tutorial](https://www.tutorialspoint.com/perl/) - Tutorials Point
 - [Perl Tutorial for Beginners](https://www.guru99.com/perl-tutorials.html) - Guru99
+
+## Personas 
+
+- [7 Core Ideas About Personas and the User Experience](https://measuringu.com/personas-ux/) - Jeff Sauro
+- [An Introduction to Personas and How To Create Them](https://www.steptwo.com.au/papers/kmc_personas/) - Tina Calabria
+- [Creating Personas](https://www.uxbooth.com/articles/creating-personas/) - Eeva Ilama
+- [Personas](https://www.usability.gov/how-to-and-tools/methods/personas.html) - Usability.gov
+- [Personas 101: What Are They and Why Should I Care?](https://www.getelastic.com/personas-101-what-are-they-and-why-should-i-care) - Linda Bustos
+- [Personas - A Simple Introduction](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them) - Rikke Dam and Teo Siang
+- [Personas in User Experience](https://thecontentwrangler.com/2011/08/23/personas-in-user-experience/#) - Scott Abel
 
 ## Photoshop
 
