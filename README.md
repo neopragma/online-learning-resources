@@ -39,6 +39,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Clojure](#clojure-programming)
 - [Cloud Computing](#cloud-computing)
 - [CodeIgniter](#codeigniter)
+- [Cognitive Bias](#cognitive-bias)
 - [Compiler Design](#compiler-design)
 - [CppUnit](#cppunit)
 - [CRM](#crm)
@@ -429,6 +430,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [PHP CodeIgniter - Learn CodeIgniter](https://www.udemy.com/php-codeigniter/) - Udemy
 - [PHP CodeIgniter Tutorials for Beginners](https://www.kodingmadesimple.com/2015/06/php-codeigniter-tutorials-for-beginners-step-by-step.html) - Kode Made Simple
 - [Tutorial CodeIgniter: Beginners](http://tutorialcodeigniter.com/) - Tutorial CodeIgniter
+
+## Cognitive Bias
 
 ## Compiler Design
 
