@@ -890,7 +890,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## PowerShell 
 
+- [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell) - PowerShell Github
 - [Microsoft Learn: PowerShell](https://docs.microsoft.com/en-us/powershell/) - Microsoft
+- [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/) - Microsoft
+- [Test-Driving PowerShell Scripts](https://www.leadingagile.com/2018/10/unit-testing-shell-scriptspart-four/) - Dave Nicolette
 
 ## Project Management 
 
