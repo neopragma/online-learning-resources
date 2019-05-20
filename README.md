@@ -1370,7 +1370,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## XML
 
 - [Extensible Markup Language (XML)](https://www.w3.org/XML/) - W3C
-- [XML Core Working Group Public Page(https://www.w3.org/XML/Core/#Publications) - W3C
+- [XML Core Working Group Public Page](https://www.w3.org/XML/Core/#Publications) - W3C
 - [XML Tutorial](https://www.javatpoint.com/xml-tutorial) - javaTpoint
 - [XML Tutorial](https://www.tutorialspoint.com/xml/) - Tutorials Point
 - [XML Tutorial](https://www.w3schools.com/xml/) - w3schools
@@ -1383,7 +1383,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Yaml
 
+- [Learn the Yaml Basics](https://linuxacademy.com/blog/devops/learn-the-yaml-basics/) - Linux Academy
+- [Learn Yaml in 5 Minutes](https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes) - CodeProject
 - [Learn Yaml in Y Minutes](https://learnxinyminutes.com/docs/yaml/) - Learn X in Y Minutes
+- [Yaml Tutorial](https://www.tutorialspoint.com/yaml/index.htm) - Tutorials Point
 
 ## ZooKeeper
 
