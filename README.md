@@ -1336,6 +1336,16 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about) - Microsoft
 
+## X-Windows
+
+- [A Brief Intro to X11 Programming](http://math.msu.su/~vvb/2course/Borisenko/CppProjects/GWindow/xintro.html) - V. V. Borisenko
+- [FreeBSD: The X-Window System](https://www.freebsd.org/doc/handbook/x11.html) - FreeBSD.org
+- [Linux: Configuring the X-Window System](https://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/xwindows-configuration.html) - Linux Documentation Project
+- [Linux X-Windows Tutorials](https://www.tutorialspoint.com/listtutorials/linux/xwindows/1) - Tutorials Point
+- [X.org](https://www.x.org/wiki/) - X.org Foundation 
+- [X11 on Windows Machines](https://cc.jlab.org/windows/X11onWindows) - Computer Center
+- [X-Windows Programming in C++](https://www.storage-b.com/c/x/23) - James Chappell
+
 ## Xamarin
 
 - [Learn Xamarin By Creating Real World Cross-Platform Apps](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/) - Udemy
