@@ -732,7 +732,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Keras 
 
+- [Deep Learning Using Keras - The Basics](https://www.learnopencv.com/deep-learning-using-keras-the-basics/) - Vikas Gupta
+- [Develop Your First Neural Network In Python With Keras Step By Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) - Jason Brownlee
+- [Keras Home](https://keras.io/) - keras.io
 - [Keras or PyTorch As Your First Deep Learning Framework](https://deepsense.ai/keras-or-pytorch/) - Piotr Migdal
+- [Keras Tutorial: Deep Learning In Python](https://www.datacamp.com/community/tutorials/deep-learning-python) - Karlijn Willems
+- [Keras Tutorial: The Ultimate Beginner's Guide to Deep Learning In Python](https://elitedatascience.com/keras-tutorial-deep-learning-in-python) - Elite Data Science
+- [Transfer Learning With Keras and Deep Learning](https://www.pyimagesearch.com/2019/05/20/transfer-learning-with-keras-and-deep-learning/) - Adrian Rosebrock
 
 ## Kotlin
 
