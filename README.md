@@ -2,7 +2,7 @@
 
 This is a list of resources for self-study of software-related topics and skills. 
 
-- [General Learning Sites](#general)
+- [General Learning Sites](#general-learning-sites)
 
 ### - Numbers and Punctuation - ###
 
@@ -181,6 +181,23 @@ This is a list of resources for self-study of software-related topics and skills
 - [ZooKeeper](#zookeeper)
 
 <hr/>
+
+## General Learning Sites
+
+- [AWS Learning Paths](https://aws.amazon.com/training/learning-paths/)
+- [Codecademy](https://www.codecademy.com/)
+- [Coursera](https://www.coursera.org/)
+- [Do What You Love (dwyl)](https://github.com/dwyl)
+- [Google Open Online Education](https://edu.google.com/openonline/)
+- [IBM Developer](https://developer.ibm.com/)
+- [IBM Skills Gateway](https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=page&c=a0011023)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [Oracle Learning Library](https://www.oracle.com/technetwork/tutorials/index.html)
+- [PluralSight](https://learn.pluralsight.com/programs/pluralsight)
+- [Udemy](https://www.udemy.com/)
+
+## Specific Topics
 
 ## .NET 
 
