@@ -157,6 +157,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SCSS](#sass)
 - [Servlets](#servlets)
 - [Shell](#unixlinux-shell-scripting)
+- [Sinatra](#sinatra)
 - [Software Engineering](#software-engineering)
 - [Specification by Example](#specification-by-example)
 - [SQL](#sql)
@@ -1012,6 +1013,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Servlet Tutorial for Beginners](https://beginnersbook.com/2013/05/servlet-tutorial/) - Beginner's Book
 - [Servlets Tutorial](https://www.javatpoint.com/servlet-tutorial) - javaTpoint
 - [Servlets Tutorial](https://www.tutorialspoint.com/servlets/index.htm) - Tutorials Point
+
+## Sinatra
 
 ## Software Engineering 
 
