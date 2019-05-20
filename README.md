@@ -373,6 +373,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Boolean Algebra
 
+- [Boolean Algebra](http://electronics-course.com/boolean-algebra) - Electronics Course
+- [Boolean Algebra](https://www.tutorialspoint.com/computer_logical_organization/boolean_algebra.htm) - Tutorials Point
+- [Boolean Algebra and Reduction Techniques](https://grace.bluegrass.kctcs.edu/~kdunn0001/files/Simplification/4_Simplification_print.html) - K Dunn
+- [Boolean Algebra Truth Tables for Logic Gates](https://www.electronics-tutorials.ws/boolean/bool_7.html) - Electronics Tutorials
+- [Laws of Boolean Algebra](https://www.electronics-tutorials.ws/boolean/bool_6.html) - Electronics Tutorials
+- [Mathematics of Boolean Algebra](https://plato.stanford.edu/entries/boolalg-math/) - Stanford Encyclopedia of Philosophy
+
 ## Business Analysis 
 
 - [5 Steps to Becoming a Business Analyst](https://www.bridging-the-gap.com/becoming-a-business-analyst/) - Laura Brandenburg
