@@ -966,6 +966,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Quick and Dirty Introduction to Ruby](https://github.com/neopragma/self-start-ruby) - Dave Nicolette
 - [Ruby Fundamentals Course](https://www.pluralsight.com/courses/ruby-fundamentals) - Plural Sight
 - [Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/) - ruby-lang.org
+- [Ruby Koans](http://www.rubykoans.com/) - Edge Case
 - [Ruby Monk: Interactive Ruby Tutorials](https://rubymonk.com/) - Ruby Monk
 - [Ruby Study Notes](http://rubylearning.com/satishtalim/tutorial.html) - Satish Talim
 - [Try Ruby (browser-based)](https://ruby.github.io/TryRuby/) - (author not identified)
@@ -1003,7 +1004,15 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Scala
 
+- [Best Scala Tutorials](https://hackr.io/tutorials/learn-scala) - hackr.io *list of links*
+- [All About Scala](http://allaboutscala.com/) - All About Scala
+- [Functional Programming Principles In Scala](https://www.coursera.org/learn/progfun1) - Coursera
+- [Learn Scala](https://www.coursera.org/collections/learn-scala) - Coursers
 - [Learn Scala](https://www.learnscala.org/) - learnscala.org
+- [Learn Scala in Y Minutes](https://learnxinyminutes.com/docs/scala/) - Learn X in Y Minutes
+- [Scala Exercises](https://www.scala-exercises.org/) - 47 Degrees
+- [Scala Programming for Data Science](https://cognitiveclass.ai/learn/scala/) - Cognitive Class
+- [Scala Tutorial](https://www.tutorialspoint.com/scala/) - Tutorials Point
 
 ## Scheme
 
