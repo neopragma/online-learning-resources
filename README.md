@@ -25,6 +25,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Bash](#bash)
 - [Basis](#sap)
+- [Big Data](#big-data)
 - [Blockchain](#blockchain)
 - [Business Analysis](#business-analysis)
 
@@ -197,6 +198,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Google Open Online Education](https://edu.google.com/openonline/)
 - [IBM Developer](https://developer.ibm.com/)
 - [IBM Skills Gateway](https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=page&c=a0011023)
+- [javaTpoint](https://www.javatpoint.com/)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
@@ -303,6 +305,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learning Bash Scripting for Beginners](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/) - *list of links*
 - [The Bash Academy](https://www.bash.academy/) - (author not identified)
 - [The Bash Guide](https://guide.bash.academy/) - Maarten Billemont
+
+## Big Data
+
+- [Big Data Analytics](https://www.ibm.com/analytics/hadoop/big-data-analytics) - IBM
+- [Big Data and Hadoop](https://www.edureka.co/blog/hadoop-tutorial/) - Edureka
+- [Data Science vs. Big Data vs. Data Analytics](https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article) - Shivam Arora
+- [Hadoop - Big Data Overview](https://www.tutorialspoint.com/hadoop/hadoop_big_data_overview.htm) - Tutorials Point
+- [What Is Big Data?](https://www.oracle.com/big-data/guide/what-is-big-data.html) - Oracle
 
 ## Blockchain 
 
@@ -579,7 +589,15 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Hadoop 
 
+- [Big Data and Hadoop](https://www.edureka.co/blog/hadoop-tutorial/) - Edureka
+- [Hadoop - An Apache Hadoop Tutorial for Beginners](https://techvidvan.com/tutorials/apache-hadoop-tutorials/) - TechVidvan
+- [Hadoop - Big Data Overview](https://www.tutorialspoint.com/hadoop/hadoop_big_data_overview.htm) - Tutorials Point
+- [Hadoop Documentation](https://hadoop.apache.org/docs/r1.2.1/index.html) - Apache
 - [Hadoop Tutorial](https://www.guru99.com/bigdata-tutorials.html) - Guru99
+- [Hadoop Tutorial](https://www.javatpoint.com/hadoop-tutorial) - javaTpoint
+- [Hadoop Tutorial](https://www.tutorialspoint.com/hadoop/) - Tutorials Point
+- [Hadoop Tutorial for Beginners](https://data-flair.training/blogs/hadoop-tutorial/) - Data Flair
+- [Hadoop Tutorial - Getting Started with HDP](https://hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/) - HortonWorks
 
 ## Haskell
 
