@@ -156,6 +156,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Rails](#rails)
 - [React](#react)
 - [REST](#rest)
+- [Retrospectives](#retrospectives)
 - [Ruby](#ruby)
 
 ### - S - ###
@@ -1092,6 +1093,16 @@ This is a list of resources for self-study of software-related topics and skills
 - [Representational State Transfer (REST)](https://www.service-architecture.com/articles/web-services/representational_state_transfer_rest.html) - Service Architecture 
 - [REST API Tutorial](https://restfulapi.net/) - (author not identified)
 
+## Retrospectives 
+
+- [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) - Retrospective Wiki
+- [Agile Retrospectives](https://agile-retrospectives.com/) - Agile Retrospectives
+- [Fun Retrospectives](http://www.funretrospectives.com/) - Fun Retrospectives 
+- [Retrospective Exercises Toolbox](https://www.benlinders.com/exercises/) - Ben Linders
+- [Retrospectives](https://www.atlassian.com/team-playbook/plays/retrospective) - Atlassian
+- [Retrospectives](https://openpracticelibrary.com/practice/retrospectives/) - Tim Beattie
+- [The Second Directive](http://cwd.dhemery.com/2003/06/the_second_directive/) - Dale Emery
+- [What Is a Sprint Retrospective?](https://www.scrum.org/resources/what-is-a-sprint-retrospective) - Scrum.org
 
 ## Ruby 
 
