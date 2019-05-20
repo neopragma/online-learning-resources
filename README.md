@@ -919,7 +919,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## Terraform
 
 - [Learn About Provisioning Infrastructure With Terraform](https://learn.hashicorp.com/terraform/) - HashiCorp
-- [Learn DevOps: Infrstructure Automation with Terraform](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/) - Udemy]
+- [Learn DevOps: Infrstructure Automation with Terraform](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/) - Udemy
 
 ## Test Automation 
 
