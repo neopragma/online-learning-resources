@@ -174,6 +174,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Talend](#talend)
 - [Terraform](#terraform)
 - [Test Automation](#test-automation)
+- [Test-Driven Development](#test-driven-development)
 - [Testing](#testing)
 
 ### - U - ###
@@ -1096,7 +1097,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Swift
 
+- [Learn Swift From Scratch](https://www.weheartswift.com/learn-swift/) - We Heart Swift
+- [Learn Swift in Y Minutes](https://learnxinyminutes.com/docs/swift/) - Learn X in Y Minutes
+- [Learn To Code With Swift](https://learnswift.tips/) - Swift Tips
+- [Swift TDD: Test-Driven Development for Swift](https://www.udemy.com/tdd-swift/) - Udemy
 - [Swift Tutorial](https://www.programiz.com/swift-programming) - Parewa Labs
+- [Swift Tutorial](https://www.tutorialspoint.com/swift/) - Tutorials Point
 
 ## Tableau
 
@@ -1122,6 +1128,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [Test Automation University](https://testautomationu.applitools.com/) - Applitools
 - [Test Automation vs. Automated Testing](https://www.qasymphony.com/blog/test-automation-automated-testing/) - Kyle McMeekin
 - [Why Test Automation?](https://smartbear.com/solutions/automated-testing/) - Smart Bear
+
+## Test-Driven Development 
+
+- [Swift TDD: Test-Driven Development for Swift](https://www.udemy.com/tdd-swift/) - Udemy
 
 ## Testing 
 
