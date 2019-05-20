@@ -208,6 +208,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [X-Windows](#x-windows)
 - [Xamarin](#xamarin)
+- [XSLT](#xslt)
+- [XML](#xml)
+- [XML Schema](#xml-schema)
 
 ### - Y - ###
 
@@ -1336,6 +1339,34 @@ This is a list of resources for self-study of software-related topics and skills
 ## Xamarin
 
 - [Microsoft Learn: Xamarin](https://docs.microsoft.com/en-us/xamarin/) - Microsoft
+
+## XPath
+
+- [XPath Introduction](https://www.liquid-technologies.com/xpath-tutorial) - Liquid XML
+- [XPath Tutorial](https://www.javatpoint.com/xpath-tutorial) - javaTpoint
+- [XPath Tutorial](https://www.tutorialspoint.com/xpath/) - Tutorials Point
+- [XPath Tutorial](https://www.w3schools.com/XML/xpath_intro.asp) - w3schools
+
+## XSLT
+
+- [XML and XSLT](https://www.w3schools.com/xml/xml_xslt.asp) - w3schools
+- [XSLT Tutorial](https://www.javatpoint.com/xslt-tutorial) - javaTpoint
+- [XSLT Tutorial](https://www.tutorialspoint.com/xslt/) - Tutorials Point
+- [XSL(T) Languages](https://www.w3schools.com/XML/xsl_languages.asp) - w3schools
+
+## XML
+
+- [Extensible Markup Language (XML)](https://www.w3.org/XML/) - W3C
+- [XML Core Working Group Public Page(https://www.w3.org/XML/Core/#Publications) - W3C
+- [XML Tutorial](https://www.javatpoint.com/xml-tutorial) - javaTpoint
+- [XML Tutorial](https://www.tutorialspoint.com/xml/) - Tutorials Point
+- [XML Tutorial](https://www.w3schools.com/xml/) - w3schools
+
+## XML Schema 
+
+- [XML Schema(https://www.w3.org/standards/xml/schema) - W3C
+- [XML Schemas](https://www.tutorialspoint.com/xml/xml_schemas.htm) - Tutorials Point
+- [Understanding XML Schemas](https://www.xml.com/pub/a/1999/07/schemas/index.html) - XML.com
 
 ## ZooKeeper
 
