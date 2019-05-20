@@ -670,7 +670,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Informatica
 
+- [Informatica Start to Finish](https://www.udemy.com/informatica-power-center/) - Udemy
+- [Informatica Training and Certification](https://www.edureka.co/informatica) - Edureka
 - [Informatica Tutorial](https://www.guru99.com/informatica-tutorials.html) - Guru99
+- [Informatica Tutorial](https://www.tutorialgateway.org/informatica/) - Tutorial Gateway
+- [Informatica Tutorial Part 1](https://www.learnbi.com/blog/informatica-tutorial-part-1/) - LearnBI
+- also see [ETL](#etl)
 
 ## Infrastructure As Code 
 
