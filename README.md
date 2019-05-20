@@ -1140,8 +1140,35 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Test-Driven Development 
 
-- [Learn TDD Using JavaScript](https://github.com/dwyl/learn-tdd) - dwyl
-- [Swift TDD: Test-Driven Development for Swift](https://www.udemy.com/tdd-swift/) - Udemy
+- [Katas to Learn TDD](http://kata-log.rocks/tdd) - Kata Log
+- [Why TDD Is Hard and What To Do About It](https://davesquared.net/2011/03/why-learning-tdd-is-hard-and-what-to-do.html) - David Tchepak
+- [World's Best Intro to TDD](https://online-training.jbrains.ca/p/wbitdd-01) - Joe Rainsberger
+- [Clean Code Episode 6 Part 1: TDD](https://cleancoders.com/episode/clean-code-episode-6-p1/show) - Robert Martin
+- [TDD Kata in C#/F# Using FsCheck](https://www.mnie.me/2016-10-26-TDDKataInFSharpAndCSharpUsingFsCheck/) - Michał Niegrzybowski
+- [TDD C++](http://alexott.net/en/cpp/CppTestingIntro.html) - Alex Ott
+- [TDD C++](https://www.udemy.com/beginning-test-driven-development-in-c/) - Udemy
+- [TDD C++ Embedded](https://wingman-sw.com/training/tdd-embedded-cpp) - James Grenning
+- [TDD C#](https://www.c-sharpcorner.com/uploadfile/dommym/a-test-driven-development-tutorial-in-C-Sharp-4-0/) - C# Corner
+- [TDD Cocoa Touch](https://learntdd.in/cocoa-touch/) - Learn TDD in
+- [TDD Ember](https://learntdd.in/ember/) - Learn TDD in
+- [TDD F#](https://zpbappi.com/simple-calculator-using-tdd-in-fsharp-part-1/) - Zp Bappi
+- [TDD Java](https://javabeat.net/test-driven-development-in-java/) - Java Beat
+- [TDD Java](https://www.udemy.com/learn-tdd-in-java/) - Udemy
+- [TDD JavaScript](https://github.com/dwyl/learn-tdd) - dwyl
+- [TDD Mocha](https://www.codecademy.com/learn/learn-javascript-unit-testing/modules/learn-mocha-tdd) - Codecademy
+- [TDD PowerShell](https://www.leadingagile.com/2018/10/unit-testing-shell-scriptspart-four/) - Dave Nicolette
+- [TDD Python](https://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137) - Envato Tuts+
+- [TDD Python](https://rubikscode.net/2019/03/04/test-driven-development-tdd-with-python/) - Rubiks Code
+- [TDD Python](https://www.udemy.com/unit-testing-and-tdd-in-python/) - Udemy
+- [TDD Rails](https://www.codementor.io/ruby-on-rails/tutorial/getting-started-learn-test-driven-development) - CodeMentor
+- [TDD Rails](https://learntdd.in/rails/) - Learn TDD in
+- [TDD Rails](https://www.udemy.com/rails-tdd/) - Udemy
+- [TDD React](https://learntdd.in/react/) - Learn TDD in
+- [TDD React Native](https://learntdd.in/react-native/) - Learn TDD in
+- [TDD Ruby](https://code.tutsplus.com/courses/test-driven-development-in-ruby) - Envato Tuts+
+- [TDD Ruby](https://thoughtbot.com/upcase/testing) - ThoughtBot
+- [TDD Swift](https://www.udemy.com/tdd-swift/) - Udemy
+- [TDD Vue](https://learntdd.in/vue/) - Learn TDD in
 
 ## Testing 
 
