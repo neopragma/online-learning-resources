@@ -615,6 +615,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Excel Online](https://www.goskills.com/Excel) - GoSkills
 - [Microsoft Excel: From Beginner to Expert in 6 Hours](https://www.udemy.com/thebestexcel/) - Udemy
 - [Microsoft Excel Tutorial for Beginners (Video)](https://www.youtube.com/watch?v=8L1OVkw2ZQ8) - MotionTraining
+- [VBA in Excel](https://www.excel-easy.com/vba.html) - Excel-Easy
+- [VBA Tutorial in Excel](https://analysistabs.com/vba-tutorial/) -  AnalysisTabs
 
 ## F#
 
@@ -1237,10 +1239,17 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## VBA 
 
+- [Ultimate VBA Tutorial](https://excelmacromastery.com/vba-tutorial-1/) - Paul Kelly
+- [VBA in Excel](https://www.excel-easy.com/vba.html) - Excel-Easy
 - [VBA Tutorial](https://www.guru99.com/vba-tutorial.html) - Guru99
+- [VBA Tutorial](https://www.tutorialspoint.com/vba/) - Tutorials Point
+- [VBA Tutorial in Excel](https://analysistabs.com/vba-tutorial/) -  AnalysisTabs
 
 ## VBScript 
 
+- [Learn VBScript From Scratch](https://www.softwaretestinghelp.com/vbscript-tutorial-1/) - Software Testing Help
+- [VBScript Functions](https://www.w3schools.com/asp/asp_ref_vbscript_functions.asp) - w3schools
+- [VBScript Tutorial](https://www.tutorialspoint.com/vbscript/) - Tutorials Point
 - [VBScript Tutorial for Beginners](https://www.guru99.com/vbscript-tutorials-for-beginners.html) - Guru99
 
 ## Vue
