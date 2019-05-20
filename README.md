@@ -783,7 +783,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## MySQL
 
+- [MySQL Tutorial](http://www.mysqltutorial.org/) - mysqltutorial.org
+- [MySQL Tutorial](https://www.tutorialspoint.com/mysql/) - Tutorials Point
 - [MySQL Tutorial for Beginners](https://www.guru99.com/mysql-tutorial.html) - Guru99
+- [Tutorial section of MySQL Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html) - MySQL
 
 ## Natural Language Processing 
 
@@ -923,6 +926,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## SQL
 
 - [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
+- [SQL Tutorial](https://www.w3schools.com/sql/) - w3schools
 - [SQL Tutorial for Beginners](https://www.guru99.com/sql.html) - Guru99
 
 ## SQLite
