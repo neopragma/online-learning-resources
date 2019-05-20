@@ -1063,6 +1063,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## SQLite
 
+- [SQLite Archives](https://www.essentialsql.com/category/learn-sqlite/) - Essential SQL
+- [SQLite Tutorial](http://www.sqlitetutorial.net/) - SQLite Tutorial
+- [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) - Tutorials Point
 - [SQLite Tutorial for Beginners](https://www.guru99.com/sqlite-tutorial.html) - Guru99
 
 ## SQLServer
