@@ -150,6 +150,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Sass](#sass)
 - [Scala](#scala)
 - [SCSS](#sass)
+- [Servlets](#servlets)
 - [Shell](#unixlinux-shell-scripting)
 - [Software Engineering](#software-engineering)
 - [SQL](#sql)
@@ -868,6 +869,13 @@ This is a list of resources for self-study of software-related topics and skills
 ## Scala
 
 - [Learn Scala](https://www.learnscala.org/) - learnscala.org
+
+## Servlets 
+
+- [Java Servlet Technology: The Java EE6 Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html) - Oracle
+- [Servlet Tutorial for Beginners](https://beginnersbook.com/2013/05/servlet-tutorial/) - Beginner's Book
+- [Servlets Tutorial](https://www.javatpoint.com/servlet-tutorial) - javaTpoint
+- [Servlets Tutorial](https://www.tutorialspoint.com/servlets/index.htm) - Tutorials Point
 
 ## Software Engineering 
 
