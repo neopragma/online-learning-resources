@@ -194,6 +194,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [IBM Developer](https://developer.ibm.com/)
 - [IBM Skills Gateway](https://www-03.ibm.com/services/learning/ites.wss/zz-en?pageType=page&c=a0011023)
 - [Khan Academy](https://www.khanacademy.org/)
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Oracle Learning Library](https://www.oracle.com/technetwork/tutorials/index.html)
 - [PluralSight](https://learn.pluralsight.com/programs/pluralsight)
@@ -548,6 +549,12 @@ This is a list of resources for self-study of software-related topics and skills
 ## F#
 
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [F# for Fun and Profit](https://fsharpforfunandprofit.com) - Scott Wlaschin
+- [F# Guide](https://docs.microsoft.com/en-us/dotnet/fsharp/) - Microsoft
+- [F# Tutorial](https://www.tutorialspoint.com/fsharp/) - Tutorials Point
+- [F# Tutorial (Video)](https://www.youtube.com/watch?v=c7eNDJN758U) - Derek Banas
+- [Learn F# in Y Minutes](https://learnxinyminutes.com/docs/fsharp/) - Learn X in Y Minutes
+- [Learning F#](https://fsharp.org/learn.html) - fsharp.org
 
 ## Go
 
