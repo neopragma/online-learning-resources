@@ -849,6 +849,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Photoshop
 
+- [Photoshop Tutorials](https://www.photoshopessentials.com/) - Photoshop Essentials
+- [Photoshop Tutorials](https://www.photoshoptutorials.ws/) - Photoshop Tutorials
+- [Photoshop Tutorials (Video)](https://www.youtube.com/channel/UC6lrxMZggMaN1u2V9N2-zrQ) - (author not identified)
 - [Photoshop Tutorials for Beginners](https://www.guru99.com/photoshop-tutorials.html) - Guru99
 
 ## PHP
