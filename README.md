@@ -88,6 +88,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Informatica](#informatica)
 - [Infrastructure As Code](#infrastructure-as-code)
+- [Interview Questions](#interview-questions)
 
 ### - J - ###
 
@@ -747,6 +748,24 @@ This is a list of resources for self-study of software-related topics and skills
 - [Infrastructure As Code: Modern Approach to Managing Infrastructure](https://puppet.com/solutions/infrastructure-as-code) - Puppet Labs
 - [Infrastructure As Code Tutorial](https://hackernoon.com/infrastructure-as-code-tutorial-e0353b530527) - Hacker Noon
 - [What Is Infrastructure as Code?](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code) - Microsoft
+
+## Interview Questions
+
+- [Programmer Interview Questions](https://www.programmerinterview.com/) - Programmer Interview
+- [Java Interview Questions](https://www.javatpoint.com/corejava-interview-questions) - javaTpoint
+- [Epic List](http://katemats.com/interview-questions/) - Katemats
+- [Software Engineer Interview Questions](https://www.thebalancecareers.com/software-engineer-interview-questions-2063875) - The Balance Careers
+- [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) - Hacker Noon
+- [Real Time Software QA Interview Questions](https://www.softwaretestingmaterial.com/software-qa-interview-questions-answers/) - Software Testing Material 
+- [Top 100 Software Testing Interview Questions](https://www.softwaretestingmaterial.com/100-software-testing-interview-questions/) - Software Testing Material
+- [20 Best Interview Questions for Software Testing](https://www.qasymphony.com/blog/20-best-software-tester-interview-questions/
+) - QA Symphony 
+- [Software Testing Interview Questions](http://www.geekinterview.com/Interview-Questions/Testing/Software-Testing) - Geek Interview
+- [33 Common Software Engineering Interview Questions](https://www.paysa.com/blog/33-common-software-engineering-interview-questions/) - Paysa
+- [Software Interview Questions](https://www.allinterview.com/interview-questions/1/software.html) - All Interview
+- [Software Engineering Interview Questions](https://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm) - Tutorials Point
+- [Software Testing Interview Questions](https://www.testingexcellence.com/software-testing-interview-questions-answers/) - Testing Excellence
+- [140 Google Interview Questions](https://www.impactinterview.com/2009/10/140-google-interview-questions/) - Impact Interview
 
 ## Java
 
