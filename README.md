@@ -214,6 +214,8 @@ This is a list of resources for self-study of software-related topics and skills
 
 ### - Y - ###
 
+- [Yaml](#yaml)
+
 ### - Z - ###
 
 - [ZooKeeper](#zookeeper)
@@ -1378,6 +1380,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [XML Schema(https://www.w3.org/standards/xml/schema) - W3C
 - [XML Schemas](https://www.tutorialspoint.com/xml/xml_schemas.htm) - Tutorials Point
 - [Understanding XML Schemas](https://www.xml.com/pub/a/1999/07/schemas/index.html) - XML.com
+
+## Yaml
+
+- [Learn Yaml in Y Minutes](https://learnxinyminutes.com/docs/yaml/) - Learn X in Y Minutes
 
 ## ZooKeeper
 
