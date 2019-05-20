@@ -34,8 +34,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Database Management Systems](#database-management-systems)
 - [DevOps](#devops)
 - [Digital Marketing](#digital-marketing)
-- [ECMA Script](#ecma-script)
-- [Elixir](#elixir-programming)
+- [ECMAScript](#ecma-script)
+- [Elixir](#elixir)
 - [Ethical Hacking](#ethical-hacking)
 - [ETL](#etl)
 - [Excel](#excel)
@@ -369,7 +369,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Google Digital Marketing Certification](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) - Google
 - [The Complete Digital Marketing Course](https://www.udemy.com/learn-digital-marketing-course/) - Udemy
 
-## ECMA Script
+## ECMAScript
 
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) - Codecademy
 - [Introduction to JavaScript](https://www.quickstart.com/javascript-short.html) - QuickStart
