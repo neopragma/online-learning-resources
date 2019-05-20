@@ -744,7 +744,16 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Logic, Critical Thinking, Systems Thinking 
 
+- [Ackoff, Russell: Talks](https://www.youtube.com/results?search_query=russell+ackoff) - YouTube
+- [Critical Thinking](https://www.utc.edu/walker-center-teaching-learning/teaching-resources/ct-ps.php) - Univ of Tennessee
+- [Deductive Reasoning vs. Inductive Reasoning](https://www.livescience.com/21569-deduction-vs-induction.html) - Alina Bradford
+- [Defining Critical Thinking](https://www.criticalthinking.org/pages/defining-critical-thinking/766) - CriticalThinking.org
+- [Introduction to Systems Thinking](https://thesystemsthinker.com/introduction-to-systems-thinking/) - Daniel Kim
 - [Logic and Computational Thinking](https://www.quickstart.com/logic-and-computational-thinking.html) - QuickStart
+- [Logical Fallacies](https://www.logicalfallacies.org/) - logicalfallacies.org
+- [Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/engl1311/fallacies.htm) - Univ of Texas
+- [Systems Thinking](http://learningforsustainability.net/systems-thinking/) - Learning for Sustainability
+- [Thinking: Types, Development and Tools](http://www.psychologydiscussion.net/thinking/thinking-types-development-and-tools-psychology/2058) - S Reshma
 
 ## Management Information Systems
 
