@@ -27,6 +27,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Basis](#sap)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
+- [Boolean Algebra](#boolean-algebra)
 - [Business Analysis](#business-analysis)
 
 ### - C - ###
@@ -337,6 +338,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Blockchains By Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46) - Hacker Noon
 - [Smart Contracts](https://learn-blockchain.com/) - Learn Blockchain
 - [Understanding the Blockchain](https://www.oreilly.com/ideas/understanding-the-blockchain) - William Mougayar
+
+## Boolean Algebra
 
 ## Business Analysis 
 
