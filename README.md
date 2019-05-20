@@ -1282,3 +1282,5 @@ This is a list of resources for self-study of software-related topics and skills
 ## ZooKeeper
 
 - [ZooKeeper Tutorial](https://www.guru99.com/zookeeper-tutorial.html) - Guru99
+- [ZooKeeper Tutorial](https://www.tutorialspoint.com/zookeeper/) - Tutorials Point
+
