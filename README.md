@@ -864,6 +864,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## PL/SQL
 
+- [PL/SQL Learning Resources on Oracle TechNetwork](https://www.oracle.com/technetwork/database/features/plsql/index.html) - Oracle
+- [PL/SQL Tutorial](http://www.plsqltutorial.com/) - plsqltutorial.com
+- [PL/SQL Tutorial](http://plsql-tutorial.com/) - plsql-tutorial.com
+- [PL/SQL Tutorial](https://www.tutorialspoint.com/plsql/) - Tutorials Point
 - [PL/SQL Tutorial for Beginners](https://www.guru99.com/pl-sql-tutorials.html) - Guru99
 
 ## PMP 
