@@ -897,7 +897,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Project Management 
 
+- [6 Essential Project Management Skills They Don't Teach In School](https://www.liquidplanner.com/blog/6-essential-project-management-skills-dont-teach-school/) - Andy Crowe
+- [PMI Learning](https://www.pmi.org/learning/) - PMI
+- [Project Management: The Basics for Success](https://www.coursera.org/learn/project-management-basics) - Coursera
 - [Project Management Tutorial](https://www.guru99.com/project-management-methodology.html) - Guru99
+- [The Junior Project Manager: Learning Project Management Through Stories](https://project-management.com/the-junior-project-manager-learning-project-management-through-stories/) - Jose Maria Delos Santos
 
 ## Python
 
