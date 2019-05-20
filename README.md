@@ -2,7 +2,14 @@
 
 This is a list of resources for self-study of software-related topics and skills. 
 
+- [General Learning Sites](#general)
+
+####- Numbers and Punctuation - ####
+
 - [.NET](#net)
+
+####- A - ####
+
 - [ABAP](#sap)
 - [Accounting](#accounting)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
