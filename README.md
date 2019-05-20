@@ -149,6 +149,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Racket](#racket)
 - [Rails](#rails)
 - [React](#react)
+- [REST](#rest)
 - [Ruby](#ruby)
 
 ### - S - ###
@@ -1003,6 +1004,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [Introduction to ReactJS](https://www.quickstart.com/introduction-to-reactjs.html) - QuickStart
 - [Learn React for Free](https://scrimba.com/g/glearnreact) - Scrimba
 - [React for Beginners](https://reactforbeginners.com/) - Wes Bos
+
+## REST
+
+- [Representational State Transfer - Fielding Dissertation, Chapter 5](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Roy Fielding
+- [Representational State Transfer (REST)](https://www.service-architecture.com/articles/web-services/representational_state_transfer_rest.html) - Service Architecture 
+- [REST API Tutorial](https://restfulapi.net/) - (author not identified)
+
 
 ## Ruby 
 
