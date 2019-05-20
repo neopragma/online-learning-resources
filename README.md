@@ -183,6 +183,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [VBA](#vba)
 - [VBScript](#vbscript)
+- [Vue](#vue)
 
 ### - W - ###
 
@@ -192,6 +193,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ### - X - ###
 
+- [X-Windows](#x-windows)
 - [Xamarin](#xamarin)
 
 ### - Y - ###
@@ -1109,6 +1111,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## VBScript 
 
 - [VBScript Tutorial for Beginners](https://www.guru99.com/vbscript-tutorials-for-beginners.html) - Guru99
+
+## Vue
 
 ## Web Services 
 
