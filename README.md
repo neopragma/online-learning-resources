@@ -144,6 +144,7 @@ This is a list of resources for self-study of software-related topics and skills
 ### - R - ###
 
 - [R](#r)
+- [Racket](#racket)
 - [Rails](#rails)
 - [React](#react)
 - [Ruby](#ruby)
@@ -943,6 +944,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [R Programming Tutorial](https://www.guru99.com/r-tutorial.html) - Guru99
 - [R Tutorial](https://www.statmethods.net/r-tutorial/index.html) - DataCamp
 
+## Racket
+
+- [Racket Home](https://racket-lang.org/) - racket-lang.org
+
 ## Rails 
 
 - [Learn Rails](https://github.com/RailsApps/learn-rails) - RailsApps
@@ -1016,6 +1021,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Scheme
 
+- [Best Scheme Tutorials](https://hackr.io/tutorials/learn-scheme) - hackr.io *list of links*
+- [Learn Scheme in 15 Minutes](https://web-artanis.com/scheme.html) - Artanis
+- [Scheme Tutorial](http://roboguy.net/tutorials/scheme.php) - Roboguy
+
 ## Servlets 
 
 - [Java Servlet Technology: The Java EE6 Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html) - Oracle
@@ -1031,6 +1040,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## Software Engineering 
 
 - [Software Engineering Tutorial](https://www.guru99.com/software-engineering-tutorial.html) - Guru99
+- [Structure and Interpretation of Computer Programs (SICP)](https://mitpress.mit.edu/sites/default/files/sicp/index.html) - Abelson, Sussman, Sussman
 
 ## Specification by Example
 
