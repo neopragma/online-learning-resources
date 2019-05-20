@@ -364,7 +364,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Digital Marketing 
 
+- [Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing) - Coursera
 - [Digital Marketing Tutorial](https://www.guru99.com/free-digital-marketing-tutorial.html) - Guru99
+- [Google Digital Marketing Certification](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) - Google
+- [The Complete Digital Marketing Course](https://www.udemy.com/learn-digital-marketing-course/) - Udemy
 
 ## ECMA Script
 
