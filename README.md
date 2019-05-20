@@ -124,6 +124,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ### - O - ###
 
+- [Observability](#observability)
 - [OCaml](#ocaml)
 
 ### - P - ###
@@ -859,6 +860,20 @@ This is a list of resources for self-study of software-related topics and skills
 - [NumPy Tutorial](https://www.tutorialspoint.com/numpy/index.htm) - Tutorials Point
 - [NumPy Tutorial: Data Analysis With Python](https://www.dataquest.io/blog/numpy-tutorial-python/) - Dataquest
 - [Python NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) - Justin Johnson
+
+## Observability
+
+- [Learn About O11y](https://docs.honeycomb.io/learning-about-observability/) - Honeycomb.io
+- [Monitoring and Observability](https://medium.com/@copyconstruct/monitoring-and-observability-8417d1952e1c) - Cindy Sridharan
+- [Monitoring and Observability: What's the Difference?](https://thenewstack.io/monitoring-and-observability-whats-the-difference-and-why-does-it-matter/) - Peter Waterhouse
+- [Observability Engineering](https://softwareengineeringdaily.com/2019/04/23/observability-engineering-with-james-burns/) - James Burns
+- [On the Rookout for Live Data](https://www.zdnet.com/article/on-the-rookout-for-live-data-instant-observability-to-fix-software-bugs-and-open-ai-black-boxes/) - George Anadiotis
+- [The Need for Observability](https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch01.html) - Cindy Sridharan
+- [The Observability Pipeline](https://bravenewgeek.com/the-observability-pipeline/) - Tyler Treat
+- [Three Pillars of Observability](https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/ch04.html) - Cindy Sridharan
+- [What Is Observability?](https://www.honeycomb.io/what-is-observability/) - Honeycomb.io
+- [Observability Tooling: Honeycomb](https://www.honeycomb.io/) - Honeycomb.io
+- [Observability Tooling: Thundra](https://serverless.com/blog/state-of-serverless-observability-why-we-built-thundra/) - Serkan Ozal
 
 ## OCaml
 
