@@ -180,6 +180,8 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [ZooKeeper](#zookeeper)
 
+<hr/>
+
 ## .NET 
 
 - [.NET Application Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) - Microsoft
