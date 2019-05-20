@@ -167,7 +167,6 @@ This is a list of resources for self-study of software-related topics and skills
 - [SCSS](#sass)
 - [Semantic Versioning](#semantic-versioning)
 - [Servlets](#servlets)
-- [Shell](#unixlinux-shell-scripting)
 - [Sinatra](#sinatra)
 - [Software Engineering](#software-engineering)
 - [Specification by Example](#specification-by-example)
