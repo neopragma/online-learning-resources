@@ -159,6 +159,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Sass](#sass)
 - [Scala](#scala)
 - [Scheme](#scheme)
+- [Scrum](#scrum)
 - [SCSS](#sass)
 - [Semantic Versioning](#semantic-versioning)
 - [Servlets](#servlets)
@@ -1082,6 +1083,12 @@ This is a list of resources for self-study of software-related topics and skills
 - [Best Scheme Tutorials](https://hackr.io/tutorials/learn-scheme) - hackr.io *list of links*
 - [Learn Scheme in 15 Minutes](https://web-artanis.com/scheme.html) - Artanis
 - [Scheme Tutorial](http://roboguy.net/tutorials/scheme.php) - Roboguy
+
+## Scrum
+
+- [The Scrum Guide](https://scrumguides.org/) - Sutherland, Schwaber
+- [Scrum Alliance Certification Types and Tracks](https://www.scrumalliance.org/get-certified) - Scrum Alliance
+- [Scrum.org Certification Overview](https://www.scrum.org/index.php/professional-scrum-certifications) - Scrum.org
 
 ## Semantic Versioning 
 
