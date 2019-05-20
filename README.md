@@ -872,7 +872,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## PMP 
 
+- [Free PMP Practice Test](https://www.simplilearn.com/pmp-exam-prep-free-practice-test) - Simplilearn
+- [Getting PMP Certified: Study Notes, Tips, and Lessons Learned](https://edward-designer.com/web/pmp/) - Edward Designer
+- [PMP Certification](https://rmcls.com/pmp) - RMC Learning Solutions
+- [PMP Exam Prep](https://www.pmi.org/certifications/types/project-management-pmp/exam-prep) - PMI
 - [PMP Tutorial](https://www.guru99.com/pmp-tutorial.html) - Guru99
+- [Top 7 Tips for PMP Exam Preparation](https://www.simplilearn.com/7-tips-to-prepare-for-pmp-certification-exam-rar243-article) - Avantika Monnappa
 
 ## PostgreSQL
 
