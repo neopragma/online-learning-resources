@@ -156,6 +156,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Servlets](#servlets)
 - [Shell](#unixlinux-shell-scripting)
 - [Software Engineering](#software-engineering)
+- [Specification by Example](#specification-by-example)
 - [SQL](#sql)
 - [SQLite](#sqlite)
 - [SQLServer](#sqlserver)
@@ -909,6 +910,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## Software Engineering 
 
 - [Software Engineering Tutorial](https://www.guru99.com/software-engineering-tutorial.html) - Guru99
+
+## Specification by Example
 
 ## SQL
 
