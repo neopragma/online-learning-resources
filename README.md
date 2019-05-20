@@ -94,6 +94,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Java](#java)
 - [JavaScript](#ecma-script)
 - [Jenkins](#jenkins)
+- [JSON](#json)
 - [JSP](#jsp)
 
 ### - K - ###
@@ -762,6 +763,16 @@ This is a list of resources for self-study of software-related topics and skills
 - [Jenkins Tutorial](https://www.tutorialspoint.com/jenkins/) - Tutorials Point
 - [Jenkins Documentation](https://jenkins.io/doc/) - Jenkins
 - [Learn Jenkins from a DevOps Guru](https://www.udemy.com/course/jenkins-devops-pipeline-as-code/) - Udemy
+
+## JSON 
+
+- [JSON Example](http://www.json.org/example.html) - json.org
+- [JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp) - w3schools
+- [JSON Tutorial](https://www.tutorialspoint.com/json/) - Tutorials Point 
+- [JSON Tutorial](https://www.w3resource.com/JSON/introduction.php) - w3resource
+- [Learn JSON](https://www.javatpoint.com/json-tutorial) - javaTpoint
+- [Learn JSON in 10 Minutes](https://beginnersbook.com/2015/04/json-tutorial/) - Beginner's Book
+
 
 ## JSP 
 
