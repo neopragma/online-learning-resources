@@ -1089,6 +1089,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [The Scrum Guide](https://scrumguides.org/) - Sutherland, Schwaber
 - [Scrum Alliance Certification Types and Tracks](https://www.scrumalliance.org/get-certified) - Scrum Alliance
 - [Scrum.org Certification Overview](https://www.scrum.org/index.php/professional-scrum-certifications) - Scrum.org
+- [Dark Scrum](https://ronjeffries.com/articles/016-09ff/defense/) - Ron Jeffries
 
 ## Semantic Versioning 
 
