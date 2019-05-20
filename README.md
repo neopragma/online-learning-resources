@@ -148,7 +148,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SAP](#sap)
 - [Sass](#sass)
 - [Scala](#scala)
-- [SCSS](#scss)
+- [SCSS](#sass)
 - [Shell](#unixlinux-shell-scripting)
 - [Software Engineering](#software-engineering)
 - [SQL](#sql)
@@ -622,6 +622,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Haml 
 
+- [Haml in Rails](https://www.learnacademy.org/blog/tech-talks-haml-in-rails/) - Vanessa Christensen
+- [Haml Tutorial](http://haml.info/tutorial.html) - haml.info
+- [Learn Haml in Y minutes](https://learnxinyminutes.com/docs/haml/) - Learn X in Y Minutes
+- also see [HTML and CSS](#html-and-css), [Sass](#sass), [SCSS](#scss), [Less](#less)
+
 ## Haskell
 
 - [Codewars](https://www.codewars.com/) - Qualified 
@@ -646,6 +651,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## HTML and CSS 
 
+- [Advanced HTML and CSS](https://learn.shayhowe.com/advanced-html-css/) - Shay Howe
 - [CSS Beginner Tutorial](https://htmldog.com/guides/css/beginner/) - HTML Dog
 - [CSS Flashcards](https://quizlet.com/76396558/css-superset-flash-cards/) - Quizlet
 - [CSS Style Guides](https://css-tricks.com/css-style-guides/) - Chris Coyier
@@ -657,7 +663,9 @@ This is a list of resources for self-study of software-related topics and skills
 - [HTML5 Tutorial](http://html.net/tutorials/html5/) - HTML.net
 - [Learn HTML and CSS](https://www.learn-html.org/) - learn-html.org
 - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/) - Shay Howe
-- also see [Haml](#haml), [Sass](#sass), [SCSS](#scss), [Less](#less)
+- [Rendera - Online HTML/CSS Testing](http://rendera.herokuapp.com/) - Brian Hogan
+- [W3C Markup Validation Service](https://validator.w3.org/) - W3C
+- also see [Haml](#haml), [Sass](#sass), [Less](#less)
 
 ## Informatica
 
@@ -694,6 +702,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
 
 ## Less
+
+- [Less CSS - Beginner's Guide](https://www.hongkiat.com/blog/less-basic/) - Thoriq Firdaus
+- [Less Usage](http://lesscss.org/usage/) - lesscss.org
+- also see [Haml](#haml), [Sass](#sass), [HTML and CSS](#html-and-css)
 
 ## Lisp
 
@@ -824,7 +836,12 @@ This is a list of resources for self-study of software-related topics and skills
 - [Security Tutorial](https://www.guru99.com/overview-of-sap-security.html) - Guru99
 - [Solution Manager Tutorial](https://www.guru99.com/overview-of-sap-solution-manager.html) - Guru99
 
-## Sass
+## Sass 
+
+- [Sass Basics](https://sass-lang.com/guide) - sass-lang.com
+- [Sass Style Guide](https://css-tricks.com/sass-style-guide/) - Chris Coyier
+- [Sassmeister - The Sass Playground](https://www.sassmeister.com/) - Sassmeister
+- also see [HTML and CSS](#html-and-css), [Haml](#haml), [Less](#less)
 
 ## Scala
 
@@ -833,8 +850,6 @@ This is a list of resources for self-study of software-related topics and skills
 ## Software Engineering 
 
 - [Software Engineering Tutorial](https://www.guru99.com/software-engineering-tutorial.html) - Guru99
-
-## SCSS
 
 ## SQL
 
