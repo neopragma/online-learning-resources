@@ -371,9 +371,16 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## ECMA Script
 
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) - Codecademy
 - [Introduction to JavaScript](https://www.quickstart.com/javascript-short.html) - QuickStart
 - [JavaScript](https://www.quickstart.com/javascript.html) - QuickStart
+- [JavaScript Tutorial](https://www.w3schools.com/js/DEFAULT.asp) - w3schools
+- [Learn ECMAScript 2017](https://www.udemy.com/learning-ecmascript-2017/) - Udemy
+- [Learn ES6 (ECMASCript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) - Egghead
 - [Learn JavaScript](https://www.learn-js.org/) - learn-js.org
+- [Learn JavaScript for Beginners](https://www.udemy.com/learn-javascript-course/) - Udemy
+- [Learn JavaScript: Full Course for Beginners (Video)](https://www.youtube.com/watch?v=PkZNo7MFNFg) - freeCodeCamp.org
+- [Try JavaScript Online (Simulator)](https://www.javascript.com/try) - Plural Sight
 
 ## Elixir
 
