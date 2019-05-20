@@ -811,6 +811,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Node.js
 
+- [Node.js Tutorials](https://stackify.com/learn-nodejs-tutorials/) - Stackify *list of links*
+- [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp) - w3schools
+- [Node.js Tutorial](https://www.tutorialspoint.com/nodejs/) - Tutorials Point
 - [Node.js Tutorial for Beginners](https://www.guru99.com/node-js-tutorial.html) - Guru99
 
 ## NuGet
