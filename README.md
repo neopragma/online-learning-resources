@@ -140,6 +140,7 @@ This is a list of resources for self-study of software-related topics and skills
 ### - R - ###
 
 - [R](#r)
+- [Rails](#rails)
 - [React](#react)
 - [Ruby](#ruby)
 
@@ -803,6 +804,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [R for Data Science](http://makemeanalyst.com/r-programming/) - Make Me Analyst
 - [R Programming Tutorial](https://www.guru99.com/r-tutorial.html) - Guru99
 - [R Tutorial](https://www.statmethods.net/r-tutorial/index.html) - DataCamp
+
+## Rails 
 
 ## React
 
