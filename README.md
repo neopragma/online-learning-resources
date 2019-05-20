@@ -942,6 +942,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Rails 
 
+- [Learn Rails](https://github.com/RailsApps/learn-rails) - RailsApps
+- [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) - Codecademy
+- [Learn Ruby on Rails (Screencast series)](https://gorails.com/) - GoRails
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/) - Ruby on Rails
+
 ## React
 
 - [Introduction to ReactJS](https://www.quickstart.com/introduction-to-reactjs.html) - QuickStart
