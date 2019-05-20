@@ -4,11 +4,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [General Learning Sites](#general)
 
-####- Numbers and Punctuation - ####
+#### - Numbers and Punctuation - ####
 
 - [.NET](#net)
 
-####- A - ####
+#### - A - ####
 
 - [ABAP](#sap)
 - [Accounting](#accounting)
