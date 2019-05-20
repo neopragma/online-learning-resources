@@ -149,6 +149,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SAP](#sap)
 - [Sass](#sass)
 - [Scala](#scala)
+- [Scheme](#scheme)
 - [SCSS](#sass)
 - [Servlets](#servlets)
 - [Shell](#unixlinux-shell-scripting)
@@ -734,6 +735,13 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Lisp
 
+- [Best Lisp Tutorials](https://hackr.io/tutorials/learn-lisp) - hackr.io *list of links*
+- [Learn Common Lisp](https://lisp-lang.org/learn/) - lisp-lang.org
+- [Learn Common Lisp in Y Minutes](https://learnxinyminutes.com/docs/common-lisp/) - Learn X in Y Minutes
+- [Learn Emacs Lisp](https://www.emacswiki.org/emacs/LearnEmacsLisp) - Emacs Wiki
+- [Learn You a Lisp in 0 Minutes](https://hackernoon.com/learn-you-a-lisp-in-0-minutes-e0c1a060a178) - Oleksandr Kaleniuk
+- [Lisp Tutorial](https://www.tutorialspoint.com/lisp/index.htm) - Tutorials Point
+
 ## Logic, Critical Thinking, Systems Thinking 
 
 - [Logic and Computational Thinking](https://www.quickstart.com/logic-and-computational-thinking.html) - QuickStart
@@ -873,6 +881,8 @@ This is a list of resources for self-study of software-related topics and skills
 ## Scala
 
 - [Learn Scala](https://www.learnscala.org/) - learnscala.org
+
+## Scheme
 
 ## Servlets 
 
