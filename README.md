@@ -1,6 +1,6 @@
 # Online Learning Resources 
 
-This is a list of resources for self-study of software-related topics and skills. 
+This is a list of resources for self-study of software-related topics and skills. This is a collection of links. The author is not responsible for the content, availability, or quality of resources external to this page. 
 
 - [General Learning Sites](#general-learning-sites)
 
@@ -949,7 +949,10 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## React
 
+- [Best React Tutorials](https://hackr.io/tutorials/learn-react) - hackr.io *list of links*
 - [Introduction to ReactJS](https://www.quickstart.com/introduction-to-reactjs.html) - QuickStart
+- [Learn React for Free](https://scrimba.com/g/glearnreact) - Scrimba
+- [React for Beginners](https://reactforbeginners.com/) - Wes Bos
 
 ## Ruby 
 
