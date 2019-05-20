@@ -384,7 +384,16 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Elixir
 
+- [Learn Elixir](https://hackr.io/tutorials/learn-elixir) - hackr.io *list of links*
 - [Codewars](https://www.codewars.com/) - Qualified 
+- [Elixir Sips](http://elixirsips.com/) - Josh Adams
+- [Getting Started with Elixir](https://www.pluralsight.com/courses/elixir-getting-started) - Plural Sight
+- [Learn Elixir](https://github.com/dwyl/learn-elixir) - dwyl
+- [Learn Elixir](https://elixircasts.io/learn-elixir) - ElixirCasts
+- [Learn Elixir](https://learn-elixir.com/) - learn-elixir.com
+- [Learn Elixir in Y Minutes](https://learnxinyminutes.com/docs/elixir/) - Learn X in Y Minutes
+- [Learn Elixir with Step by Step Screencasts](https://www.learnelixir.tv/) - learnelixir.tv
+- [Learning Resources](https://elixir-lang.org/learning.html) elixir-lang.org
 
 ## ERP 
 
