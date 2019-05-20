@@ -183,6 +183,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Unit testing - C++](#unit-testing---c)
 - [Unix](#unixlinux)
+- [User Stories](#user-stories)
 
 ### - V - ###
 
@@ -1224,6 +1225,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/) - Ryan Chadwick
 - [The Complete Beginner's Guide to Linux](https://www.linux.com/learn/complete-beginners-guide-Linux%20) - Jack Wallen
 - [UNIX/Linux Tutorial for Beginners](https://www.guru99.com/unix-linux-tutorial.html) - Guru99
+
+## User Stories 
+
+- [10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) - Roman Pichler
+- [User Stories](https://www.atlassian.com/agile/project-management/user-stories) - Max Rehkopf
+- [User Stories: An Agile Introduction](http://www.agilemodeling.com/artifacts/userStory.htm) - Scott Ambler
+- [User Stories and User Story Examples](https://www.mountaingoatsoftware.com/agile/user-stories) - Mike Cohn
 
 ## VBA 
 
