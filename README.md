@@ -764,7 +764,9 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Management Information Systems
 
+- [MIS: Definition and How It Works](https://www.cleverism.com/management-information-systems-mis/) - Cleverism
 - [MIS Tutorial](https://www.guru99.com/mis-tutorial.html) - Guru99
+- [MIS Tutorial](https://www.youtube.com/results?search_query=russell+ackoff) - Tutorials Point
 
 ## Microsoft
 
