@@ -27,6 +27,9 @@ This is a list of resources for self-study of software-related topics and skills
 - [Basis](#sap)
 - [Blockchain](#blockchain)
 - [Business Analysis](#business-analysis)
+
+### - C - ###
+
 - [C](#c-programming)
 - [C++](#c-programming-1)
 - [C#](#c-programming-2)
@@ -38,44 +41,82 @@ This is a list of resources for self-study of software-related topics and skills
 - [Compiler Design](#compiler-design)
 - [CppUnit](#cppunit)
 - [CRM](#crm)
+
+### - D - ###
+
 - [Data Science](#data-science)
 - [Data Visualization](#data-visualization)
 - [Data Warehousing](#data-warehousing)
 - [Database Management Systems](#database-management-systems)
 - [DevOps](#devops)
 - [Digital Marketing](#digital-marketing)
+
+### - E - ###
+
 - [ECMAScript](#ecma-script)
 - [Elixir](#elixir)
 - [Ethical Hacking](#ethical-hacking)
 - [ETL](#etl)
 - [Excel](#excel)
+
+### - F - ###
+
 - [F#](#f)
+
+### - G - ###
+
 - [Go](#go)
+
+### - H - ###
+
 - [Hadoop](#hadoop)
 - [Haskell](#haskell)
 - [HBase](#hbase)
 - [Hive](#hive)
 - [HTML and CSS](#html-and-css)
+
+### - I - ###
+
 - [Informatica](#informatica)
 - [Infrastructure As Code](#infrastructure-as-code)
+
+### - J - ###
+
 - [Java](#java)
 - [JavaScript](#ecma-script)
 - [Jenkins](#jenkins)
 - [JSP](#jsp)
+
+### - K - ###
+
 - [Keras](#artificial-intelligence)
 - [Kotlin](#kotlin-programming)
+
+### - L - ###
+
 - [Linux](#unixlinux)
 - [Logic, Critical Thinking, Systems Thinking](#logic-critical-thinking-systems-thinking)
+
+### - M - ###
+
 - [Machine Learning](#artificial-intelligence)
 - [Management Information Systems](#management-information-systems)
 - [Microsoft](#microsoft)
 - [MongoDB](#mongodb)
 - [MySQL](#mysql)
+
+### - N - ###
+
 - [Natural Language Processing](#natural-language-processing)
 - [NiFi](#nifi)
 - [Node.js](#nodejs)
 - [NuGet](#nuget)
 - [NumPy](#numpy)
+
+### - O - ###
+
+### - P - ###
+
 - [Perl](#perl)
 - [Photoshop](#photoshop)
 - [PHP](#php)
@@ -85,9 +126,17 @@ This is a list of resources for self-study of software-related topics and skills
 - [PowerShell](#powershell)
 - [Project Management](#project-management)
 - [Python](#python)
+
+### - Q - ###
+
+### - R - ###
+
 - [R](#r)
 - [React](#react)
 - [Ruby](#ruby)
+
+### - S - ###
+
 - [SAP](#sap)
 - [Scala](#scala)
 - [Shell](#unixlinux-shell-scripting)
@@ -97,18 +146,38 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQLServer](#sqlserver)
 - [Statistics](#statistics)
 - [Swift](#swift)
+
+### - T - ###
+
 - [Tableau](#tableau)
 - [Talend](#talend)
 - [Test Automation](#test-automation)
 - [Testing](#testing)
+
+### - U - ###
+
 - [Unit testing - C++](#unit-testing---c)
 - [Unix](#unixlinux)
+
+### - V - ###
+
 - [VBA](#vba)
 - [VBScript](#vbscript)
+
+### - W - ###
+
 - [Web Services](#web-services)
 - [Windows](#windows)
 - [Windows Subsystem for Linux](#windows-subsystem-for-linux)
+
+### - X - ###
+
 - [Xamarin](#xamarin)
+
+### - Y - ###
+
+### - Z - ###
+
 - [ZooKeeper](#zookeeper)
 
 ## .NET 
