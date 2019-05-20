@@ -1338,6 +1338,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Xamarin
 
+- [Learn Xamarin By Creating Real World Cross-Platform Apps](https://www.udemy.com/learn-xamarin-by-creating-real-cross-platform-apps/) - Udemy
 - [Microsoft Learn: Xamarin](https://docs.microsoft.com/en-us/xamarin/) - Microsoft
 
 ## XPath
