@@ -60,6 +60,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [ECMAScript](#ecma-script)
 - [Elixir](#elixir)
 - [Elm](#elm)
+- [Erlang](#erlang)
 - [Ethical Hacking](#ethical-hacking)
 - [ETL](#etl)
 - [Excel](#excel)
@@ -548,6 +549,8 @@ This is a list of resources for self-study of software-related topics and skills
 - [Elm Home](https://elm-lang.org/) - elm-lang.org
 - [Elm Documentation](https://elm-lang.org/docs) - elm-lang.org
 - [Getting Started With the Elm Language](https://riptutorial.com/elm) - Rip Tutorial
+
+## Erlang
 
 ## ERP 
 
