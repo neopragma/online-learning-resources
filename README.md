@@ -881,6 +881,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## PostgreSQL
 
+- [Learn PostgreSQL](https://github.com/dwyl/learn-postgresql) - dwyl
+- [Learn PostgreSQL: Full Course for Beginners (Video)](https://www.youtube.com/watch?v=qw--VYLpxG4) - freeCodeCamp
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/) - PostgreSQL
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/) - PostgreSQL Tutorial
+- [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/) - Tutorials Point
 - [PostgreSQL Tutorial for Beginners](https://www.guru99.com/postgresql-tutorial.html) - Guru99
 
 ## PowerShell 
