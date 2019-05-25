@@ -60,6 +60,7 @@ This is a list of resources for self-study of software-related topics and skills
 ### - E - ###
 
 - [ECMAScript](#ecma-script)
+- [Economics](#economics)
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Erlang](#erlang)
@@ -155,6 +156,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Racket](#racket)
 - [Rails](#rails)
 - [React](#react)
+- [Refactoring](#refactoring)
 - [REST](#rest)
 - [Retrospectives](#retrospectives)
 - [Ruby](#ruby)
@@ -177,6 +179,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQLServer](#sqlserver)
 - [SSIS](#ssis)
 - [Statistics](#statistics)
+- [Story Points](#story-points)
 - [Swagger](#swagger)
 - [Swift](#swift)
 
@@ -476,6 +479,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Cognitive Bias
 
+- [20 Cognitive Biases That Affect Your Decisions](https://mentalfloss.com/article/68705/20-cognitive-biases-affect-your-decisions) - Jennifer Wood
+- [24 Cognitivve Biases That Are Warping Your Perception of Reality](https://mentalfloss.com/article/68705/20-cognitive-biases-affect-your-decisions) - Jeff Desjardins
+- [How Cognitive Biases Influence How You Think and Act](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963) - Kendra Cherry
+- [List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) - Wikipedia
+- [Quiz: What Cognitive Bias Are You?](https://www.ideastogo.com/articles-on-innovation/quiz-what-cognitive-bias-are-you) - Tyler Thompson 
+
 ## Compiler Design
 
 - [Compiler Design Tutorial](https://www.guru99.com/compiler-design-tutorial.html) - Guru99
@@ -578,6 +587,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn JavaScript: Full Course for Beginners (Video)](https://www.youtube.com/watch?v=PkZNo7MFNFg) - freeCodeCamp.org
 - [To Do List JavaScript Tutorial](https://github.com/dwyl/todo-list-javascript-tutorial) - dwyl
 - [Try JavaScript Online (Simulator)](https://www.javascript.com/try) - Plural Sight
+
+## Economics 
+
+- [Using Big Data to Solve Economic and Social Problems](https://opportunityinsights.org/course/) - Raj Chetty 
 
 ## Elixir
 
@@ -1095,6 +1108,22 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn React for Free](https://scrimba.com/g/glearnreact) - Scrimba
 - [React for Beginners](https://reactforbeginners.com/) - Wes Bos
 
+## Refactoring 
+
+- [Advanced Refactoring Part 1: Approvals, Coverage and Mutation Testing](https://www.praqma.com/stories/advanced-testing-refactoring-techniques/) - Emily Bache 
+- [Advanced Refactoring Part 2: Refactoring Item Logic Using Lift Up Conditional](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/) - Emily Bache 
+- [Advanced Refactoring Part 3: Replace Conditional with Polymorphism](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-3/) - Emily Bache 
+- [Can Refactoring Produce Better Code?](https://www.developer.com/tech/article.php/3663781/Can-Refactoring-Produce-Better-Code.htm) - Jeff Langr 
+- [Java Legacy Starter Code](https://github.com/neopragma/java-legacy-starter) and [sample solution](https://github.com/neopragma/java-legacy) - Dave Nicolette
+- [Katas To Practice Refactoring (many)](http://kata-log.rocks/refactoring) - Kata-Log 
+- [Mars Rover Refactoring Kata](https://ahmadatwi.me/2019/01/23/mars-rover-refactoring-kata/) - Ahmad Atwi
+- [Parallel Change Refactoring](https://www.tddfellow.com/blog/2016/07/31/parallel-change-refactoring/) - Oleksii Fedorov 
+- [Refactoring.com](https://refactoring.com/) - Martin Fowler 
+- [Refactoring Inhibitors](https://agileinaflash.blogspot.com/2010/01/refactoring-inhibitors.html) - Tim Ottinger and Jeff Langr 
+- [Refactoring Kata](http://www.michael-whelan.net/refactoring-kata/) - Michael Whelan 
+- [Refactoring On Purpose](https://www.leadingagile.com/2018/05/refactoring-on-purpose/) - Dave Nicolette 
+- [Refactoring To Patterns](https://www.industriallogic.com/xp/refactoring/) - Joshua Kerievsky 
+
 ## REST
 
 - [Representational State Transfer - Fielding Dissertation, Chapter 5](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Roy Fielding
@@ -1256,6 +1285,12 @@ This is a list of resources for self-study of software-related topics and skills
 - [Statistics Basics](https://www.statisticshowto.datasciencecentral.com/statistics-basics/) - Data Science Central
 - [The 5 Basic Statistics Concepts Data Scientists Need To Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
 - [Understand and Use Basic Statistics](https://www.wikihow.com/Understand-and-Use-Basic-Statistics) - wikiHow
+
+## Story Points 
+
+- [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - Joshua Kerievsky
+- [Story Points Revisited](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) - Ron Jeffries 
+- [What Are Story Points?](https://www.mountaingoatsoftware.com/blog/what-are-story-points) - Mike Cohn
 
 ## Swagger
 
