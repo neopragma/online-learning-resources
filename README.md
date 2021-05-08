@@ -290,6 +290,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn AngularJS 1.x](https://www.codecademy.com/learn/learn-angularjs) - Code Academy
 - [Learn AngularJS Step By Step](https://www.learnangularjs.net/) - learnangularjs.net
 - [Write Code. Learn Angular.](http://www.learn-angular.org/) - learn-angular.org
+- [Learn AngularJS](https://www.tutlane.com/tutorial/angularjs) - Tutlane
 
 ## Apache 
 
@@ -427,6 +428,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Introduction to C#](https://www.quickstart.com/introduction-to-c-sharp.html) QuickStart
 - [Microsoft Learn: C#](https://docs.microsoft.com/en-us/search/index?search=C%23) - Microsoft
 - [Programming With C#](https://www.quickstart.com/programming-with-c.html) - QuickStart
+- [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - Tutlane
 
 ## Cassandra 
 
@@ -952,6 +954,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp) - w3schools
 - [Node.js Tutorial](https://www.tutorialspoint.com/nodejs/) - Tutorials Point
 - [Node.js Tutorial for Beginners](https://www.guru99.com/node-js-tutorial.html) - Guru99
+- [Node.js Tutorial with Examples](https://www.tutlane.com/tutorial/nodejs) - Tutlane
 
 ## NuGet
 
@@ -1070,6 +1073,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Python](https://www.learnpython.org/) - LearnPython.org
 - [Learn Python Programming: The Definitive Guide](https://www.programiz.com/python-programming) - Parewa Labs
 - [Python Tutorial for Beginners](https://www.guru99.com/python-tutorials.html) - Guru99
+- [Python Tutorial](https://www.tutlane.com/tutorial/python) - Tutlane
 
 ## PyTorch
 
@@ -1252,6 +1256,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
 - [SQL Tutorial](https://www.w3schools.com/sql/) - w3schools
 - [SQL Tutorial for Beginners](https://www.guru99.com/sql.html) - Guru99
+- [Learn SQL with Examples](https://www.tutlane.com/tutorial/sql-server) - Tutlane
 
 ## SQLite
 
@@ -1259,11 +1264,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQLite Tutorial](http://www.sqlitetutorial.net/) - SQLite Tutorial
 - [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) - Tutorials Point
 - [SQLite Tutorial for Beginners](https://www.guru99.com/sqlite-tutorial.html) - Guru99
+- [SQLite Tutorial with Examples](https://www.tutlane.com/tutorial/sqlite) - Tutlane
 
 ## SQLServer
 
 - [Microsoft Learn: SQLServer](https://docs.microsoft.com/en-us/sql/?view=sql-server-2017) - Microsoft
 - [SQLServer Tutorial for Beginners](https://www.guru99.com/ms-sql-server-tutorial.html) - Guru99
+- [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - Tutlane
 
 ## SSIS
 
@@ -1305,6 +1312,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Swift TDD: Test-Driven Development for Swift](https://www.udemy.com/tdd-swift/) - Udemy
 - [Swift Tutorial](https://www.programiz.com/swift-programming) - Parewa Labs
 - [Swift Tutorial](https://www.tutorialspoint.com/swift/) - Tutorials Point
+- [Swift Tutorial with Examples](https://www.tutlane.com/tutorial/swift) - Tutlane
 
 ## Tableau
 
