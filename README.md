@@ -247,6 +247,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Oracle Learning Library](https://www.oracle.com/technetwork/tutorials/index.html)
 - [PluralSight](https://learn.pluralsight.com/programs/pluralsight)
+- [Tutlane](https://www.tutlane.com)
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [Udemy](https://www.udemy.com/)
 - [w3schools](https://www.w3schools.com/)
@@ -285,6 +286,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [AngularJS Learning Paths](https://www.pluralsight.com/paths/angular-js) - Plural Sight
 - [AngularJS Tutorial](https://docs.angularjs.org/tutorial/) - Angular
 - [AngularJS Tutorial](https://www.guru99.com/angularjs-tutorial.html) - Guru99
+- [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - Tutlane
 - [AngularJS Tutorial](https://www.w3schools.com/angular/) - w3schools
 - [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/) - Udemy
 - [Learn AngularJS 1.x](https://www.codecademy.com/learn/learn-angularjs) - Code Academy
@@ -427,6 +429,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Introduction to C#](https://www.quickstart.com/introduction-to-c-sharp.html) QuickStart
 - [Microsoft Learn: C#](https://docs.microsoft.com/en-us/search/index?search=C%23) - Microsoft
 - [Programming With C#](https://www.quickstart.com/programming-with-c.html) - QuickStart
+- [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - Tutlane
 
 ## Cassandra 
 
@@ -952,6 +955,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp) - w3schools
 - [Node.js Tutorial](https://www.tutorialspoint.com/nodejs/) - Tutorials Point
 - [Node.js Tutorial for Beginners](https://www.guru99.com/node-js-tutorial.html) - Guru99
+- [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs) - Tutlane
 
 ## NuGet
 
@@ -1079,6 +1083,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Practical Deep Learning With PyTorch](https://www.udemy.com/practical-deep-learning-with-pytorch/) - Udemy
 - [PyTorch Tutorial](https://www.guru99.com/pytorch-tutorial.html) - Guru99
 - [PyTorch Tutorials](https://pytorch.org/tutorials/) - PyTorch
+- [Python Tutorial](https://www.tutlane.com/tutorial/python) - Tutlane
 - [Train PyTorch Models With Azure Machine Learing Service](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-train-pytorch) - Microsoft
 - [Transfer Learning With PyTorch](https://heartbeat.fritz.ai/transfer-learning-with-pytorch-cfcb69016c72) - Heartbeat
 
@@ -1252,6 +1257,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
 - [SQL Tutorial](https://www.w3schools.com/sql/) - w3schools
 - [SQL Tutorial for Beginners](https://www.guru99.com/sql.html) - Guru99
+- [SQL Tutorial](https://www.tutlane.com/tutorial/sql-server) - Tutlane
 
 ## SQLite
 
@@ -1259,11 +1265,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQLite Tutorial](http://www.sqlitetutorial.net/) - SQLite Tutorial
 - [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) - Tutorials Point
 - [SQLite Tutorial for Beginners](https://www.guru99.com/sqlite-tutorial.html) - Guru99
+- [SQLite Tutorial](https://www.tutlane.com/tutorial/sqlite) - Tutlane
 
 ## SQLServer
 
 - [Microsoft Learn: SQLServer](https://docs.microsoft.com/en-us/sql/?view=sql-server-2017) - Microsoft
 - [SQLServer Tutorial for Beginners](https://www.guru99.com/ms-sql-server-tutorial.html) - Guru99
+- [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - Tutlane
 
 ## SSIS
 
@@ -1305,6 +1313,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Swift TDD: Test-Driven Development for Swift](https://www.udemy.com/tdd-swift/) - Udemy
 - [Swift Tutorial](https://www.programiz.com/swift-programming) - Parewa Labs
 - [Swift Tutorial](https://www.tutorialspoint.com/swift/) - Tutorials Point
+- [Swift Tutorial](https://www.tutlane.com/tutorial/swift) - Tutlane
 
 ## Tableau
 
