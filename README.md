@@ -250,6 +250,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [Udemy](https://www.udemy.com/)
 - [w3schools](https://www.w3schools.com/)
+- [InterviewBit](https://www.interviewbit.com/)
 
 ## Specific Topics
 
@@ -260,6 +261,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [.NET Framework and Architecture](https://www.c-sharpcorner.com/UploadFile/puranindia/net-framework-and-architecture/) - C# Corner
 - [Microsoft Learn: .NET](https://docs.microsoft.com/en-us/search/index?search=.NET) - Microsoft
 - [Understanding .NET Framework 4.5 Architecture](https://www.dotnettricks.com/learn/netframework/understanding-net-framework-45-architecture) - Dotnet Tricks
+- [.NET Interview Questions](https://www.interviewbit.com/dot-net-interview-questions/) - Interview Resource
 
 ## Accounting 
 
@@ -328,6 +330,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Introduction to AWS](https://acloud.guru/learn/aws-technical-essentials) - A Cloud Guru
 - [Introduction to AWS Fargate](https://www.learnaws.org/) - learnaws.org
 - [Learn Amazon Web Services: Complete Introduction](https://www.udemy.com/learn-amazon-web-services-the-complete-introduction/) - Udemy
+- [AWS Interview Questions](https://www.interviewbit.com/aws-interview-questions/) - Interview Resource
 
 ## Azure
 
@@ -339,6 +342,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
 - [Microsoft Azure Certification Exams](https://www.microsoft.com/en-us/learning/azure-exams.aspx) - Microsoft
 - [Microsoft Online Azure Training and Certification](https://www.microsoft.com/en-us/learning/azure-training.aspx) - Microsoft
+- [Learn Azure Step By Step](https://www.interviewbit.com/azure-interview-questions/) - Interview Resource
 
 ## Bash
 
@@ -398,6 +402,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Codewars](https://www.codewars.com/) - Qualified 
 - [Learn C](https://www.learn-c.org/) - learn-c.org
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
+- [C Interview Questions](https://www.interviewbit.com/c-interview-questions/) - Interview Resource
 
 ## C++ Programming 
 
@@ -427,6 +432,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Introduction to C#](https://www.quickstart.com/introduction-to-c-sharp.html) QuickStart
 - [Microsoft Learn: C#](https://docs.microsoft.com/en-us/search/index?search=C%23) - Microsoft
 - [Programming With C#](https://www.quickstart.com/programming-with-c.html) - QuickStart
+- [C# Interview Guide](https://www.interviewbit.com/c-sharp-interview-questions/) - Interview Resource
 
 ## Cassandra 
 
@@ -549,6 +555,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [LearnDevops Training](http://www.learndevops.in/) - LearnDevops
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
 - [Microsoft Learn: DevOps](https://docs.microsoft.com/en-us/search/index?search=devops) - Microsoft
+- [DevOps Interview Guide](https://www.interviewbit.com/devops-interview-questions/) - Microsoft
 
 ## Digital Marketing 
 
@@ -760,6 +767,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Rendera - Online HTML/CSS Testing](http://rendera.herokuapp.com/) - Brian Hogan
 - [W3C Markup Validation Service](https://validator.w3.org/) - W3C
 - also see [Haml](#haml), [Sass](#sass), [Less](#less), Tachyons(#tachyons)
+- [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/) - Interview Resource
 
 ## HTTP 
 
@@ -952,6 +960,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp) - w3schools
 - [Node.js Tutorial](https://www.tutorialspoint.com/nodejs/) - Tutorials Point
 - [Node.js Tutorial for Beginners](https://www.guru99.com/node-js-tutorial.html) - Guru99
+- [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/) - Interview Guide
 
 ## NuGet
 
@@ -1022,6 +1031,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn PHP](https://www.learn-php.org/) - learn-php.org
 - [PHP 5 Tutorial](https://www.w3schools.com/php/default.asp) - w3schools
 - [PHP Tutorial for Beginners](https://www.guru99.com/php-tutorials.html) - Guru99
+- [PHP Interview Guide](https://www.interviewbit.com/php-interview-questions/) - Interview Resource
 
 ## PL/SQL
 
@@ -1252,6 +1262,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
 - [SQL Tutorial](https://www.w3schools.com/sql/) - w3schools
 - [SQL Tutorial for Beginners](https://www.guru99.com/sql.html) - Guru99
+- [SQL Interview Questions](https://www.interviewbit.com/sql-interview-questions/)
 
 ## SQLite
 
@@ -1309,6 +1320,7 @@ This is a list of resources for self-study of software-related topics and skills
 ## Tableau
 
 - [Tableau Tutorial](https://www.guru99.com/tableau-tutorial.html) - Guru99
+- [Tableau Interview Guide](https://www.interviewbit.com/tableau-interview-questions/) - Interview Questions
 
 ## Tachyons 
 
@@ -1382,6 +1394,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [StickyMinds Articles on Software Testing](https://www.stickyminds.com/) - StickyMinds
 - [Testing FAQs](http://www.softwareqatest.com/) - Rick Hower
 - [Udemy Software Testing Courses](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=testing) - Udemy
+- [Testing Interview Questions](https://www.interviewbit.com/software-testing-interview-questions/)
 
 ## Unit Testing - C++ 
 
