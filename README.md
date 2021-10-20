@@ -807,6 +807,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Software Engineering Interview Questions](https://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm) - Tutorials Point
 - [Software Testing Interview Questions](https://www.testingexcellence.com/software-testing-interview-questions-answers/) - Testing Excellence
 - [140 Google Interview Questions](https://www.impactinterview.com/2009/10/140-google-interview-questions/) - Impact Interview
+- [100 QA Testing Interview Questions and Answers](https://www.janbasktraining.com/blog/top-20-qa-testing-interview-questions-and-answers/) - JanBask 
 
 ## Java
 
