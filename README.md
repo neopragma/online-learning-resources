@@ -1,6 +1,6 @@
-# Online Learning Resources 
+# Online Learning Resources
 
-This is a list of resources for self-study of software-related topics and skills. This is a collection of links. The author is not responsible for the content, availability, or quality of resources external to this page. 
+This is a list of resources for self-study of software-related topics and skills. This is a collection of links. The author is not responsible for the content, availability, or quality of resources external to this page.
 
 - [General Learning Sites](#general-learning-sites)
 
@@ -253,7 +253,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Specific Topics
 
-## .NET 
+## .NET
 
 - [.NET Application Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides) - Microsoft
 - [.NET Architecture](https://www.codeguru.com/csharp/sample_chapter/article.php/c8245/The-NET-Architecture.htm) - Code Guru
@@ -261,7 +261,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Microsoft Learn: .NET](https://docs.microsoft.com/en-us/search/index?search=.NET) - Microsoft
 - [Understanding .NET Framework 4.5 Architecture](https://www.dotnettricks.com/learn/netframework/understanding-net-framework-45-architecture) - Dotnet Tricks
 
-## Accounting 
+## Accounting
 
 - [Accounting Basics - Explanation](https://www.accountingcoach.com/accounting-basics/explanation) - Harold Averkamp
 - [Accounting Tutorial for Beginners](https://www.guru99.com/accounting.html) - Guru99
@@ -276,7 +276,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) - Geeks for Geeks
 - [Top Algorithms and Data Structures You Really Need To Know](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5) - Jason Roell
 
-## AngularJS 
+## AngularJS
 
 - [10 Best Tutorials to Learn AngularJS](https://www.hongkiat.com/blog/angularjs-tutorials-screencast/) - *list of links*
 - [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs) - Thinkster
@@ -291,7 +291,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn AngularJS Step By Step](https://www.learnangularjs.net/) - learnangularjs.net
 - [Write Code. Learn Angular.](http://www.learn-angular.org/) - learn-angular.org
 
-## Apache 
+## Apache
 
 - [An Introduction to Apache](https://code.tutsplus.com/tutorials/an-introduction-to-apache--net-25786) - Tuts Plus
 - [Apache HTTP Server Documentation](https://httpd.apache.org/docs/) - Apache HTTP Server Project
@@ -299,12 +299,12 @@ This is a list of resources for self-study of software-related topics and skills
 - [Complete Apache HTTP Server Course](https://www.udemy.com/apache-web-server-administration/) - Udemy
 - [Learn How to Configure Apache](https://www.techrepublic.com/article/learn-how-to-configure-apache/) - Tech Republic
 
-## API Design 
+## API Design
 
 - [API Design Guidelines - Microsoft Azure](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) - Microsoft
 - [API Design Guide - Google Cloud](https://cloud.google.com/apis/design/) - Google
 
-## Artificial Intelligence 
+## Artificial Intelligence
 
 - [AI Tutorial for Beginners](https://www.guru99.com/artificial-intelligence-tutorial.html) - Guru99
 - [Keras Tutorial with Python](https://www.guru99.com/keras-tutorial.html) - Guru99
@@ -312,7 +312,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [PyTorch Tutorial](https://www.guru99.com/pytorch-tutorial.html) - Guru99
 - [TensorFlow Tutorial](https://www.guru99.com/tensorflow-tutorial.html) - Guru99
 
-## ASP.NET 
+## ASP.NET
 
 - [ASP and ASP.NET Tutorials](https://www.w3schools.com/asp/default.asp) - w3schools
 - [ASP.NET Home](https://dotnet.microsoft.com/apps/aspnet) - Microsoft
@@ -321,7 +321,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn ASP.NET: 30 Tutorials](https://stackify.com/learn-asp-net-tutorials/) - *list of links*
 - [Microsoft Learn: ASP.NET](https://docs.microsoft.com/en-us/aspnet/) - Microsoft
 
-## AWS 
+## AWS
 
 - [AWS Training and Certification](https://aws.amazon.com/training/) - Amazon
 - [AWS Tutorial for Beginners](https://www.guru99.com/aws-tutorial.html) - Guru99
@@ -345,13 +345,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [Bash Guide for Beginners](http://tldp.org/LDP/Bash-Beginners-Guide/html/) - Machtelt Garrels
 - [Bash Programming Course: Master the Linux Command Line!](https://www.udemy.com/bash-programming/) - Udemy
 - [Bash Programming Introduction How-to](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike Mikkey
-- [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) - Ryan Chadwick
 - [Bash Scripting Tutorial for Beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) - Lubos Rendek
+- [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) - Ryan Chadwick
 - [Introduction to Bash Scripting](http://www.linuxandubuntu.com/home/introduction-to-bash-scripting-learn-bash-1) - (author not identified)
 - [Learn Bash Scripts Tutorial](https://www.youtube.com/watch?v=QGvvJO5UIs4) - Kris Occhipinti
 - [Learn Bash Shell In Linux for Beginners](https://www.udemy.com/learn-bash-shell-in-linux-for-beginners/) - Udemy
-- [Learning Bash Scripting](https://www.lynda.com/Bash-tutorials/Learning-Bash-Scripting/142989-2.html) - Scott Simpson
 - [Learning Bash Scripting for Beginners](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/) - *list of links*
+- [Learning Bash Scripting](https://www.lynda.com/Bash-tutorials/Learning-Bash-Scripting/142989-2.html) - Scott Simpson
+- [Terminalforlife (LL) YouTube Channel](https://www.youtube.com/channel/UCfp-lNJy4QkIGnaEE6NtDSg) - [Terminalforlife on GitHub](https://github.com/terminalforlife)
 - [The Bash Academy](https://www.bash.academy/) - (author not identified)
 - [The Bash Guide](https://guide.bash.academy/) - Maarten Billemont
 
@@ -363,7 +364,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Hadoop - Big Data Overview](https://www.tutorialspoint.com/hadoop/hadoop_big_data_overview.htm) - Tutorials Point
 - [What Is Big Data?](https://www.oracle.com/big-data/guide/what-is-big-data.html) - Oracle
 
-## Blockchain 
+## Blockchain
 
 - [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics/) - Coursera
 - [Blockchain Learning Center](https://www.codementor.io/learn/blockchain) - Code Mentor
@@ -384,7 +385,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Laws of Boolean Algebra](https://www.electronics-tutorials.ws/boolean/bool_6.html) - Electronics Tutorials
 - [Mathematics of Boolean Algebra](https://plato.stanford.edu/entries/boolalg-math/) - Stanford Encyclopedia of Philosophy
 
-## Business Analysis 
+## Business Analysis
 
 - [5 Steps to Becoming a Business Analyst](https://www.bridging-the-gap.com/becoming-a-business-analyst/) - Laura Brandenburg
 - [Business Analyst Training for Beginners](https://www.guru99.com/business-analyst-tutorial-course.html) - Guru99
@@ -395,11 +396,11 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [C Programming Tutorial](https://www.guru99.com/c-programming-tutorial.html) - Guru99
 - [C Tutorial](https://www.programiz.com/c-programming) - Parewa Labs
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [Learn C](https://www.learn-c.org/) - learn-c.org
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
 
-## C++ Programming 
+## C++ Programming
 
 - [C++ Language](http://www.cplusplus.com/doc/tutorial/) - Cplusplus.com
 - [C++ Programming Tutorial for Beginners](https://www.guru99.com/cpp-tutorial.html) - Guru99
@@ -409,7 +410,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [C++ Tutorial for Complete Beginners](https://www.udemy.com/free-learn-c-tutorial-beginners/) - Udemy
 - [C++ Tutorials and Courses](https://hackr.io/tutorials/learn-c-plus-plus) - *list of links*
 - [C++11 Tutorial](https://thispointer.com/c11-tutorial/) - thispointer.com
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [Learn C++](https://www.learn-cpp.org/) - learn-cpp.org
 - [Learn C++ Programming: The Definitive Guide](https://www.programiz.com/cpp-programming) - Parewa Labs
 - [Free C and C++ Courses](https://cppinstitute.org/free-c-and-c-courses) - C++ Institute
@@ -419,23 +420,23 @@ This is a list of resources for self-study of software-related topics and skills
 - [Microsoft Learn: C++](https://docs.microsoft.com/en-us/cpp/?view=vs-2019) - Microsoft
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
 
-## C# Programming 
+## C# Programming
 
 - [C# Tutorial for Beginners](https://www.guru99.com/c-sharp-tutorial.html) - Guru99
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [Free C# Interactive Tutorial](https://learncs.org/) - LearnCS.org
 - [Introduction to C#](https://www.quickstart.com/introduction-to-c-sharp.html) QuickStart
 - [Microsoft Learn: C#](https://docs.microsoft.com/en-us/search/index?search=C%23) - Microsoft
 - [Programming With C#](https://www.quickstart.com/programming-with-c.html) - QuickStart
 
-## Cassandra 
+## Cassandra
 
 - [Cassandra Tutorial](https://www.guru99.com/cassandra-tutorial.html) - Guru99
 - [Learn Apache Cassandra from Scratch](https://www.udemy.com/learn-apache-cassandra-from-scracth/) - Udemy
 - [Learn Cassandra](https://www.tutorialspoint.com/cassandra/) - Tutorials Point
 - [Learn Cassandra Tutorial](https://www.javatpoint.com/cassandra-tutorial) - javaTpoint
 
-## CCNA 
+## CCNA
 
 - [5 Study Tips to Prepare for the CCNA Exam](https://www.simplilearn.com/clearing-ccna-certification-top-study-tips-for-exam-rar272-article) - Simplilearn
 - [CCNA Certification Tutorial](https://www.guru99.com/introduction-ccna.html) - Guru99
@@ -447,17 +448,17 @@ This is a list of resources for self-study of software-related topics and skills
 - [Free CCNA Workbook and Practice Exam](https://www.freeccnaworkbook.com/) - Free CCNA Workbook
 - [Preparing for the CCNA Exam](https://www.thoughtco.com/preparing-for-the-ccna-exam-4006639) - ThoughtCo
 
-## Clojure Programming 
+## Clojure Programming
 
 - [Brave Clojure](https://www.braveclojure.com/) - Brian Higginbotham
 - [Clojure: Getting Started](https://www.clojure.org/guides/getting_started) - clojure.org
 - [Clojure Tutorial](https://www.tutorialspoint.com/clojure/) - Tutorials Point
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [Learn Clojure](http://www.learn-clojure.com/) - learn-clojure.com
 - [Learn Clojure in Y Minutes](https://learnxinyminutes.com/docs/clojure/) - Learn X in Y Minutes
 - [Learning Clojure Made Easy](https://clojurecademy.com/) - Clojure Academy
 
-## Cloud Computing 
+## Cloud Computing
 
 - [Cloud Computing: A Complete Guide](https://www.ibm.com/cloud/learn/cloud-computing) - IBM
 - [Cloud Computing Overview](https://www.tutorialspoint.com/microsoft_azure/cloud_computing_overview.htm) - Tutorials Point
@@ -483,7 +484,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [24 Cognitivve Biases That Are Warping Your Perception of Reality](https://mentalfloss.com/article/68705/20-cognitive-biases-affect-your-decisions) - Jeff Desjardins
 - [How Cognitive Biases Influence How You Think and Act](https://www.verywellmind.com/what-is-a-cognitive-bias-2794963) - Kendra Cherry
 - [List of Cognitive Biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) - Wikipedia
-- [Quiz: What Cognitive Bias Are You?](https://www.ideastogo.com/articles-on-innovation/quiz-what-cognitive-bias-are-you) - Tyler Thompson 
+- [Quiz: What Cognitive Bias Are You?](https://www.ideastogo.com/articles-on-innovation/quiz-what-cognitive-bias-are-you) - Tyler Thompson
 
 ## Compiler Design
 
@@ -493,13 +494,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [Compiler Design Tutorial](https://www.wisdomjobs.com/e-university/compiler-design-tutorial-1144.html) - Wisdom Jobs
 - [Compiler Design Tutorials](https://www.geeksforgeeks.org/compiler-design-tutorials/) - Geeks for Geeks
 
-## CppUnit 
+## CppUnit
 
 - [C++ Unit Testing with CppUnit: Step By Step Tutorial](http://www.qafriend.com/unittest-cppunit-c/associating-cppunit-to-visual-studio) - QA Friend
 - [CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
 - [Crash Course In Using CppUnit](https://www.comp.nus.edu.sg/~cs3214s/tools/cppunitVC.html) - Stan Jarzabek
 
-## CRM 
+## CRM
 
 - [SAP CRM Tutorial](https://www.guru99.com/sap-crm-training.html) - Guru99
 - [The Beginner's Guide to CRM](https://zapier.com/learn/crm/what-is-a-crm/) - Matthew Guay
@@ -521,7 +522,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Visualization in Python](https://www.codecademy.com/learn/data-visualization-python) - Code Academy
 - [Tableau Tutorial](https://www.guru99.com/tableau-tutorial.html) - Guru99
 
-## Data Warehousing 
+## Data Warehousing
 
 - [Data Warehouse](http://www.zentut.com/data-warehouse/) - Zentut
 - [Data Warehouse Concepts](https://learndatamodeling.com/blog/data-warehouse-concepts/) - Learn Data Modeling
@@ -540,7 +541,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [DBMS Tutorial](https://www.tutorialspoint.com/dbms/) - Tutorials Point
 - [DBMS Tutorial](https://www.w3schools.in/dbms/) - w3schools
 
-## DevOps 
+## DevOps
 
 - [DevOps Tutorial](https://www.guru99.com/devops-tutorial.html) - Guru99
 - [Free DevOps Course](https://freedevopscourse.com/) - Adam Hawkins
@@ -550,14 +551,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
 - [Microsoft Learn: DevOps](https://docs.microsoft.com/en-us/search/index?search=devops) - Microsoft
 
-## Digital Marketing 
+## Digital Marketing
 
 - [Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing) - Coursera
 - [Digital Marketing Tutorial](https://www.guru99.com/free-digital-marketing-tutorial.html) - Guru99
 - [Google Digital Marketing Certification](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) - Google
 - [The Complete Digital Marketing Course](https://www.udemy.com/learn-digital-marketing-course/) - Udemy
 
-## Docker 
+## Docker
 
 - [Docker Tutorial](https://www.javatpoint.com/docker-tutorial) - javaTpoint
 - [Docker Tutorial](https://taagung.com/docker-tutorial/) - Tuba Mansoor
@@ -588,14 +589,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [To Do List JavaScript Tutorial](https://github.com/dwyl/todo-list-javascript-tutorial) - dwyl
 - [Try JavaScript Online (Simulator)](https://www.javascript.com/try) - Plural Sight
 
-## Economics 
+## Economics
 
-- [Using Big Data to Solve Economic and Social Problems](https://opportunityinsights.org/course/) - Raj Chetty 
+- [Using Big Data to Solve Economic and Social Problems](https://opportunityinsights.org/course/) - Raj Chetty
 
 ## Elixir
 
 - [Learn Elixir](https://hackr.io/tutorials/learn-elixir) - hackr.io *list of links*
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [Elixir Sips](http://elixirsips.com/) - Josh Adams
 - [Getting Started with Elixir](https://www.pluralsight.com/courses/elixir-getting-started) - Plural Sight
 - [Learn Elixir](https://github.com/dwyl/learn-elixir) - dwyl
@@ -630,14 +631,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Erlang in Y Minutes](https://learnxinyminutes.com/docs/erlang/) - Learn X in Y Minutes
 - [Learn You Some Erlang For Great Good!](https://learnyousomeerlang.com/) - Fred Hebert
 
-## ERP 
+## ERP
 
 - [ERP](http://www.academictutorials.com/erp/) - Academic Tutorials
 - [Introduction to ERP Systems](https://www.udemy.com/introduction-to-erp-systems/) - Udemy
 - [Learn ERP](http://www.miraclewisdom.com/erp.htm) - Miracle Wisdom
 - [SAP HANA Tutorial](https://www.guru99.com/sap-hana-tutorial.html) - Guru99
 
-## Ethical Hacking 
+## Ethical Hacking
 
 - [10 Best Websites to Learn Ethical Hacking Online](https://www.technotification.com/2018/04/websites-for-ethical-hacking-2.html) - Vicky Singh Rao *list of links*
 - [Best Ethical Hacking Online Courses](https://top10onlinecourses.com/best-ethical-hacking-online-courses/) - Catherine Nova *list of links*
@@ -648,7 +649,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Ethical Hacking from Scratch](https://www.udemy.com/learn-ethical-hacking-from-scratch/) - Udemy
 - [Penetration Testing and Ethical Hacking](https://www.cybrary.it/course/ethical-hacking/) - Ken Underhill
 
-## ETL 
+## ETL
 
 - [7 Skills Every ETL Developer Should Have](https://www.arkatechture.com/blog/7-skills-every-etl-developer-should-have) - Jared Rohrdanz
 - [BODS Tutorial](https://www.guru99.com/sap-bods-tutorial.html) - Guru99
@@ -665,7 +666,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn ETL Using SSIS](https://www.udemy.com/learn-etl-using-ssis/) - Udemy
 - [What Is ETL?](https://www.talend.com/resources/what-is-etl/) - Talend
 
-## Excel 
+## Excel
 
 - [Basic Excel Skills](https://chandoo.org/wp/excel-basics/) - Chandoo
 - [Excel-Easy](https://www.excel-easy.com/) - excel-easy.com
@@ -679,7 +680,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## F#
 
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [F# for Fun and Profit](https://fsharpforfunandprofit.com) - Scott Wlaschin
 - [F# Guide](https://docs.microsoft.com/en-us/dotnet/fsharp/) - Microsoft
 - [F# Tutorial](https://www.tutorialspoint.com/fsharp/) - Tutorials Point
@@ -692,7 +693,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Top 30 Go Tutorials](https://stackify.com/learn-go-tutorials/) - Stackify *list of links*
 - [A Tour of Go](https://tour.golang.org/welcome/1) - golang.org
 - [An Introductory Golang Tutorial](https://www.toptal.com/go/go-programming-a-step-by-step-introductory-tutorial) - Brendon Hogger
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [Go By Example](https://gobyexample.com/) - Mark McGranaghan
 - [Go Overview](https://www.tutorialspoint.com/go/go_overview.htm) - Tutorials Point
 - [Go Programming Language Tutorial](https://www.guru99.com/google-go-tutorial.html) - Guru99
@@ -702,7 +703,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Golang Tutorial Series](https://golangbot.com/learn-golang-series/) - GolangBot
 - [Learn Golang](https://www.learn-golang.org/) - learn-golang.org
 
-## Hadoop 
+## Hadoop
 
 - [Big Data and Hadoop](https://www.edureka.co/blog/hadoop-tutorial/) - Edureka
 - [Hadoop - An Apache Hadoop Tutorial for Beginners](https://techvidvan.com/tutorials/apache-hadoop-tutorials/) - TechVidvan
@@ -714,7 +715,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Hadoop Tutorial for Beginners](https://data-flair.training/blogs/hadoop-tutorial/) - Data Flair
 - [Hadoop Tutorial - Getting Started with HDP](https://hortonworks.com/tutorial/hadoop-tutorial-getting-started-with-hdp/) - HortonWorks
 
-## Haml 
+## Haml
 
 - [Haml in Rails](https://www.learnacademy.org/blog/tech-talks-haml-in-rails/) - Vanessa Christensen
 - [Haml Tutorial](http://haml.info/tutorial.html) - haml.info
@@ -723,12 +724,12 @@ This is a list of resources for self-study of software-related topics and skills
 
 ## Haskell
 
-- [Codewars](https://www.codewars.com/) - Qualified 
+- [Codewars](https://www.codewars.com/) - Qualified
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/) - Miran Lipovača
 - [Real World Haskell](http://book.realworldhaskell.org/read/) - O'Sullivan, Stewart, Goerzen
 - [Try Haskell](https://tryhaskell.org/) - Chris Done
 
-## HBase 
+## HBase
 
 - [HBase Tutorial](https://data-flair.training/blogs/hbase-tutorial/) - Data Flair
 - [HBase Tutorial](https://www.edureka.co/blog/hbase-tutorial) - Edureka
@@ -743,7 +744,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Hive Tutorial](https://www.javatpoint.com/hive) - javaTpoint
 - [Hive Tutorial](https://www.tutorialspoint.com/hive/) - Tutorials Point
 
-## HTML and CSS 
+## HTML and CSS
 
 - [Advanced HTML and CSS](https://learn.shayhowe.com/advanced-html-css/) - Shay Howe
 - [CSS Beginner Tutorial](https://htmldog.com/guides/css/beginner/) - HTML Dog
@@ -761,7 +762,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [W3C Markup Validation Service](https://validator.w3.org/) - W3C
 - also see [Haml](#haml), [Sass](#sass), [Less](#less), Tachyons(#tachyons)
 
-## HTTP 
+## HTTP
 
 - [How HTTPS Works - In a Comic](https://howhttps.works/) - (author not identified)
 - [HTTP - Hypertext Transfer Protocol](https://www.w3.org/Protocols/) - W3C
@@ -781,7 +782,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Informatica Tutorial Part 1](https://www.learnbi.com/blog/informatica-tutorial-part-1/) - LearnBI
 - also see [ETL](#etl)
 
-## Infrastructure As Code 
+## Infrastructure As Code
 
 - [Infrastructure As Code](https://infrastructure-as-code.com/) - Kief Morris
 - [Infrastructure As Code](https://www.quickstart.com/infrastructure-as-code.html) - QuickStart
@@ -797,10 +798,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [Epic List](http://katemats.com/interview-questions/) - Katemats
 - [Software Engineer Interview Questions](https://www.thebalancecareers.com/software-engineer-interview-questions-2063875) - The Balance Careers
 - [Top 10 System Design Interview Questions](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444) - Hacker Noon
-- [Real Time Software QA Interview Questions](https://www.softwaretestingmaterial.com/software-qa-interview-questions-answers/) - Software Testing Material 
+- [Real Time Software QA Interview Questions](https://www.softwaretestingmaterial.com/software-qa-interview-questions-answers/) - Software Testing Material
 - [Top 100 Software Testing Interview Questions](https://www.softwaretestingmaterial.com/100-software-testing-interview-questions/) - Software Testing Material
 - [20 Best Interview Questions for Software Testing](https://www.qasymphony.com/blog/20-best-software-tester-interview-questions/
-) - QA Symphony 
+) - QA Symphony
 - [Software Testing Interview Questions](http://www.geekinterview.com/Interview-Questions/Testing/Software-Testing) - Geek Interview
 - [33 Common Software Engineering Interview Questions](https://www.paysa.com/blog/33-common-software-engineering-interview-questions/) - Paysa
 - [Software Interview Questions](https://www.allinterview.com/interview-questions/1/software.html) - All Interview
@@ -822,24 +823,24 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn to Program in Java](https://www.quickstart.com/learn-to-program-in-java.html) - QuickStart
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/) - Oracle
 
-## Jenkins 
+## Jenkins
 
 - [Jenkins Tutorial](https://www.guru99.com/jenkins-tutorial.html) - Guru99
 - [Jenkins Tutorial](https://www.tutorialspoint.com/jenkins/) - Tutorials Point
 - [Jenkins Documentation](https://jenkins.io/doc/) - Jenkins
 - [Learn Jenkins from a DevOps Guru](https://www.udemy.com/course/jenkins-devops-pipeline-as-code/) - Udemy
 
-## JSON 
+## JSON
 
 - [JSON Example](http://www.json.org/example.html) - json.org
 - [JSON Introduction](https://www.w3schools.com/js/js_json_intro.asp) - w3schools
-- [JSON Tutorial](https://www.tutorialspoint.com/json/) - Tutorials Point 
+- [JSON Tutorial](https://www.tutorialspoint.com/json/) - Tutorials Point
 - [JSON Tutorial](https://www.w3resource.com/JSON/introduction.php) - w3resource
 - [Learn JSON](https://www.javatpoint.com/json-tutorial) - javaTpoint
 - [Learn JSON in 10 Minutes](https://beginnersbook.com/2015/04/json-tutorial/) - Beginner's Book
 
 
-## JSP 
+## JSP
 
 - [JSP Tutorial](https://www.javatpoint.com/jsp-tutorial) - javaTpoint
 - [JSP Tutorial](http://www.jsptut.com/) - JSPTut
@@ -848,7 +849,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [JSP Tutorial for Beginners with Examples](https://beginnersbook.com/jsp-tutorial-for-beginners/) - Beginner's Book
 - [JSP, Servlet, JSLT + Hibernate: A Complete Guide](https://www.udemy.com/jsp-servlet-free-course/) - Udemy
 
-## Keras 
+## Keras
 
 - [Deep Learning Using Keras - The Basics](https://www.learnopencv.com/deep-learning-using-keras-the-basics/) - Vikas Gupta
 - [Develop Your First Neural Network In Python With Keras Step By Step](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) - Jason Brownlee
@@ -866,7 +867,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Kotlin Programming: The Definitive Guide](https://www.programiz.com/kotlin-programming) - Parewa Labs
 - [The Kotlin Language: Fundamentals and Basics](https://www.udemy.com/kotlin-programming/) - Udemy
 
-## Kubernetes 
+## Kubernetes
 
 - [Kubernetes Deployment Tutorial](https://devopscube.com/kubernetes-deployment-tutorial/) - DevOps Cube
 - [Kubernetes Tutorial](https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/) - Bruno Krebs
@@ -889,7 +890,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn You a Lisp in 0 Minutes](https://hackernoon.com/learn-you-a-lisp-in-0-minutes-e0c1a060a178) - Oleksandr Kaleniuk
 - [Lisp Tutorial](https://www.tutorialspoint.com/lisp/index.htm) - Tutorials Point
 
-## Logic, Critical Thinking, Systems Thinking 
+## Logic, Critical Thinking, Systems Thinking
 
 - [Ackoff, Russell: Talks](https://www.youtube.com/results?search_query=russell+ackoff) - YouTube
 - [Critical Thinking](https://www.utc.edu/walker-center-teaching-learning/teaching-resources/ct-ps.php) - Univ of Tennessee
@@ -928,7 +929,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [MySQL Tutorial for Beginners](https://www.guru99.com/mysql-tutorial.html) - Guru99
 - [Tutorial section of MySQL Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/tutorial.html) - MySQL
 
-## Natural Language Processing 
+## Natural Language Processing
 
 - [Learn NLP from Beginner to Expert](https://www.commonlounge.com/discussion/c1f472553ece4d68bad9bd423fb775cf) - Common Lounge
 - [NLP](https://www.coursera.org/learn/language-processing) - Coursera
@@ -938,7 +939,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [NLTK Toolkit Tutorial with Python](https://www.guru99.com/nltk-tutorial.html) - Guru99
 - also see [Data Science](#data-science)
 
-## NiFi 
+## NiFi
 
 - [Apache NiFi Training](https://intellipaat.com/apache-nifi-training/) - IntelliPaat
 - [Hands-On Apache NiFi (Video)](https://www.youtube.com/watch?v=9OCNVt4UanA) - IntelliPaat
@@ -961,7 +962,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [NuGet In 30 Minutes (Video)](https://www.youtube.com/watch?v=8pVrkbgyqgg) - Tech CBT
 - [NuGet Tutorial](https://nuget-tutorial.net/) - nuget-tutorial.net
 
-## NumPy 
+## NumPy
 
 - [NumPy Tutorial](https://www.guru99.com/numpy-tutorial.html) - Guru99
 - [NumPy Tutorial](https://www.machinelearningplus.com/python/numpy-tutorial-part1-array-python-examples/) - Machine Learning Plus
@@ -991,14 +992,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [Tutorials and FAQ](https://ocaml.org/learn/) - ocaml.org
 - [Try OCaml](https://try.ocamlpro.com/learn-ocaml-demo/) - OCaml Pro
 
-## Perl 
+## Perl
 
 - [Learn Perl](https://www.learn-perl.org/) - learn-perl.org
 - [Learning Perl](https://www.learning-perl.com/) - Brian Foy
 - [Perl Tutorial](https://www.tutorialspoint.com/perl/) - Tutorials Point
 - [Perl Tutorial for Beginners](https://www.guru99.com/perl-tutorials.html) - Guru99
 
-## Personas 
+## Personas
 
 - [7 Core Ideas About Personas and the User Experience](https://measuringu.com/personas-ux/) - Jeff Sauro
 - [An Introduction to Personas and How To Create Them](https://www.steptwo.com.au/papers/kmc_personas/) - Tina Calabria
@@ -1031,7 +1032,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [PL/SQL Tutorial](https://www.tutorialspoint.com/plsql/) - Tutorials Point
 - [PL/SQL Tutorial for Beginners](https://www.guru99.com/pl-sql-tutorials.html) - Guru99
 
-## PMP 
+## PMP
 
 - [Free PMP Practice Test](https://www.simplilearn.com/pmp-exam-prep-free-practice-test) - Simplilearn
 - [Getting PMP Certified: Study Notes, Tips, and Lessons Learned](https://edward-designer.com/web/pmp/) - Edward Designer
@@ -1049,14 +1050,14 @@ This is a list of resources for self-study of software-related topics and skills
 - [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/) - Tutorials Point
 - [PostgreSQL Tutorial for Beginners](https://www.guru99.com/postgresql-tutorial.html) - Guru99
 
-## PowerShell 
+## PowerShell
 
 - [Learning PowerShell](https://github.com/PowerShell/PowerShell/tree/master/docs/learning-powershell) - PowerShell Github
 - [Microsoft Learn: PowerShell](https://docs.microsoft.com/en-us/powershell/) - Microsoft
 - [PowerShell Documentation](https://docs.microsoft.com/en-us/powershell/) - Microsoft
 - [Test-Driving PowerShell Scripts](https://www.leadingagile.com/2018/10/unit-testing-shell-scriptspart-four/) - Dave Nicolette
 
-## Project Management 
+## Project Management
 
 - [6 Essential Project Management Skills They Don't Teach In School](https://www.liquidplanner.com/blog/6-essential-project-management-skills-dont-teach-school/) - Andy Crowe
 - [PMI Learning](https://www.pmi.org/learning/) - PMI
@@ -1094,7 +1095,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Racket Home](https://racket-lang.org/) - racket-lang.org
 
-## Rails 
+## Rails
 
 - [Learn Rails](https://github.com/RailsApps/learn-rails) - RailsApps
 - [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) - Codecademy
@@ -1108,40 +1109,40 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn React for Free](https://scrimba.com/g/glearnreact) - Scrimba
 - [React for Beginners](https://reactforbeginners.com/) - Wes Bos
 
-## Refactoring 
+## Refactoring
 
-- [Advanced Refactoring Part 1: Approvals, Coverage and Mutation Testing](https://www.praqma.com/stories/advanced-testing-refactoring-techniques/) - Emily Bache 
-- [Advanced Refactoring Part 2: Refactoring Item Logic Using Lift Up Conditional](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/) - Emily Bache 
-- [Advanced Refactoring Part 3: Replace Conditional with Polymorphism](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-3/) - Emily Bache 
-- [Can Refactoring Produce Better Code?](https://www.developer.com/tech/article.php/3663781/Can-Refactoring-Produce-Better-Code.htm) - Jeff Langr 
+- [Advanced Refactoring Part 1: Approvals, Coverage and Mutation Testing](https://www.praqma.com/stories/advanced-testing-refactoring-techniques/) - Emily Bache
+- [Advanced Refactoring Part 2: Refactoring Item Logic Using Lift Up Conditional](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-2/) - Emily Bache
+- [Advanced Refactoring Part 3: Replace Conditional with Polymorphism](https://www.praqma.com/stories/advanced-testing-refactoring-techniques-3/) - Emily Bache
+- [Can Refactoring Produce Better Code?](https://www.developer.com/tech/article.php/3663781/Can-Refactoring-Produce-Better-Code.htm) - Jeff Langr
 - [Java Legacy Starter Code](https://github.com/neopragma/java-legacy-starter) and [sample solution](https://github.com/neopragma/java-legacy) - Dave Nicolette
-- [Katas To Practice Refactoring (many)](http://kata-log.rocks/refactoring) - Kata-Log 
+- [Katas To Practice Refactoring (many)](http://kata-log.rocks/refactoring) - Kata-Log
 - [Mars Rover Refactoring Kata](https://ahmadatwi.me/2019/01/23/mars-rover-refactoring-kata/) - Ahmad Atwi
-- [Parallel Change Refactoring](https://www.tddfellow.com/blog/2016/07/31/parallel-change-refactoring/) - Oleksii Fedorov 
-- [Refactoring.com](https://refactoring.com/) - Martin Fowler 
-- [Refactoring Inhibitors](https://agileinaflash.blogspot.com/2010/01/refactoring-inhibitors.html) - Tim Ottinger and Jeff Langr 
-- [Refactoring Kata](http://www.michael-whelan.net/refactoring-kata/) - Michael Whelan 
-- [Refactoring On Purpose](https://www.leadingagile.com/2018/05/refactoring-on-purpose/) - Dave Nicolette 
-- [Refactoring To Patterns](https://www.industriallogic.com/xp/refactoring/) - Joshua Kerievsky 
+- [Parallel Change Refactoring](https://www.tddfellow.com/blog/2016/07/31/parallel-change-refactoring/) - Oleksii Fedorov
+- [Refactoring.com](https://refactoring.com/) - Martin Fowler
+- [Refactoring Inhibitors](https://agileinaflash.blogspot.com/2010/01/refactoring-inhibitors.html) - Tim Ottinger and Jeff Langr
+- [Refactoring Kata](http://www.michael-whelan.net/refactoring-kata/) - Michael Whelan
+- [Refactoring On Purpose](https://www.leadingagile.com/2018/05/refactoring-on-purpose/) - Dave Nicolette
+- [Refactoring To Patterns](https://www.industriallogic.com/xp/refactoring/) - Joshua Kerievsky
 
 ## REST
 
 - [Representational State Transfer - Fielding Dissertation, Chapter 5](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) - Roy Fielding
-- [Representational State Transfer (REST)](https://www.service-architecture.com/articles/web-services/representational_state_transfer_rest.html) - Service Architecture 
+- [Representational State Transfer (REST)](https://www.service-architecture.com/articles/web-services/representational_state_transfer_rest.html) - Service Architecture
 - [REST API Tutorial](https://restfulapi.net/) - (author not identified)
 
-## Retrospectives 
+## Retrospectives
 
 - [Agile Retrospective Resource Wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki) - Retrospective Wiki
 - [Agile Retrospectives](https://agile-retrospectives.com/) - Agile Retrospectives
-- [Fun Retrospectives](http://www.funretrospectives.com/) - Fun Retrospectives 
+- [Fun Retrospectives](http://www.funretrospectives.com/) - Fun Retrospectives
 - [Retrospective Exercises Toolbox](https://www.benlinders.com/exercises/) - Ben Linders
 - [Retrospectives](https://www.atlassian.com/team-playbook/plays/retrospective) - Atlassian
 - [Retrospectives](https://openpracticelibrary.com/practice/retrospectives/) - Tim Beattie
 - [The Second Directive](http://cwd.dhemery.com/2003/06/the_second_directive/) - Dale Emery
 - [What Is a Sprint Retrospective?](https://www.scrum.org/resources/what-is-a-sprint-retrospective) - Scrum.org
 
-## Ruby 
+## Ruby
 
 - [30 Best Ruby Tutorials for Programmers](https://stackify.com/ruby-tutorials/) - Stackify *list of links*
 - [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) - Codecademy
@@ -1155,7 +1156,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Ruby Study Notes](http://rubylearning.com/satishtalim/tutorial.html) - Satish Talim
 - [Try Ruby (browser-based)](https://ruby.github.io/TryRuby/) - (author not identified)
 
-## SAP 
+## SAP
 
 - [ABAP Programming Tutorials](https://www.guru99.com/abap-tutorial.html) - Guru99
 - [APO Tutorial](https://www.guru99.com/overview-of-sap-apo.html) - Guru99
@@ -1179,7 +1180,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Security Tutorial](https://www.guru99.com/overview-of-sap-security.html) - Guru99
 - [Solution Manager Tutorial](https://www.guru99.com/overview-of-sap-solution-manager.html) - Guru99
 
-## Sass 
+## Sass
 
 - [Sass Basics](https://sass-lang.com/guide) - sass-lang.com
 - [Sass Style Guide](https://css-tricks.com/sass-style-guide/) - Chris Coyier
@@ -1211,13 +1212,13 @@ This is a list of resources for self-study of software-related topics and skills
 - [Scrum.org Certification Overview](https://www.scrum.org/index.php/professional-scrum-certifications) - Scrum.org
 - [Dark Scrum](https://ronjeffries.com/articles/016-09ff/defense/) - Ron Jeffries
 
-## Semantic Versioning 
+## Semantic Versioning
 
 - [A Simple Guide to Semantic Versioning](https://www.jvandemo.com/a-simple-guide-to-semantic-versioning/) - Jurgen van de Moere
 - [Semantic Versioning 2.0.0](https://semver.org/) - SemVer
 - [Semantic Versioning: What It Is, Isn't, and Why You Need It](https://www.elegantthemes.com/blog/wordpress/semantic-versioning) - John Hughes
 
-## Servlets 
+## Servlets
 
 - [Java Servlet Technology: The Java EE6 Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/bnafd.html) - Oracle
 - [Servlet Tutorial for Beginners](https://beginnersbook.com/2013/05/servlet-tutorial/) - Beginner's Book
@@ -1229,7 +1230,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Just Do It: Learn Sinatra](https://www.sitepoint.com/just-do-it-learn-sinatra-i/) - SitePoint
 - [Sinatra Documentation](http://sinatrarb.com/documentation.html) - Sinatra
 
-## Software Engineering 
+## Software Engineering
 
 - [Big Ball of Mud](http://laputan.org/mud/) - Foote, Yoder
 - [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/) - Univ of Texas
@@ -1286,10 +1287,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [The 5 Basic Statistics Concepts Data Scientists Need To Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae) - George Seif
 - [Understand and Use Basic Statistics](https://www.wikihow.com/Understand-and-Use-Basic-Statistics) - wikiHow
 
-## Story Points 
+## Story Points
 
 - [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - Joshua Kerievsky
-- [Story Points Revisited](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) - Ron Jeffries 
+- [Story Points Revisited](https://ronjeffries.com/articles/019-01ff/story-points/Index.html) - Ron Jeffries
 - [What Are Story Points?](https://www.mountaingoatsoftware.com/blog/what-are-story-points) - Mike Cohn
 
 ## Swagger
@@ -1310,17 +1311,17 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Tableau Tutorial](https://www.guru99.com/tableau-tutorial.html) - Guru99
 
-## Tachyons 
+## Tachyons
 
 - [Learn Tachyons](https://github.com/dwyl/learn-tachyons) - dwyl
 - [Overview of Tachyons](http://tachyons.io/docs/) - tachyons.io
 - [Tachyons Style Guide](http://tachyons.io/#style) - tachyons.io
 
-## Talend 
+## Talend
 
 - [Talend Tutorial](https://www.guru99.com/talend-tutorial.html) - Guru99
 
-## TensorFlow 
+## TensorFlow
 
 - [TensorFlow Tutorial](https://www.guru99.com/tensorflow-tutorial.html) - Guru99
 
@@ -1329,7 +1330,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn About Provisioning Infrastructure With Terraform](https://learn.hashicorp.com/terraform/) - HashiCorp
 - [Learn DevOps: Infrstructure Automation with Terraform](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/) - Udemy
 
-## Test Automation 
+## Test Automation
 
 - [Blunders in Test Automation](https://www.infoq.com/presentations/test-automation-blunders) - Dorothy Graham
 - [Test Automation Strategies and Techniques](http://angiejones.tech/) - Angie Jones
@@ -1337,7 +1338,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Test Automation vs. Automated Testing](https://www.qasymphony.com/blog/test-automation-automated-testing/) - Kyle McMeekin
 - [Why Test Automation?](https://smartbear.com/solutions/automated-testing/) - Smart Bear
 
-## Test-Driven Development 
+## Test-Driven Development
 
 - [Katas to Learn TDD](http://kata-log.rocks/tdd) - Kata Log
 - [Why TDD Is Hard and What To Do About It](https://davesquared.net/2011/03/why-learning-tdd-is-hard-and-what-to-do.html) - David Tchepak
@@ -1372,9 +1373,9 @@ This is a list of resources for self-study of software-related topics and skills
 - [TDD Swift](https://www.udemy.com/tdd-swift/) - Udemy
 - [TDD Vue](https://learntdd.in/vue/) - Learn TDD in
 
-## Testing 
+## Testing
 
-- [12 Timeless Tips for Web Application Testing](https://www.fromdev.com/2013/03/Web-Application-Testing.html) - (author not identified) 
+- [12 Timeless Tips for Web Application Testing](https://www.fromdev.com/2013/03/Web-Application-Testing.html) - (author not identified)
 - [Black Box Software Testing (article)](http://kaner.com/) - Cem Kaner
 - [Black Box Software Testing (videos)](https://www.youtube.com/watch?v=2g4EqP57l7I) - Cem Kaner
 - [Lisa Crispin's site](https://lisacrispin.com/) - Lisa Crispin
@@ -1383,25 +1384,25 @@ This is a list of resources for self-study of software-related topics and skills
 - [Testing FAQs](http://www.softwareqatest.com/) - Rick Hower
 - [Udemy Software Testing Courses](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=testing) - Udemy
 
-## Unit Testing - C++ 
+## Unit Testing - C++
 
 - [CppUnit Cookbook](http://cppunit.sourceforge.net/doc/cvs/cppunit_cookbook.html) - CppUnit Developers
 
-## Unix/Linux 
+## Unix/Linux
 
 - [Beginner's Guide for Linux](https://www.tecmint.com/free-online-linux-learning-guide-for-beginners/) - Ravi Saive
 - [Command Line Tutorial](https://www.codecademy.com/learn/learn-the-command-line) - Code Academy
-- [Learn Linux YouTube Channel](https://www.youtube.com/channel/UCfp-lNJy4QkIGnaEE6NtDSg) - [TerminalForLife](https://github.com/terminalforlife)
+- [Terminalforlife (LL) YouTube Channel](https://www.youtube.com/channel/UCfp-lNJy4QkIGnaEE6NtDSg) - [Terminalforlife on GitHub](https://github.com/terminalforlife)
 - [LearnShell.org](https://www.learnshell.org/) - (author not identified)
 - [Linux From Scratch](http://www.linuxfromscratch.org/) - Gerard Beekmans
 - [Linux Shell Scripting Tutorial](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite
-- [Linux Survival](https://linuxsurvival.com/) - Guy Hummel 
+- [Linux Survival](https://linuxsurvival.com/) - Guy Hummel
 - [Linux.com Tutorials](https://www.linux.com/tutorials) - The Linux Foundation
 - [Ryan's Tutorials](https://ryanstutorials.net/linuxtutorial/) - Ryan Chadwick
 - [The Complete Beginner's Guide to Linux](https://www.linux.com/learn/complete-beginners-guide-Linux%20) - Jack Wallen
 - [UNIX/Linux Tutorial for Beginners](https://www.guru99.com/unix-linux-tutorial.html) - Guru99
 
-## User Stories 
+## User Stories
 
 - [10 Tips for Writing Good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) - Roman Pichler
 - [How To Split a User Story](https://agileforall.com/resources/how-to-split-a-user-story/) - Richard Lawrence
@@ -1410,7 +1411,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [User Stories and User Story Examples](https://www.mountaingoatsoftware.com/agile/user-stories) - Mike Cohn
 - [User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/) - Jeff Patton
 
-## VBA 
+## VBA
 
 - [Ultimate VBA Tutorial](https://excelmacromastery.com/vba-tutorial-1/) - Paul Kelly
 - [VBA in Excel](https://www.excel-easy.com/vba.html) - Excel-Easy
@@ -1418,7 +1419,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [VBA Tutorial](https://www.tutorialspoint.com/vba/) - Tutorials Point
 - [VBA Tutorial in Excel](https://analysistabs.com/vba-tutorial/) -  AnalysisTabs
 
-## VBScript 
+## VBScript
 
 - [Learn VBScript From Scratch](https://www.softwaretestinghelp.com/vbscript-tutorial-1/) - Software Testing Help
 - [VBScript Functions](https://www.w3schools.com/asp/asp_ref_vbscript_functions.asp) - w3schools
@@ -1432,7 +1433,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [VueJS Tutorial](https://www.tutorialspoint.com/vuejs/) - Tutorials Point
 - [Vue.js 2 Tutorial (Video)](https://www.youtube.com/watch?v=5LYrN_cAJoA) - The Net Ninja
 
-## Web Services 
+## Web Services
 
 - [SOAP Web Services Tutorial](https://www.guru99.com/soap-simple-object-access-protocol.html) - Guru99
 - [Web Services Tutorial](https://www.javatpoint.com/web-services-tutorial) - javaTpoint
@@ -1440,11 +1441,11 @@ This is a list of resources for self-study of software-related topics and skills
 - [Web Services Tutorial for Beginners](https://www.guru99.com/web-services-tutorial.html) - Guru99
 - [XML Web Services](https://www.w3schools.com/xml/xml_services.asp) - w3schools
 
-## Windows 
+## Windows
 
 - [Microsoft Learn: Windows](https://docs.microsoft.com/en-us/windows/) - Microsoft
 
-## Windows Subsystem for Linux 
+## Windows Subsystem for Linux
 
 - [Windows Subsystem for Linux Documentation](https://docs.microsoft.com/en-us/windows/wsl/about) - Microsoft
 
@@ -1454,7 +1455,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [FreeBSD: The X-Window System](https://www.freebsd.org/doc/handbook/x11.html) - FreeBSD.org
 - [Linux: Configuring the X-Window System](https://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/xwindows-configuration.html) - Linux Documentation Project
 - [Linux X-Windows Tutorials](https://www.tutorialspoint.com/listtutorials/linux/xwindows/1) - Tutorials Point
-- [X.org](https://www.x.org/wiki/) - X.org Foundation 
+- [X.org](https://www.x.org/wiki/) - X.org Foundation
 - [X11 on Windows Machines](https://cc.jlab.org/windows/X11onWindows) - Computer Center
 - [X-Windows Programming in C++](https://www.storage-b.com/c/x/23) - James Chappell
 
@@ -1485,7 +1486,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [XML Tutorial](https://www.tutorialspoint.com/xml/) - Tutorials Point
 - [XML Tutorial](https://www.w3schools.com/xml/) - w3schools
 
-## XML Schema 
+## XML Schema
 
 - [XML Schema](https://www.w3.org/standards/xml/schema) - W3C
 - [XML Schemas](https://www.tutorialspoint.com/xml/xml_schemas.htm) - Tutorials Point
