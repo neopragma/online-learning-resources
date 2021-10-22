@@ -520,6 +520,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Visualization](https://www.coursera.org/learn/datavisualization/) - Coursera
 - [Data Visualization in Python](https://www.codecademy.com/learn/data-visualization-python) - Code Academy
 - [Tableau Tutorial](https://www.guru99.com/tableau-tutorial.html) - Guru99
+- [Kibana vs Grafana Comparison](https://logit.io/blog/post/grafana-vs-kibana) - Logit.io
 
 ## Data Warehousing 
 
@@ -546,7 +547,6 @@ This is a list of resources for self-study of software-related topics and skills
 - [Free DevOps Course](https://freedevopscourse.com/) - Adam Hawkins
 - [Introduction to DevOps](https://cloudacademy.com/blog/introduction-to-devops/) - Cloud Academy
 - [Learn DevOps: Beginner's Guide](http://www.releasemanagement.org/2016/03/learn-devops-beginners-guide/) ReleaseManagement.org
-- [LearnDevops Training](http://www.learndevops.in/) - LearnDevops
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
 - [Microsoft Learn: DevOps](https://docs.microsoft.com/en-us/search/index?search=devops) - Microsoft
 
@@ -599,7 +599,6 @@ This is a list of resources for self-study of software-related topics and skills
 - [Elixir Sips](http://elixirsips.com/) - Josh Adams
 - [Getting Started with Elixir](https://www.pluralsight.com/courses/elixir-getting-started) - Plural Sight
 - [Learn Elixir](https://github.com/dwyl/learn-elixir) - dwyl
-- [Learn Elixir](https://elixircasts.io/learn-elixir) - ElixirCasts
 - [Learn Elixir](https://learn-elixir.com/) - learn-elixir.com
 - [Learn Elixir in Y Minutes](https://learnxinyminutes.com/docs/elixir/) - Learn X in Y Minutes
 - [Learn Elixir with Step by Step Screencasts](https://www.learnelixir.tv/) - learnelixir.tv
@@ -786,7 +785,6 @@ This is a list of resources for self-study of software-related topics and skills
 - [Infrastructure As Code](https://infrastructure-as-code.com/) - Kief Morris
 - [Infrastructure As Code](https://www.quickstart.com/infrastructure-as-code.html) - QuickStart
 - [Infrastructure As Code: A Reason To Smile](https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile) - Jafari Sitakange
-- [Infrastructure As Code: Modern Approach to Managing Infrastructure](https://puppet.com/solutions/infrastructure-as-code) - Puppet Labs
 - [Infrastructure As Code Tutorial](https://hackernoon.com/infrastructure-as-code-tutorial-e0353b530527) - Hacker Noon
 - [What Is Infrastructure as Code?](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code) - Microsoft
 
@@ -989,7 +987,6 @@ This is a list of resources for self-study of software-related topics and skills
 - [Best OCaml Tutorials](https://hackr.io/tutorials/learn-ocaml) - hackr.io *list of links*
 - [Learn OCaml in Y Minutes](https://learnxinyminutes.com/docs/ocaml/) - Learn X in Y Minutes
 - [Tutorials and FAQ](https://ocaml.org/learn/) - ocaml.org
-- [Try OCaml](https://try.ocamlpro.com/learn-ocaml-demo/) - OCaml Pro
 
 ## Perl 
 
@@ -1242,7 +1239,6 @@ This is a list of resources for self-study of software-related topics and skills
 ## Specification by Example
 
 - [3 Ways Specification by Example and Gherkin Improve Collaboration](https://dzone.com/articles/3-ways-specification-by-example-with-gherkin-reduc) - Kamil Nicieja
-- [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example) - Alister Scott
 - [Specification by Example](https://gojko.net/books/specification-by-example/) - Gojko Adzic
 - [Specification by Example (slides)](https://www.slideshare.net/dwhelan/specification-by-example-12983304) - Declan Whelan
 - [Specification by Example vs. Behaviour Driven Development](http://itsadeliverything.com/specification-by-example-versus-behaviour-driven-development) - Steven Thomas
@@ -1343,12 +1339,10 @@ This is a list of resources for self-study of software-related topics and skills
 - [Why TDD Is Hard and What To Do About It](https://davesquared.net/2011/03/why-learning-tdd-is-hard-and-what-to-do.html) - David Tchepak
 - [World's Best Intro to TDD](https://online-training.jbrains.ca/p/wbitdd-01) - Joe Rainsberger
 - [Clean Code Episode 6 Part 1: TDD](https://cleancoders.com/episode/clean-code-episode-6-p1/show) - Robert Martin
-- [TDD Kata in C#/F# Using FsCheck](https://www.mnie.me/2016-10-26-TDDKataInFSharpAndCSharpUsingFsCheck/) - Michał Niegrzybowski
 - [TDD C++](http://alexott.net/en/cpp/CppTestingIntro.html) - Alex Ott
 - [TDD C++](https://www.udemy.com/beginning-test-driven-development-in-c/) - Udemy
 - [TDD C++ Embedded](https://wingman-sw.com/training/tdd-embedded-cpp) - James Grenning
 - [TDD C#](https://www.c-sharpcorner.com/uploadfile/dommym/a-test-driven-development-tutorial-in-C-Sharp-4-0/) - C# Corner
-- [TDD Cocoa Touch](https://learntdd.in/cocoa-touch/) - Learn TDD in
 - [TDD Elixir](https://til.codes/tdd-in-elixir-with-exdoc-and-doctests/) - Manu S. Ajith
 - [TDD Elm](https://medium.com/quick-bytes/tdd-with-elm-part-1-40ab3b286a82) - Mountain Goat
 - [TDD Ember](https://learntdd.in/ember/) - Learn TDD in
