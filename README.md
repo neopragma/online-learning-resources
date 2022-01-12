@@ -549,6 +549,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [LearnDevops Training](http://www.learndevops.in/) - LearnDevops
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
 - [Microsoft Learn: DevOps](https://docs.microsoft.com/en-us/search/index?search=devops) - Microsoft
+- [How to Become a DevOps Engineer in Six Months](https://spacelift.io/blog/how-to-become-devops-engineer) - Spacelift
 
 ## Digital Marketing 
 
@@ -789,6 +790,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Infrastructure As Code: Modern Approach to Managing Infrastructure](https://puppet.com/solutions/infrastructure-as-code) - Puppet Labs
 - [Infrastructure As Code Tutorial](https://hackernoon.com/infrastructure-as-code-tutorial-e0353b530527) - Hacker Noon
 - [What Is Infrastructure as Code?](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code) - Microsoft
+- [What Is Infrastructure as Code? Examples, Best Practices & Tools](https://spacelift.io/blog/infrastructure-as-code) - Spacelift
 
 ## Interview Questions
 
@@ -1328,6 +1330,7 @@ This is a list of resources for self-study of software-related topics and skills
 
 - [Learn About Provisioning Infrastructure With Terraform](https://learn.hashicorp.com/terraform/) - HashiCorp
 - [Learn DevOps: Infrstructure Automation with Terraform](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/) - Udemy
+- [Terraform Functions, Expressions, Loops (Examples)](https://spacelift.io/blog/terraform-functions-expressions-loops) - Spacelift
 
 ## Test Automation 
 
