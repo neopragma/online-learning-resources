@@ -362,6 +362,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Science vs. Big Data vs. Data Analytics](https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article) - Shivam Arora
 - [Hadoop - Big Data Overview](https://www.tutorialspoint.com/hadoop/hadoop_big_data_overview.htm) - Tutorials Point
 - [What Is Big Data?](https://www.oracle.com/big-data/guide/what-is-big-data.html) - Oracle
+- [Big Data Science and Big Data Analytics](https://inoxoft.com/service/big-data-analytics-and-machine-learning-services/) - Inoxoft
 
 ## Blockchain 
 
