@@ -275,6 +275,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point
 - [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) - Geeks for Geeks
 - [Top Algorithms and Data Structures You Really Need To Know](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5) - Jason Roell
+- [Data Structure and Algorithm Tutorial](https://www.scaler.com/topics/data-structures/) - Scaler Topics
 
 ## AngularJS 
 
@@ -821,6 +822,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Java Programming: The Definitive Guide](https://www.programiz.com/java-programming) - Parewa Labs
 - [Learn to Program in Java](https://www.quickstart.com/learn-to-program-in-java.html) - QuickStart
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/) - Oracle
+- [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 
 ## Jenkins 
 
@@ -1070,6 +1072,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Python](https://www.learnpython.org/) - LearnPython.org
 - [Learn Python Programming: The Definitive Guide](https://www.programiz.com/python-programming) - Parewa Labs
 - [Python Tutorial for Beginners](https://www.guru99.com/python-tutorials.html) - Guru99
+- [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 
 ## PyTorch
 
