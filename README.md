@@ -250,6 +250,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [Udemy](https://www.udemy.com/)
 - [w3schools](https://www.w3schools.com/)
+- [Scaler](https://www.scaler.com/)
 
 ## Specific Topics
 
@@ -275,6 +276,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point
 - [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) - Geeks for Geeks
 - [Top Algorithms and Data Structures You Really Need To Know](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5) - Jason Roell
+- [Master Data Structures and Algorithms Program](https://www.scaler.com/courses/data-structures-and-algorithms/) - Scaler
 
 ## AngularJS 
 
@@ -513,6 +515,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Data Science](https://www.datascience.com/learn-data-science/topic/data-science) - Oracle + DataScience
 - [Learn Data Science](http://learnds.com/) - Nitin Borwankar
 - [What Is Data Science?](https://www.coursera.org/learn/what-is-datascience) - Coursera + IBM
+- [Data Science Program](https://www.scaler.com/data-science-course/) - Scaler
 
 ## Data Visualization
 
