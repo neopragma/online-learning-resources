@@ -539,6 +539,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [DBMS Tutorial](https://www.guru99.com/dbms-tutorial.html) - Guru99
 - [DBMS Tutorial](https://www.tutorialspoint.com/dbms/) - Tutorials Point
 - [DBMS Tutorial](https://www.w3schools.in/dbms/) - w3schools
+- [DMBS Tutorial](https://www.scaler.com/topics/dbms/) - Scaler Topics
 
 ## DevOps 
 
