@@ -250,6 +250,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [Udemy](https://www.udemy.com/)
 - [w3schools](https://www.w3schools.com/)
+- [Scaler](https://www.scaler.com/topics/)
 
 ## Specific Topics
 
