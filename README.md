@@ -250,6 +250,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Tutorials Point](https://www.tutorialspoint.com/index.htm)
 - [Udemy](https://www.udemy.com/)
 - [w3schools](https://www.w3schools.com/)
+- [InterviewBit](https://www.interviewbit.com/)
 
 ## Specific Topics
 
@@ -260,6 +261,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [.NET Framework and Architecture](https://www.c-sharpcorner.com/UploadFile/puranindia/net-framework-and-architecture/) - C# Corner
 - [Microsoft Learn: .NET](https://docs.microsoft.com/en-us/search/index?search=.NET) - Microsoft
 - [Understanding .NET Framework 4.5 Architecture](https://www.dotnettricks.com/learn/netframework/understanding-net-framework-45-architecture) - Dotnet Tricks
+- [.Net Interview](https://www.interviewbit.com/dot-net-interview-questions/)
 
 ## Accounting 
 
@@ -275,6 +277,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point
 - [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/) - Geeks for Geeks
 - [Top Algorithms and Data Structures You Really Need To Know](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5) - Jason Roell
+- [Data Structures and Algorithms](https://www.interviewbit.com/courses/programming/)
 
 ## AngularJS 
 
@@ -290,6 +293,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn AngularJS 1.x](https://www.codecademy.com/learn/learn-angularjs) - Code Academy
 - [Learn AngularJS Step By Step](https://www.learnangularjs.net/) - learnangularjs.net
 - [Write Code. Learn Angular.](http://www.learn-angular.org/) - learn-angular.org
+- [AngularJs Interview](https://www.interviewbit.com/angularjs-interview-questions/)
 
 ## Apache 
 
@@ -311,6 +315,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [NLTK Toolkit Tutorial with Python](https://www.guru99.com/nltk-tutorial.html) - Guru99
 - [PyTorch Tutorial](https://www.guru99.com/pytorch-tutorial.html) - Guru99
 - [TensorFlow Tutorial](https://www.guru99.com/tensorflow-tutorial.html) - Guru99
+- [Artificial Intelligence Interview](https://www.interviewbit.com/artificial-intelligence-interview-questions/)-InterviewBit
 
 ## ASP.NET 
 
@@ -320,6 +325,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn ASP.NET](https://www.codeproject.com/Learn/ASPNET/) - CodeProject
 - [Learn ASP.NET: 30 Tutorials](https://stackify.com/learn-asp-net-tutorials/) - *list of links*
 - [Microsoft Learn: ASP.NET](https://docs.microsoft.com/en-us/aspnet/) - Microsoft
+- [ASP.NET Interview](https://www.interviewbit.com/asp-net-interview-questions/)
 
 ## AWS 
 
@@ -328,6 +334,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Introduction to AWS](https://acloud.guru/learn/aws-technical-essentials) - A Cloud Guru
 - [Introduction to AWS Fargate](https://www.learnaws.org/) - learnaws.org
 - [Learn Amazon Web Services: Complete Introduction](https://www.udemy.com/learn-amazon-web-services-the-complete-introduction/) - Udemy
+- [AWS Cheat Sheet](https://www.interviewbit.com/aws-cheat-sheet/)
 
 ## Azure
 
@@ -362,6 +369,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Data Science vs. Big Data vs. Data Analytics](https://www.simplilearn.com/data-science-vs-big-data-vs-data-analytics-article) - Shivam Arora
 - [Hadoop - Big Data Overview](https://www.tutorialspoint.com/hadoop/hadoop_big_data_overview.htm) - Tutorials Point
 - [What Is Big Data?](https://www.oracle.com/big-data/guide/what-is-big-data.html) - Oracle
+- [Big Data Interview](https://www.interviewbit.com/big-data-interview-questions/)
 
 ## Blockchain 
 
@@ -398,6 +406,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Codewars](https://www.codewars.com/) - Qualified 
 - [Learn C](https://www.learn-c.org/) - learn-c.org
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
+- [C Programming](https://www.interviewbit.com/c-interview-questions/) - InterviewBit
 
 ## C++ Programming 
 
@@ -418,6 +427,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [LearnCpp](https://www.learncpp.com/) - LearnCpp.com
 - [Microsoft Learn: C++](https://docs.microsoft.com/en-us/cpp/?view=vs-2019) - Microsoft
 - [Tutorials](https://www.cprogramming.com/) - CProgramming.com
+- [C++ Programming](https://www.interviewbit.com/cpp-interview-questions/) - InterviewBit
 
 ## C# Programming 
 
@@ -427,6 +437,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Introduction to C#](https://www.quickstart.com/introduction-to-c-sharp.html) QuickStart
 - [Microsoft Learn: C#](https://docs.microsoft.com/en-us/search/index?search=C%23) - Microsoft
 - [Programming With C#](https://www.quickstart.com/programming-with-c.html) - QuickStart
+- [C# Programming](https://www.interviewbit.com/c-sharp-interview-questions/) - InterviewBit
 
 ## Cassandra 
 
@@ -446,6 +457,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Free CCNA Practice Tests](http://www.practicetestbank.com/ccna/tests) - Practice Test Bank
 - [Free CCNA Workbook and Practice Exam](https://www.freeccnaworkbook.com/) - Free CCNA Workbook
 - [Preparing for the CCNA Exam](https://www.thoughtco.com/preparing-for-the-ccna-exam-4006639) - ThoughtCo
+- [CCNA Interview](https://www.interviewbit.com/ccna-interview-questions/) -IntervieBit
 
 ## Clojure Programming 
 
@@ -465,6 +477,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Cloud Concepts: Principles of Cloud Computing](https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/) - Microsoft
 - [Introduction to Cloud Computing](https://www.ibm.com/cloud/learn) - IBM
 - [Learn Cloud Computing](https://cloudacademy.com/blog/prerequisites-to-learn-cloud-computing-introduction/) - Cloud Academy
+- [Cloud Computing Technical Interview](https://www.interviewbit.com/cloud-computing-interview-questions/) - InterviewBit
 
 ## CodeIgniter
 
@@ -513,6 +526,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Data Science](https://www.datascience.com/learn-data-science/topic/data-science) - Oracle + DataScience
 - [Learn Data Science](http://learnds.com/) - Nitin Borwankar
 - [What Is Data Science?](https://www.coursera.org/learn/what-is-datascience) - Coursera + IBM
+- [Data Science Technical Interview](https://www.interviewbit.com/data-science-interview-questions/) - InterviewBit
 
 ## Data Visualization
 
@@ -539,6 +553,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [DBMS Tutorial](https://www.guru99.com/dbms-tutorial.html) - Guru99
 - [DBMS Tutorial](https://www.tutorialspoint.com/dbms/) - Tutorials Point
 - [DBMS Tutorial](https://www.w3schools.in/dbms/) - w3schools
+- [DBMS Technical Interview](https://www.interviewbit.com/dbms-interview-questions/) - InterviewBit
 
 ## DevOps 
 
@@ -549,6 +564,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [LearnDevops Training](http://www.learndevops.in/) - LearnDevops
 - [Learning Azure DevOps](https://www.linkedin.com/learning/learning-azure-devops) - Jose Allende
 - [Microsoft Learn: DevOps](https://docs.microsoft.com/en-us/search/index?search=devops) - Microsoft
+- [Devops Technical Interview](https://www.interviewbit.com/devops-interview-questions/) - InterviewBit
 
 ## Digital Marketing 
 
@@ -573,6 +589,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Getting Started With Docker: Simplifying DevOps](https://www.toptal.com/devops/getting-started-with-docker-simplifying-devops) - Radek Ostrowski
 - [Getting Started With Docker (Video)](https://www.youtube.com/watch?v=Vyp5_F42NGs) - Mark Takacs
 - [Play With Docker Classroom](https://training.play-with-docker.com/) - Play With Docker
+- [Docker Technical Interview](https://www.interviewbit.com/docker-interview-questions/) - InterviewBit
 
 ## ECMAScript
 
@@ -969,6 +986,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [NumPy Tutorial](https://www.tutorialspoint.com/numpy/index.htm) - Tutorials Point
 - [NumPy Tutorial: Data Analysis With Python](https://www.dataquest.io/blog/numpy-tutorial-python/) - Dataquest
 - [Python NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) - Justin Johnson
+- [NumPY Technical Interview](https://www.interviewbit.com/numpy-interview-questions/) - InterviewBit
 
 ## Observability
 
@@ -1252,6 +1270,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
 - [SQL Tutorial](https://www.w3schools.com/sql/) - w3schools
 - [SQL Tutorial for Beginners](https://www.guru99.com/sql.html) - Guru99
+- [SQL Technical Interview](https://www.interviewbit.com/sql-interview-questions/) - InterviewBit
 
 ## SQLite
 
