@@ -757,6 +757,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [HTML5 Tutorial](http://html.net/tutorials/html5/) - HTML.net
 - [Learn HTML and CSS](https://www.learn-html.org/) - learn-html.org
 - [Learn to Code HTML and CSS](https://learn.shayhowe.com/html-css/) - Shay Howe
+- [Learn HTML in detail](https://www.scaler.com/topics/html/) - Scaler Topics
 - [Rendera - Online HTML/CSS Testing](http://rendera.herokuapp.com/) - Brian Hogan
 - [W3C Markup Validation Service](https://validator.w3.org/) - W3C
 - also see [Haml](#haml), [Sass](#sass), [Less](#less), Tachyons(#tachyons)
