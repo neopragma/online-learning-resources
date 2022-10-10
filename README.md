@@ -821,6 +821,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Java Programming: The Definitive Guide](https://www.programiz.com/java-programming) - Parewa Labs
 - [Learn to Program in Java](https://www.quickstart.com/learn-to-program-in-java.html) - QuickStart
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/) - Oracle
+- [Learn Java Programming In Detail](https://www.scaler.com/topics/java/) - Scaler Topics
 
 ## Jenkins 
 
