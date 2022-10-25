@@ -1252,6 +1252,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [SQL Tutorial](http://www.sql-tutorial.net/) - sql-tutorial.net
 - [SQL Tutorial](https://www.w3schools.com/sql/) - w3schools
 - [SQL Tutorial for Beginners](https://www.guru99.com/sql.html) - Guru99
+- [SQL Tutorial](https://www.scaler.com/topics/sql/)
 
 ## SQLite
 
