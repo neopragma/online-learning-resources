@@ -751,6 +751,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [CSS Style Guides](https://css-tricks.com/css-style-guides/) - Chris Coyier
 - [CSS Tutorial](http://html.net/tutorials/css/) - HTML.net
 - [CSS Tutorial](https://www.tutorialspoint.com/css/) - Tutorials Point
+- [Learn CSS in Detail](https://www.scaler.com/topics/css/) - Scaler Topics
 - [CSS Tutorial](https://www.w3schools.com/Css/) - w3schools
 - [CSS Zen Garden: The Beauty of CSS Design](http://www.csszengarden.com/) - Dave Shea
 - [HTML Tutorials](https://www.w3schools.com/html/default.asp) - w3schools
