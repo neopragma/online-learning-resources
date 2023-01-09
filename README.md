@@ -1070,6 +1070,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Learn Python](https://www.learnpython.org/) - LearnPython.org
 - [Learn Python Programming: The Definitive Guide](https://www.programiz.com/python-programming) - Parewa Labs
 - [Python Tutorial for Beginners](https://www.guru99.com/python-tutorials.html) - Guru99
+- [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 
 ## PyTorch
 
