@@ -170,6 +170,7 @@ This is a list of resources for self-study of software-related topics and skills
 - [Scrum](#scrum)
 - [SCSS](#sass)
 - [Semantic Versioning](#semantic-versioning)
+- [Selenium](https://artoftesting.com/selenium-tutorial)
 - [Servlets](#servlets)
 - [Sinatra](#sinatra)
 - [Software Engineering](#software-engineering)
